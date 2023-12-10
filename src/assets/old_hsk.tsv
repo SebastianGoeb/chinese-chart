@@ -1,0 +1,5001 @@
+Level	No	Chinese	Pinyin	English
+1	1	我	wǒ	I, me
+1	2	我们	wǒmen	we, us (pl.)
+1	3	你	nǐ	you
+1	4	他	tā	he, him
+1	5	她	tā	she, her
+1	6	这 (这儿)	zhè ( zhèr)	this (here)
+1	7	那 (那儿)	nà (nàr)	that (there)
+1	8	哪	nǎ	which
+1	9	哪儿	nǎr	where
+1	10	谁	shéi	who
+1	11	什么	shénme	what, why
+1	12	多少	duōshǎo	how many, how much
+1	13	几	jǐ	a few, how many
+1	14	怎么	zěnme	how
+1	15	怎么样	zěnmeyàng	how about
+1	16	一	yī	one
+1	17	二	èr	two
+1	18	三	sān	three
+1	19	四	sì	four
+1	20	五	wǔ	five
+1	21	六	liù	six
+1	22	七	qī	seven
+1	23	八	bā	eight
+1	24	九	jiǔ	nine
+1	25	十	shí	ten
+1	26	个	gè	(for normal objects)
+1	27	岁	suì	(for age)
+1	28	本	běn	(for books)
+1	29	些	xiē	some
+1	30	块	kuài	piece, chunk
+1	31	不	bù	no
+1	32	没	méi	no
+1	33	很	hěn	quite, very
+1	34	太	tài	too
+1	35	都	dōu	all
+1	36	一点儿	yīdiǎnr	a little bit
+1	37	和	hé	and
+1	38	在	zài	in, at
+1	39	的	de	
+1	40	了	le	
+1	41	吗	ma	
+1	42	呢	ne	
+1	43	喂	wèi	hello
+1	44	家	jiā	home
+1	45	学校	xuéxiào	school
+1	46	饭店	fàndiàn	restaurant
+1	47	商店	shāngdiàn	store
+1	48	医院	yīyuàn	hospital
+1	49	中国	Zhōngguò	China
+1	50	北京	Běijīng	Beijing
+1	51	上	shàng	up
+1	52	下	xià	down
+1	53	前面	qiánmiàn	front
+1	54	后面	hòumiàn	behind
+1	55	里	lǐmiàn	inside
+1	56	今天	jīntiān	today
+1	57	明天	míngtiān	tomorrow
+1	58	昨天	zuótiān	yesterday
+1	59	上午	shàngwǔ	morning
+1	60	中午	zhōngwǔ	noon
+1	61	下午	xiàwǔ	afternoon
+1	62	年	nián	year
+1	63	月	yuè	month
+1	64	号	hào	number/date
+1	65	星期	xīngqī	week
+1	66	点	diǎn	o’clock
+1	67	分钟	fēnzhōng	minute
+1	68	现在	xiànzài	now
+1	69	时候	shíhou	time
+1	70	爸爸	bàba	father
+1	71	妈妈	māma	mother
+1	72	儿子	érzi	son
+1	73	女儿	nǚér	daughter
+1	74	老师	lǎoshī	teacher
+1	75	学生	xuéshēng	student
+1	76	同学	tóngxué	classmate
+1	77	朋友	péngyǒu	friend
+1	78	医生	yīshēng	doctor
+1	79	先生	xiānsheng	sir
+1	80	小姐	xiǎojiě	Miss
+1	81	衣服	yīfu	cloth
+1	82	水	shuǐ	water
+1	83	菜	cài	dish
+1	84	米饭	mǐfàn	rice
+1	85	水果	shuǐguǒ	fruit
+1	86	苹果	píngguǒ	apple
+1	87	茶	chá	tea
+1	88	杯子	bēizi	cup
+1	89	钱	qián	money
+1	90	飞机	fēijī	airplane
+1	91	出租车	chūzūchē	taxi
+1	92	电视	diànshì	television
+1	93	电脑	diànnǎo	computer
+1	94	电影	diànyǐng	movie
+1	95	天气	tiānqì	weather
+1	96	猫	māo	cat
+1	97	狗	gǒu	dog
+1	98	东西	dōngxi	thing
+1	99	人	rén	person
+1	100	名字	míngzi	name
+1	101	书	shū	book
+1	102	汉语	hànyǔ	mandarin Chinese
+1	103	字	zì	character
+1	104	桌子	zhuōzi	desk
+1	105	椅子	yǐzi	chair
+1	106	谢谢	xièxie	thank
+1	107	不客气	búkèqì	you are welcome
+1	108	再见	zàijiàn	good-bye
+1	109	请	qǐng	please
+1	110	对不起	duìbùqǐ	sorry
+1	111	没关系	méiguānxì	It doesn’t matter
+1	112	是	shì	be (am, is, are)
+1	113	有	yǒu	have
+1	114	看	kàn	look
+1	115	听	tīng	listen
+1	116	说	shuō	speak
+1	117	读	dú	read
+1	118	写	xiě	write
+1	119	看见	kànjiàn	see
+1	120	叫	jiào	call
+1	121	来	lái	come
+1	122	回	huí	return
+1	123	去	qù	go
+1	124	吃	chī	eat
+1	125	喝	hē	drink
+1	126	睡觉	shuìjiào	sleep
+1	127	打电话	dǎdiànhuà	make phone call
+1	128	做	zuò	do
+1	129	买	mǎi	buy
+1	130	开	kāi	open
+1	131	坐	zuò	sit
+1	132	住	zhù	live
+1	133	学习	xuéxí	study
+1	134	工作	gōngzuò	work
+1	135	下雨	xiàyǔ	rain
+1	136	爱	ài	love
+1	137	喜欢	xǐhuān	love, like
+1	138	想	xiǎng	want
+1	139	认识	rènshi	know
+1	140	会	huì	can
+1	141	能	néng	can, be able to
+1	142	好	hǎo	good
+1	143	大	dà	big
+1	144	小	xiǎo	small
+1	145	多	duō	many, much
+1	146	少	shǎo	few, little
+1	147	冷	lěng	cold
+1	148	热	rè	hot
+1	149	高兴	gāoxìng	happy
+1	150	漂亮	piàoliang	beautiful
+2	1	您	nín	you
+2	2	它	tā	it
+2	3	大家	dàjiā	everyone
+2	4	每	měi	every, each
+2	5	为什么	wèishénme	why
+2	6	零	líng	zero
+2	7	两	liǎng	two
+2	8	百	bǎi	hundred
+2	9	千	qiān	thousand
+2	10	第一	dìyī	first
+2	11	次	cì	times
+2	12	件	jiàn	piece
+2	13	别	bié	do not
+2	14	非常	fēicháng	very
+2	15	也	yě	also
+2	16	还	hái	still
+2	17	最	zuì	the most
+2	18	真	zhēn	really
+2	19	正在	zhèngzài	be being
+2	20	已经	yǐjīng	already
+2	21	一起	yìqǐ	together
+2	22	再	zài	again
+2	23	就	jiǜ	at once
+2	24	因为……所以……	yīnwèi…suǒyǐ…	because…so…
+2	25	虽然……但是……	suīrán…dànshì…	although… but…
+2	26	从	cóng	from
+2	27	比	bǐ	comparing to
+2	28	往	wǎng	toward, to
+2	29	离	lí	indicate the distance between two objects
+2	30	得	de	
+2	31	着	zhe	
+2	32	过	guò	
+2	33	吧	ba	
+2	34	机场	jīchǎng	airport
+2	35	教室	jiàoshì	classroom
+2	36	房间	fángjiān	room
+2	37	路	lù	road
+2	38	左边	zuǒbiān	left
+2	39	右边	yòubiān	right
+2	40	外	wài	outside
+2	41	旁边	pángbiān	side
+2	42	一下	yīxià	in a short while
+2	43	早上	zǎoshàng	morning
+2	44	晚上	wǎnshàng	night
+2	45	小时	xiǎoshí	hour
+2	46	时间	shíjiān	time
+2	47	去年	qùnián	last year
+2	48	日	rì	date
+2	49	生日	shēngrì	birthday
+2	50	哥哥	gēge	older brother
+2	51	姐姐	jiějie	older sister
+2	52	弟弟	dìdi	younger brother
+2	53	妹妹	mèimei	younger sister
+2	54	丈夫	zhàngfu	husband
+2	55	妻子	qīzi	wife
+2	56	孩子	háizi	child
+2	57	男人	nánrén	man
+2	58	女人	nǚrén	woman
+2	59	服务员	fúwùyuán	waiter
+2	60	鱼	yú	fish
+2	61	羊肉	yángròu	mutton
+2	62	牛奶	niúnǎi	milk
+2	63	鸡蛋	jīdàn	egg
+2	64	西瓜	xīguā	watermelon
+2	65	咖啡	kāfēi	coffee
+2	66	雪	xuě	snow
+2	67	药	yào	medicine
+2	68	手机	shǒujī	cellphone
+2	69	手表	shǒubiǎo	watch
+2	70	眼睛	yǎnjīng	eye
+2	71	身体	shēntǐ	body
+2	72	公共汽车	gōnggòngqìchē	bus
+2	73	报纸	bàozhǐ	newspaper
+2	74	门	mén	door
+2	75	题	tí	topic, item
+2	76	课	kè	lesson
+2	77	姓	xìng	surname
+2	78	问题	wèntí	question
+2	79	事情	shìqing	matter
+2	80	考试	kǎoshì	exam
+2	81	票	piào	ticket
+2	82	意思	yìsi	meaning
+2	83	颜色	yánsè	color
+2	84	铅笔	qiánbǐ	pencil
+2	85	面条	miàntiáo	noodle
+2	86	火车站	huǒchēzhàn	train station
+2	87	公司	gōngsī	company
+2	88	宾馆	bīngguǎn	hotel
+2	89	说话	shuōhuà	talk
+2	90	卖	mài	sell
+2	91	问	wèn	ask
+2	92	走	zǒu	walk
+2	93	进	jìn	enter
+2	94	出	chū	come
+2	95	跑步	pǎobù	run
+2	96	到	dào	arrive
+2	97	穿	chuān	wear
+2	98	洗	xǐ	wash
+2	99	给	gěi	give
+2	100	找	zhǎo	find
+2	101	懂	dǒng	understand
+2	102	笑	xiào	smile
+2	103	告诉	gàosù	tell
+2	104	准备	zhǔnbèi	prepare
+2	105	开始	kāishǐ	begin
+2	106	介绍	jièshào	introduce
+2	107	帮助	bāngzhù	help
+2	108	玩	wán	play
+2	109	送	sòng	present
+2	110	等	děng	wait
+2	111	让	ràng	let
+2	112	起床	qǐchuáng	get up
+2	113	唱歌	chànggē	sing
+2	114	跳舞	tiàowǔ	dance
+2	115	旅游	lǚyóu	travel
+2	116	上班	shàngbān	be on duty
+2	117	生病	shēngbìng	get ill, get sick
+2	118	休息	xiūxi	rest
+2	119	运动	yùndòng	exercise
+2	120	游泳	yóuyǒng	swim
+2	121	踢足球	tīzúqiú	play footbal
+2	122	打篮球	dǎlánqiú	play basketball
+2	123	完	wán	finish
+2	124	觉得	juédé	think
+2	125	知道	zhīdao	know
+2	126	希望	xīwàng	hope
+2	127	可以	kěyǐ	can
+2	128	要	yào	want
+2	129	可能	kěnéng	may
+2	130	高	gāo	tall
+2	131	红	hóng	red
+2	132	白	bái	white
+2	133	黑	hēi	black
+2	134	忙	máng	busy
+2	135	快	kuài	fast
+2	136	慢	màn	slow
+2	137	远	yuǎn	far
+2	138	近	jìn	close
+2	139	好吃	hǎochī	delicious
+2	140	累	lèi	tired
+2	141	长	cháng	long
+2	142	新	xīn	new
+2	143	贵	guì	expensive
+2	144	便宜	piányi	cheap
+2	145	晴	qíng	fine
+2	146	阴	yīn	cloudy
+2	147	错	cuò	wrong
+2	148	快乐	kuàilè	happy
+2	149	对	duì	to
+2	150	对	duì	right
+3	1	阿姨	āyí	aunt
+3	2	啊	a	ah
+3	3	矮	ǎi	short
+3	4	爱好	àihào	hobby
+3	5	安静	ānjìng	Be quiet
+3	6	把	bǎ	hold
+3	7	班	bān	class
+3	8	搬	bān	move
+3	9	半	bàn	half
+3	10	办法	bànfǎ	Way
+3	11	办公室	bàngōngshì	Office
+3	12	帮忙	bāngmáng	Help
+3	13	包	bāo	package
+3	14	饱	bǎo	full
+3	15	北方	běifāng	north
+3	16	被	bèi	cover
+3	17	鼻子	bízi	nose
+3	18	比较	bǐjiào	compare
+3	19	比赛	bǐsài	Match
+3	20	笔记本	bǐjìběn	notebook
+3	21	必须	bìxū	Must
+3	22	变化	biànhuà	change
+3	23	别人	biéren	Others
+3	24	冰箱	bīngxiāng	Refrigerator
+3	25	菜单	càidān	menu
+3	26	参加	cānjiā	participate in
+3	27	草	cǎo	grass
+3	28	层	céng	layer
+3	29	差	chà	bad
+3	30	超市	chāoshì	Supermarket
+3	31	衬衫	chènshān	shirt
+3	32	成绩	chéngjì	achievement
+3	33	城市	chéngshì	City
+3	34	迟到	chídào	Late
+3	35	除了	chúle	except, besides
+3	36	船	chuán	ship
+3	37	春	chūn	spring
+3	38	词典	cídiǎn	Dictionaries
+3	39	聪明	cōngming	clever
+3	40	打扫	dǎsǎo	Clean
+3	41	打算	dǎsuàn	Plan
+3	42	带	dài	belt
+3	43	担心	dānxīn	Worry
+3	44	蛋糕	dàngāo	Cake
+3	45	当然	dāngrán	Of course
+3	46	地	de	
+3	47	灯	dēng	lamp
+3	48	地方	dìfang	local
+3	49	地铁	dìtiě	metro
+3	50	地图	dìtú	Map
+3	51	电梯	diàntī	Elevator.
+3	52	电子邮件	diànzǐyóujiàn	E-mail
+3	53	东	dōng	east
+3	54	冬	dōng	winter
+3	55	动物	dòngwù	Animal
+3	56	短	duǎn	short
+3	57	段	duàn	paragraph
+3	58	锻炼	duànliàn	Physical exercise
+3	59	多么	duōme	such
+3	60	饿	è	hungry
+3	61	不但……而且……	búdàn…érqiě…	not only…but also…
+3	62	耳朵	ěrduo	Ears
+3	63	发	fā	send out
+3	64	发烧	fāshāo	Have a fever
+3	65	发现	fāxiàn	find, discover
+3	66	方便	fāngbiàn	convenient
+3	67	放	fàng	discharge
+3	68	放心	fàngxīn	Don’t worry
+3	69	分	fēn	minute
+3	70	附近	fùjìn	nearby
+3	71	复习	fùxí	Review
+3	72	干净	gānjìng	clean
+3	73	感兴趣	gǎnxìngqù	be intretested in
+3	74	感冒	gǎnmào	get a cold
+3	75	刚才	gāngcái	just
+3	76	个子	gèzi	height
+3	77	跟	gēn	with
+3	78	根据	gēnjù	according to
+3	79	更	gèng	more
+3	80	公斤	gōngjīn	Kg.
+3	81	公园	gōngyuán	Park
+3	82	故事	gùshi	Story
+3	83	刮风	guāfēng	Windy
+3	84	关	guān	shut
+3	85	关系	guānxì	relationship
+3	86	关心	guānxīn	Care for
+3	87	关于	guānyú	about
+3	88	国家	guójiā	Country
+3	89	过去	guòqù	Past times
+3	90	过（动词）	guò	pass
+3	91	还是	háishì	still
+3	92	害怕	hàipà	Fear
+3	93	黑板	hēibǎn	blackboard
+3	94	后来	hòulái	later
+3	95	护照	hùzhào	passport
+3	96	花（动词）	huā	spend
+3	97	花（名词）	huā	flower
+3	98	画	huà	painting
+3	99	坏	huài	bad
+3	100	欢迎	huānyíng	Welcome
+3	101	还（动词）	huán	Return
+3	102	环境	huánjìng	Environment
+3	103	换	huàn	change
+3	104	黄河	huánghé	Yellow River
+3	105	回答	huídá	Answer
+3	106	会议	huìyì	Meeting
+3	107	或者	huòzhě	perhaps
+3	108	几乎	jīhū	almost
+3	109	机会	jīhuì	Opportunity
+3	110	极	jí	extremely
+3	111	记得	jìde	remember
+3	112	季节	jìjié	Season
+3	113	检查	jiǎnchá	inspect
+3	114	简单	jiǎndān	simple
+3	115	健康	jiànkāng	Healthy
+3	116	见面	jiànmiàn	meet
+3	117	讲	jiǎng	speak
+3	118	教	jiāo	teach
+3	119	角	jiǎo	horn
+3	120	脚	jiǎo	foot
+3	121	接	jiē	pick,get
+3	122	街道	jiēdào	Street
+3	123	结婚	jiéhūn	marry
+3	124	结束	jiéshù	End
+3	125	节目	jiémù	program
+3	126	节日	jiérì	festival
+3	127	解决	jiějué	Solve
+3	128	借	jiè	borrow
+3	129	经常	jīngcháng	Often
+3	130	经过	jīngguò	After, through
+3	131	经理	jīnglǐ	manager
+3	132	久	jiǔ	long
+3	133	旧	jiù	old,used
+3	134	句子	jùzi	sentence
+3	135	决定	juédìng	Decision
+3	136	渴	kě	thirsty
+3	137	可爱	kě’ài	Lovely
+3	138	刻	kè	moment
+3	139	客人	kèrén	Guest
+3	140	空调	kōngtiáo	Air conditioner
+3	141	口	kǒu	mouth
+3	142	哭	kū	cry
+3	143	裤子	kùzi	trousers
+3	144	筷子	kuàizi	chopsticks
+3	145	蓝	lán	blue
+3	146	老	lǎo	old
+3	147	离开	líkāi	leave
+3	148	礼物	lǐwù	gift
+3	149	历史	lìshǐ	History
+3	150	脸	liǎn	face
+3	151	聊天	liáotiān	chat
+3	152	练习	liànxí	Practice
+3	153	辆	liàng	Car
+3	154	了解	liǎojiě	understand
+3	155	邻居	línjū	neighbor
+3	156	留学	liúxué	Overseas Study
+3	157	楼	lóu	floor
+3	158	绿	lǜ	green
+3	159	马	mǎ	Horse
+3	160	马上	mǎshàng	Right off
+3	161	满意	mǎnyì	Satisfied
+3	162	帽子	màozi	Hat
+3	163	米	mǐ	rice
+3	164	面包	miànbāo	Bread
+3	165	明白	míngbai	clear
+3	166	拿	ná	take
+3	167	奶奶	nǎinai	grandma
+3	168	南	nán	south
+3	169	难	nán	difficult
+3	170	难过	nánguò	sad
+3	171	年级	niánjí	grade
+3	172	年轻	niánqīng	Young
+3	173	鸟	niǎo	bird
+3	174	努力	nǔlì	Strive
+3	175	爬山	páshān	Mountain climbing
+3	176	盘子	pánzi	plate
+3	177	胖	pàng	fat
+3	178	啤酒	píjiǔ	Beer
+3	179	皮鞋	píxié	leather shoes
+3	180	瓶子	píngzi	bottle
+3	181	其实	qíshí	actually
+3	182	其他	qítā	Other
+3	183	骑	qí	ride
+3	184	奇怪	qíguài	strange
+3	185	起来	qǐlái	get up
+3	186	起飞	qǐfēi	take off
+3	187	清楚	qīngchu	clear
+3	188	请假	qǐngjià	ask for leave
+3	189	秋	qiū	autumn
+3	190	裙子	qúnzi	skirt
+3	191	然后	ránhòu	Then
+3	192	热情	rèqíng	Enthusiasm
+3	193	认为	rènwéi	think
+3	194	认真	rènzhēn	earnest
+3	195	容易	róngyì	easily
+3	196	如果	rúguǒ	If
+3	197	伞	sǎn	umbrella
+3	198	上网	shàngwǎng	Surf the Internet
+3	199	生气	shēngqì	get angry
+3	200	声音	shēngyīn	voice
+3	201	试	shì	try
+3	202	世界	shìjiè	world
+3	203	瘦	shòu	thin
+3	204	舒服	shūfu	comfortable
+3	205	叔叔	shūshu	uncle
+3	206	树	shù	tree
+3	207	数学	shùxué	Mathematics
+3	208	刷牙	shuāyá	Brush one’s teeth
+3	209	双	shuāng	double, pair
+3	210	水平	shuǐpíng	level
+3	211	司机	sījī	Driver
+3	212	太阳	tàiyáng	sun
+3	213	特别	tèbié	Especially
+3	214	疼	téng	hurt
+3	215	提高	tígāo	increase
+3	216	体育	tǐyù	Sports
+3	217	甜	tián	sweet
+3	218	条	tiáo	strip
+3	219	同事	tóngshì	Colleague
+3	220	同意	tóngyì	Agree
+3	221	头发	tóufa	Hair
+3	222	突然	tūrán	suddenly
+3	223	图书馆	túshūguǎn	Library
+3	224	腿	tuǐ	leg
+3	225	完成	wánchéng	complete
+3	226	碗	wǎn	bowl
+3	227	万	wàn	ten thousand
+3	228	忘记	wàngjì	forget
+3	229	为	wèi	for
+3	230	为了	wèile	in order to
+3	231	位	wèi	position
+3	232	文化	wénhuà	Culture
+3	233	西	xī	west
+3	234	习惯	xíguàn	Habit
+3	235	洗手间	xǐshǒujiān	Restroom
+3	236	洗澡	xǐzǎo	Take a shower
+3	237	夏	xià	summer
+3	238	先	xiān	first
+3	239	香蕉	xiāngjiāo	Banana
+3	240	相信	xiāngxìn	believe
+3	241	向	xiàng	towards
+3	242	像	xiàng	image
+3	243	小心	xiǎoxīn	watch out
+3	244	校长	xiàozhǎng	Principal
+3	245	新闻	xīnwén	news
+3	246	新鲜	xīnxiān	fresh
+3	247	信用卡	xìnyòngkǎ	Credit card
+3	248	行李箱	xínglixiāng	Trunk
+3	249	熊猫	xióngmāo	Panda
+3	250	需要	xūyào	Need
+3	251	选择	xuǎnzé	Choice
+3	252	要求	yāoqiú	Requirement
+3	253	爷爷	yéye	grandpa
+3	254	一定	yídìng	Certain
+3	255	一共	yígòng	Altogether
+3	256	一会儿	yíhuìr	a while
+3	257	一样	yíyàng	equally
+3	258	以前	yǐqián	before
+3	259	一般	yìbān	commonly
+3	260	一边	yìbiān	One side
+3	261	一直	yìzhí	always
+3	262	音乐	yīnyuè	Music
+3	263	银行	yínháng	Bank
+3	264	饮料	yǐnliào	Drinks
+3	265	应该	yīnggāi	Should
+3	266	影响	yǐngxiǎng	Influence
+3	267	用	yòng	use
+3	268	游戏	yóuxì	Game
+3	269	有名	yǒumíng	Famous
+3	270	又	yòu	again
+3	271	遇到	yùdào	encounter
+3	272	元	yuán	element; yuan
+3	273	愿意	yuànyì	Be willing
+3	274	月亮	yuèliang	Moon
+3	275	越	yuè	the more
+3	276	站	zhàn	station
+3	277	张	zhāng	Zhang (surname)
+3	278	长（动词）	zhǎng	grow
+3	279	着急	zháojí	Worry
+3	280	照顾	zhàogù	look after
+3	281	照片	zhàopiàn	Photo
+3	282	照相机	zhàoxiàngjī	Camera
+3	283	只（量词）	zhī	(measure word)
+3	284	只（副词）	zhǐ	only
+3	285	只有……才……	zhǐyǒu…cái…	only if
+3	286	中文	zhōngwén	Chinese
+3	287	中间	zhōngjiān	Middle
+3	288	终于	zhōngyú	finally
+3	289	种	zhǒng	species
+3	290	重要	zhòngyào	important
+3	291	周末	zhōumò	Weekend
+3	292	主要	zhǔyào	main
+3	293	注意	zhùyì	Be careful
+3	294	自己	zìjǐ	Own, self
+3	295	自行车	zìxíngchē	Bicycle
+3	296	总是	zǒngshì	always
+3	297	嘴	zuǐ	mouth
+3	298	最后	zuìhòu	Last
+3	299	最近	zuìjìn	lately
+3	300	作业	zuòyè	homework
+4	1	爱情	àiqíng	Love
+4	2	安排	ānpái	arrange
+4	3	安全	ānquán	security
+4	4	按时	ànshí	on time
+4	5	按照	ànzhào	according to
+4	6	百分之	bǎifēnzhī	percent
+4	7	棒	bàng	stick；excellent
+4	8	包子	bāozi	Steamed stuffed bun
+4	9	保护	bǎohù	protect
+4	10	保证	bǎozhèng	ensure
+4	11	抱	bào	Hold
+4	12	抱歉	bàoqiàn	feel sorry
+4	13	报名	bàomíng	sign up
+4	14	倍	bèi	times
+4	15	本来	běnlái	originally
+4	16	笨	bèn	stupid
+4	17	比如	bǐrú	such as
+4	18	毕业	bìyè	graduation
+4	19	遍	biàn	Times
+4	20	标准	biāozhǔn	standard
+4	21	表格	biǎogé	form
+4	22	表示	biǎoshì	Express
+4	23	表演	biǎoyǎn	perform
+4	24	表扬	biǎoyáng	Praise
+4	25	饼干	bǐnggān	Biscuits
+4	26	并且	bìngqiě	also
+4	27	博士	bóshì	doctor
+4	28	不过	búguò	However
+4	29	不得不	bùdébù	have to
+4	30	不管	bùguǎn	no matter
+4	31	不仅	bùjǐn	not only
+4	32	部分	bùfen	Part
+4	33	擦	cā	wipe
+4	34	猜	cāi	guess
+4	35	材料	cáiliào	Material Science
+4	36	参观	cānguān	visit
+4	37	餐厅	cāntīng	Restaurant
+4	38	差不多	chàbuduō	Almost
+4	39	尝	cháng	taste
+4	40	长城	chángchéng	The Great Wall
+4	41	长江	chángjiāng	The Yangtze River
+4	42	场	chǎng	site
+4	43	超过	chāoguò	Exceed
+4	44	厕所	cèsuǒ	Toilet
+4	45	成功	chénggōng	Success
+4	46	成为	chéngwéi	Become
+4	47	诚实	chéngshí	honest
+4	48	乘坐	chéngzuò	ride
+4	49	吃惊	chījīng	Be amazed
+4	50	重新	chóngxīn	again
+4	51	抽烟	chōuyān	smoking
+4	52	出差	chūchāi	A business travel
+4	53	出发	chūfā	Set out
+4	54	出生	chūshēng	Birth
+4	55	出现	chūxiàn	Appear
+4	56	厨房	chúfáng	Kitchen
+4	57	传真	chuánzhēn	Fax
+4	58	窗户	chuānghu	Window
+4	59	词语	cíyǔ	terms, words
+4	60	从来	cónglái	Always
+4	61	粗心	cūxīn	careless
+4	62	存	cún	Deposit
+4	63	错误	cuòwù	error
+4	64	答案	dá’àn	Answer
+4	65	打招呼	dǎzhāohu	Say hello
+4	66	打扮	dǎban	dress up
+4	67	打扰	dǎrǎo	Disturb
+4	68	打印	dǎyìn	Print
+4	69	打折	dǎzhé	Discount
+4	70	打针	dǎzhēn	To make an injection
+4	71	大概	dàgài	Probably
+4	72	大使馆	dàshǐguǎn	Embassy
+4	73	大约	dàyuē	about
+4	74	戴	dài	wear
+4	75	大夫	dàifu	Doctor
+4	76	当	dāng	When
+4	77	当时	dāngshí	at that time
+4	78	刀	dāo	knife
+4	79	导游	dǎoyóu	Guide
+4	80	倒	dào	inverted
+4	81	到处	dàochù	everywhere
+4	82	到底	dàodǐ	To the end
+4	83	道歉	dàoqiàn	apologize
+4	84	得意	déyì	Proud
+4	85	地点	dìdiǎn	location
+4	86	得（助动词）	děi	have to
+4	87	登机牌	dēngjīpái	Boarding pass
+4	88	等 （动）	děng	Wait (verb)
+4	89	低	dī	low
+4	90	底	dǐ	bottom
+4	91	地球	dìqiú	earth
+4	92	地址	dìzhǐ	address
+4	93	掉	diào	fall
+4	94	调查	diàochá	investigation
+4	95	丢	diū	lose
+4	96	动作	dòngzuò	action
+4	97	堵车	dǔchē	Traffic jam
+4	98	肚子	dùzi	belly
+4	99	短信	duǎnxìn	Short message
+4	100	对于	duìyú	about
+4	101	对话	duìhuà	dialogue
+4	102	对面	duìmiàn	Opposite side
+4	103	而	ér	and
+4	104	儿童	értóng	children
+4	105	发生	fāshēng	Happen
+4	106	发展	fāzhǎn	Development
+4	107	法律	fǎlǜ	Law
+4	108	翻译	fānyì	translate
+4	109	烦恼	fánnǎo	annoyance
+4	110	反对	fǎnduì	Opposition
+4	111	方法	fāngfǎ	Method
+4	112	方面	fāngmiàn	Aspect
+4	113	方向	fāngxiàng	direction
+4	114	房东	fángdōng	landlord
+4	115	放弃	fàngqì	give up
+4	116	放暑假	fàngshǔjià	summer vacation
+4	117	放松	fàngsōng	Relax
+4	118	份	fèn	share (measure word)
+4	119	丰富	fēngfù	rich
+4	120	否则	fǒuzé	otherwise
+4	121	符合	fúhé	accord with
+4	122	富	fù	rich
+4	123	付款	fùkuǎn	pay
+4	124	父亲	fùqīn	father
+4	125	复印	fùyìn	To copy
+4	126	复杂	fùzá	complex
+4	127	负责	fùzé	Be responsible for
+4	128	改变	gǎibiàn	change
+4	129	干杯	gānbēi	Cheers!
+4	130	赶	gǎn	catch up with
+4	131	敢	gǎn	dare
+4	132	感动	gǎndòng	Be moved
+4	133	感觉	gǎnjué	feel
+4	134	感情	gǎnqíng	feeling
+4	135	感谢	gǎnxiè	Thank
+4	136	干	gān	dry
+4	137	刚	gāng	just
+4	138	高速公路	gāosùgōnglù	Expressway
+4	139	胳膊	gēbo	Arm
+4	140	各	gè	various
+4	141	公里	gōnglǐ	kilometre
+4	142	工资	gōngzī	wages
+4	143	功夫	gōngfu	Kungfu
+4	144	共同	gòngtóng	common
+4	145	够	gòu	enough
+4	146	购物	gòuwù	Shopping
+4	147	估计	gūjì	estimate
+4	148	鼓励	gǔlì	encourage
+4	149	顾客	gùkè	customer
+4	150	故意	gùyì	deliberately
+4	151	挂	guà	hang
+4	152	关键	guānjiàn	key
+4	153	观众	guānzhòng	Audience
+4	154	管理	guǎnlǐ	Administration
+4	155	光	guāng	light
+4	156	广播	guǎngbō	Radio broadcast
+4	157	广告	guǎnggào	Advertisement
+4	158	逛	guàng	Stroll
+4	159	规定	guīdìng	Regulations
+4	160	国际	guójì	international
+4	161	国籍	guójí	nationality
+4	162	果汁	guǒzhī	fruit juice
+4	163	过程	guòchéng	process
+4	164	海洋	hǎiyáng	ocean
+4	165	害羞	hàixiū	Shy
+4	166	寒假	hánjià	The winter vacation
+4	167	汗	hàn	sweat
+4	168	航班	hángbān	flight
+4	169	好处	hǎochù	benefit
+4	170	好像	hǎoxiàng	Be like, seem
+4	171	号码	hàomǎ	number
+4	172	合格	hégé	qualified
+4	173	合适	héshì	appropriate
+4	174	盒子	hézi	Box
+4	175	厚	hòu	thick
+4	176	后悔	hòuhuǐ	regret
+4	177	护士	hùshi	Nurse
+4	178	互联网	hùliánwǎng	Internet
+4	179	互相	hùxiāng	each other
+4	180	怀疑	huáiyí	doubt
+4	181	回忆	huíyì	Memory
+4	182	活动	huódòng	activity
+4	183	活泼	huópō	lively
+4	184	火	huǒ	fire
+4	185	获得	huòdé	Get
+4	186	基础	jīchǔ	Basics
+4	187	激动	jīdòng	Excited
+4	188	积极	jījí	positive
+4	189	积累	jīlěi	accumulation
+4	190	及时	jíshí	timely
+4	191	即使	jíshǐ	even if
+4	192	寄	jì	send
+4	193	记者	jìzhě	Reporter
+4	194	计划	jìhuà	plan
+4	195	既然	jìrán	although
+4	196	技术	jìshù	technology
+4	197	继续	jìxù	Continue
+4	198	家具	jiājù	furniture
+4	199	加班	jiābān	overtime work
+4	200	加油站	jiāyóuzhàn	Gas station
+4	201	假	jiǎ	false
+4	202	价格	jiàgé	Price
+4	203	坚持	jiānchí	Insist
+4	204	减肥	jiǎnféi	Reduce weight
+4	205	减少	jiǎnshǎo	reduce
+4	206	建议	jiànyì	proposal
+4	207	将来	jiānglái	future
+4	208	奖金	jiǎngjīn	bonus
+4	209	降低	jiàngdī	reduce
+4	210	降落	jiàngluò	land
+4	211	交	jiāo	hand over
+4	212	交流	jiāoliú	Communication
+4	213	交通	jiāotōng	traffic
+4	214	郊区	jiāoqū	Suburb
+4	215	骄傲	jiāo’ào	Proud
+4	216	饺子	jiǎozi	Dumplings
+4	217	教授	jiàoshòu	professor
+4	218	教育	jiàoyù	education
+4	219	接受	jiēshòu	accept
+4	220	接着	jiēzhe	Next
+4	221	结果	jiéguǒ	Result
+4	222	节	jié	section, festival
+4	223	节约	jiéyuē	save
+4	224	解释	jiěshì	explain
+4	225	尽管	jǐnguǎn	although
+4	226	紧张	jǐnzhāng	Nervous
+4	227	进行	jìnxíng	in process of
+4	228	禁止	jìnzhǐ	prohibit
+4	229	精彩	jīngcǎi	Marvellous
+4	230	经济	jīngjì	Economics
+4	231	经历	jīnglì	experience
+4	232	经验	jīngyàn	experience
+4	233	京剧	jīngjù	Beijing opera
+4	234	警察	jǐngchá	Policeman
+4	235	景色	jǐngsè	scenery
+4	236	竟然	jìngrán	Unexpectedly
+4	237	竞争	jìngzhēng	compete
+4	238	镜子	jìngzi	Mirror
+4	239	究竟	jiūjìng	exactly
+4	240	举	jǔ	lift
+4	241	举办	jǔbàn	hold
+4	242	举行	jǔxíng	hold
+4	243	拒绝	jùjué	refuse
+4	244	距离	jùlí	distance
+4	245	聚会	jùhuì	Party
+4	246	开玩笑	kāiwánxiào	Make fun of
+4	247	开心	kāixīn	Happy
+4	248	看法	kànfǎ	view
+4	249	考虑	kǎolǜ	Consider
+4	250	烤鸭	kǎoyā	Roasted Duck
+4	251	棵	kē	Tree (measure word)
+4	252	科学	kēxué	science
+4	253	咳嗽	késou	cough
+4	254	可怜	kělián	Poor
+4	255	可是	kěshì	however
+4	256	可惜	kěxī	unfortunately
+4	257	客厅	kètīng	A living room
+4	258	肯定	kěndìng	sure
+4	259	空	kōng	empty
+4	260	空气	kōngqì	air
+4	261	恐怕	kǒngpà	I’m afraid
+4	262	苦	kǔ	bitter
+4	263	矿泉水	kuàngquánshuǐ	Mineral water
+4	264	困	kùn	sleepy
+4	265	困难	kùnnan	difficulty
+4	266	拉	lā	pull
+4	267	垃圾桶	lājītǒng	Trash
+4	268	辣	là	spicy
+4	269	来自	láizì	Come from
+4	270	来不及	láibují	There’s not enough time
+4	271	来得及	láidejí	In time
+4	272	懒	lǎn	lazy
+4	273	浪费	làngfèi	Waste
+4	274	浪漫	làngmàn	romantic
+4	275	老虎	lǎohǔ	Tiger
+4	276	冷静	lěngjìng	calm down
+4	277	理发	lǐfà	Haircut
+4	278	理解	lǐjiě	Understand
+4	279	理想	lǐxiǎng	ideal
+4	280	礼貌	lǐmào	politeness
+4	281	礼拜天	lǐbàitiān	Sunday
+4	282	厉害	lìhai	Fierce
+4	283	力气	lìqi	Strength
+4	284	例如	lìrú	for example
+4	285	俩	liǎ	Two
+4	286	连	lián	even
+4	287	联系	liánxì	contact
+4	288	凉快	liángkuai	Pleasantly cool
+4	289	零钱	língqián	Small change
+4	290	另外	lìngwài	in addition
+4	291	留	liú	stay
+4	292	流利	liúlì	fluent
+4	293	流行	liúxíng	Popular
+4	294	乱	luàn	chaos
+4	295	旅行	lǚxíng	travel
+4	296	律师	lǜshī	Lawyer
+4	297	麻烦	máfan	trouble
+4	298	马虎	mǎhu	Careless
+4	299	满	mǎn	full
+4	300	毛	máo	hair
+4	301	毛巾	máojīn	Towel
+4	302	美丽	měilì	beautiful
+4	303	梦	mèng	dream
+4	304	迷路	mílù	Get lost
+4	305	密码	mìmǎ	Password
+4	306	免费	miǎnfèi	Free of charge
+4	307	秒	miǎo	second
+4	308	民族	mínzú	Nation
+4	309	母亲	mǔqīn	mother
+4	310	目的	mùdì	objective
+4	311	耐心	nàixīn	patience
+4	312	难道	nándào	could it be said that …
+4	313	难受	nánshòu	Uncomfortable
+4	314	内	nèi	within
+4	315	内容	nèiróng	content
+4	316	能力	nénglì	ability
+4	317	年龄	niánlíng	Age
+4	318	弄	nòng	get, make
+4	319	暖和	nuǎnhuo	warm
+4	320	偶尔	ǒu’ěr	occasionally
+4	321	排队	páiduì	queue; stand in a line
+4	322	排列	páiliè	array
+4	323	判断	pànduàn	judge
+4	324	陪	péi	accompany
+4	325	批评	pīpíng	criticism
+4	326	皮肤	pífū	skin
+4	327	脾气	píqi	Bad temper
+4	328	篇	piān	piece
+4	329	骗	piàn	fool
+4	330	乒乓球	pīngpāngqiú	Table Tennis
+4	331	平时	píngshí	peacetime
+4	332	破	pò	broken
+4	333	葡萄	pútao	Grape
+4	334	普遍	pǔbiàn	universal
+4	335	普通话	pǔtōnghuà	Mandarin
+4	336	其次	qícì	Secondly
+4	337	其中	qízhōng	among
+4	338	气候	qìhòu	climate
+4	339	千万	qiānwàn	Must
+4	340	签证	qiānzhèng	visa
+4	341	敲	qiāo	knock
+4	342	桥	qiáo	Bridge
+4	343	巧克力	qiǎokèlì	Chocolates
+4	344	亲戚	qīnqi	Relative
+4	345	轻	qīng	light
+4	346	轻松	qīngsōng	Relaxed
+4	347	情况	qíngkuàng	Situation
+4	348	穷	qióng	poor
+4	349	区别	qūbié	Difference
+4	350	取	qǔ	take
+4	351	全部	quánbù	whole
+4	352	缺点	quēdiǎn	shortcoming
+4	353	缺少	quēshǎo	Lack
+4	354	却	què	but
+4	355	确实	quèshí	Exactly
+4	356	然而	rán’ér	however
+4	357	热闹	rènao	lively
+4	358	任何	rènhé	whatever, any
+4	359	任务	rènwu	task
+4	360	扔	rēng	throw
+4	361	仍然	réngrán	still
+4	362	日记	rìjì	diary
+4	363	入口	rùkǒu	Entrance
+4	364	散步	sànbù	Take a walk
+4	365	森林	sēnlín	Forest
+4	366	沙发	shāfā	Sofa
+4	367	商量	shāngliang	discuss
+4	368	伤心	shāngxīn	Sad
+4	369	稍微	shāowēi	slightly
+4	370	勺子	sháozi	Spoon
+4	371	社会	shèhuì	Sociology
+4	372	深	shēn	deep
+4	373	申请	shēnqǐng	Apply
+4	374	甚至	shènzhì	Even to the extent that
+4	375	生活	shēnghuó	Life
+4	376	生命	shēngmìng	life
+4	377	生意	shēngyi	business
+4	378	省	shěng	province
+4	379	剩	shèng	Left
+4	380	失败	shībài	fail
+4	381	失望	shīwàng	Disappointment
+4	382	师傅	shīfu	Master worker
+4	383	十分	shífēn	very
+4	384	实际	shíjì	Actual
+4	385	实在	shízài	really
+4	386	使	shǐ	make
+4	387	使用	shǐyòng	Use
+4	388	是否	shìfǒu	Whether
+4	389	适合	shìhé	Fit
+4	390	适应	shìyìng	Adapt
+4	391	世纪	shìjì	century
+4	392	收	shōu	collect
+4	393	收入	shōurù	income
+4	394	收拾	shōushi	Tidy
+4	395	首都	shǒudū	capital
+4	396	首先	shǒuxiān	First
+4	397	受不了	shòubuliǎo	Cannot bear sth
+4	398	受到	shòudào	Suffer
+4	399	售货员	shòuhuòyuán	Salesperson
+4	400	输	shū	lose, fail
+4	401	熟悉	shúxī	be familiar with
+4	402	数量	shùliàng	Number
+4	403	数字	shùzì	number
+4	404	帅	shuài	Handsome
+4	405	顺便	shùnbiàn	Incidentally
+4	406	顺利	shùnlì	smoothly
+4	407	顺序	shùnxù	order
+4	408	说明	shuōmíng	Explain
+4	409	硕士	shuòshì	master
+4	410	死	sǐ	die
+4	411	速度	sùdù	speed
+4	412	塑料袋	sùliàodài	Plastic bag
+4	413	酸	suān	acid
+4	414	随便	suíbiàn	casual
+4	415	随着	suízhe	along with
+4	416	孙子	sūnzi	Grandson
+4	417	所有	suǒyǒu	All
+4	418	台	tái	platform
+4	419	抬	tái	Lift
+4	420	态度	tàidu	attitude
+4	421	谈	tán	talk
+4	422	弹钢琴	tángāngqín	Play the piano
+4	423	汤	tāng	soup
+4	424	糖	táng	sugar
+4	425	躺	tǎng	lie
+4	426	趟	tàng	Trip
+4	427	讨论	tǎolùn	discuss
+4	428	讨厌	tǎoyàn	Hate
+4	429	特点	tèdiǎn	Characteristic
+4	430	提	tí	carry
+4	431	提供	tígōng	provide
+4	432	提前	tíqián	in advance
+4	433	提醒	tíxǐng	remind
+4	434	填空	tiánkòng	Fill in the blanks
+4	435	条件	tiáojiàn	condition
+4	436	停	tíng	Stop
+4	437	挺	tǐng	quite
+4	438	通过	tōngguò	through
+4	439	通知	tōngzhī	notice
+4	440	同时	tóngshí	meanwhile
+4	441	同情	tóngqíng	Sympathy
+4	442	推	tuī	push
+4	443	推迟	tuīchí	delay
+4	444	脱	tuō	take off
+4	445	袜子	wàzi	Socks
+4	446	完全	wánquán	completely
+4	447	往往	wǎngwǎng	Often
+4	448	网球	wǎngqiú	Tennis
+4	449	网站	wǎngzhàn	website
+4	450	危险	wēixiǎn	danger
+4	451	味道	wèidào	taste
+4	452	卫生间	wèishēngjiān	toilet
+4	453	温度	wēndù	temperature
+4	454	文章	wénzhāng	Article
+4	455	污染	wūrǎn	contaminated
+4	456	无	wú	nothing
+4	457	无聊	wúliáo	Boring
+4	458	无论	wúlùn	no matter what
+4	459	误会	wùhuì	Misunderstanding
+4	460	西红柿	xīhóngshì	Tomato
+4	461	吸引	xīyǐn	Attract
+4	462	咸	xián	salty
+4	463	现金	xiànjīn	cash
+4	464	羡慕	xiànmù	Envy
+4	465	香	xiāng	fragrant
+4	466	相反	xiāngfǎn	Contrary
+4	467	相同	xiāngtóng	identical
+4	468	详细	xiángxì	detailed
+4	469	响	xiǎng	ring
+4	470	橡皮	xiàngpí	rubber
+4	471	消息	xiāoxi	message
+4	472	小吃	xiǎochī	snack
+4	473	小伙子	xiǎohuǒzi	Young fellow
+4	474	小说	xiǎoshuō	Novel
+4	475	笑话	xiàohua	joke
+4	476	效果	xiàoguǒ	Effect
+4	477	辛苦	xīnkǔ	hard
+4	478	心情	xīnqíng	mood
+4	479	信封	xìnfēng	envelope
+4	480	信息	xìnxī	information
+4	481	信心	xìnxīn	confidence
+4	482	兴奋	xīngfèn	Excitement
+4	483	行	xíng	That’s ok
+4	484	醒	xǐng	wake up
+4	485	性别	xìngbié	Gender
+4	486	性格	xìnggé	character
+4	487	幸福	xìngfú	happiness
+4	488	修理	xiūlǐ	repair
+4	489	许多	xǔduō	many
+4	490	学期	xuéqī	Semester
+4	491	压力	yālì	pressure
+4	492	牙膏	yágāo	toothpaste
+4	493	亚洲	yàzhōu	Asia
+4	494	呀	ya	ah
+4	495	盐	yán	salt
+4	496	严格	yángé	strict
+4	497	严重	yánzhòng	serious
+4	498	研究	yánjiū	research
+4	499	演出	yǎnchū	show
+4	500	演员	yǎnyuán	performer, actor
+4	501	眼镜	yǎnjìng	glasses
+4	502	阳光	yángguāng	Sunshine
+4	503	养成	yǎngchéng	Cultivate
+4	504	样子	yàngzi	A look
+4	505	邀请	yāoqǐng	Invitation
+4	506	要是	yàoshi	If
+4	507	钥匙	yàoshi	Key
+4	508	也许	yěxǔ	perhaps
+4	509	页	yè	page
+4	510	叶子	yèzi	Leaf
+4	511	一切	yíqiè	everything
+4	512	以	yǐ	with
+4	513	以为	yǐwéi	Think
+4	514	意见	yìjiàn	Opinion
+4	515	艺术	yìshù	Art
+4	516	因此	yīncǐ	therefore
+4	517	引起	yǐnqǐ	cause
+4	518	印象	yìnxiàng	impression
+4	519	应聘	yìngpìn	Apply for
+4	520	赢	yíng	win
+4	521	勇敢	yǒnggǎn	Brave
+4	522	永远	yǒngyuǎn	forever
+4	523	优点	yōudiǎn	Advantage
+4	524	优秀	yōuxiù	excellent
+4	525	幽默	yōumò	Humor
+4	526	由	yóu	from
+4	527	由于	yóuyú	Because
+4	528	邮局	yóujú	Post Office
+4	529	尤其	yóuqí	especially
+4	530	有趣	yǒuqù	interesting
+4	531	友好	yǒuhǎo	friendly
+4	532	友谊	yǒuyì	friendship
+4	533	愉快	yúkuài	Cheerful
+4	534	于是	yúshì	Therefore
+4	535	与	yǔ	and
+4	536	语法	yǔfǎ	grammar
+4	537	语言	yǔyán	language
+4	538	羽毛球	yǔmáoqiú	Badminton
+4	539	预习	yùxí	Preview
+4	540	原来	yuánlái	Original
+4	541	原谅	yuánliàng	Forgive
+4	542	原因	yuányīn	Reason
+4	543	约会	yuēhuì	Date
+4	544	阅读	yuèdú	Read
+4	545	云	yún	cloud
+4	546	允许	yǔnxǔ	allow
+4	547	杂志	zázhì	Magazine
+4	548	咱们	zánmen	We
+4	549	暂时	zànshí	temporary
+4	550	脏	zāng	dirty
+4	551	责任	zérèn	responsibility
+4	552	增加	zēngjiā	increase
+4	553	占线	zhànxiàn	(line) Busy
+4	554	招聘	zhāopìn	recruit
+4	555	照	zhào	reflect
+4	556	真正	zhēnzhèng	real
+4	557	整理	zhěnglǐ	Arrangement
+4	558	正常	zhèngcháng	normal
+4	559	正好	zhènghǎo	Just right
+4	560	正确	zhèngquè	Correct
+4	561	正式	zhèngshì	formal
+4	562	证明	zhèngmíng	Prove
+4	563	之	zhī	of
+4	564	支持	zhīchí	Support
+4	565	知识	zhīshi	knowledge
+4	566	值得	zhídé	Worth
+4	567	直接	zhíjiē	direct
+4	568	植物	zhíwù	Botany, plant
+4	569	职业	zhíyè	Occupation
+4	570	指	zhǐ	finger, to point
+4	571	只好	zhǐhǎo	have to
+4	572	只要	zhǐyào	as long as
+4	573	质量	zhìliàng	quality
+4	574	至少	zhìshǎo	at least
+4	575	重	zhòng	heavy
+4	576	重点	zhòngdiǎn	A key
+4	577	重视	zhòngshì	importance, attach importance to
+4	578	周围	zhōuwéi	around
+4	579	主意	zhǔyi	idea
+4	580	祝贺	zhùhè	Congratulate
+4	581	著名	zhùmíng	famous
+4	582	专门	zhuānmén	specialized
+4	583	专业	zhuānyè	major
+4	584	转	zhuàn	turn
+4	585	赚	zhuàn	earn
+4	586	准确	zhǔnquè	accuracy
+4	587	准时	zhǔnshí	on time
+4	588	仔细	zǐxì	careful
+4	589	自然	zìrán	natural
+4	590	自信	zìxìn	self-confidence
+4	591	总结	zǒngjié	summary
+4	592	租	zū	rent
+4	593	最好	zuìhǎo	Best
+4	594	尊重	zūnzhòng	respect
+4	595	左右	zuǒyòu	About
+4	596	座	zuò	Seat
+4	597	作家	zuòjiā	writer
+4	598	座位	zuòwèi	seat
+4	599	作用	zuòyòng	Effect
+4	600	作者	zuòzhě	author
+5	1	唉	āi	alas
+5	2	爱心	àixīn	love
+5	3	安慰	ānwèi	comfort
+5	4	岸	àn	bank
+5	5	熬夜	áoyè	stay up late
+5	6	包含	bāohán	Contain
+5	7	宝贵	bǎoguì	valuable
+5	8	保存	bǎocún	Preservation
+5	9	保留	bǎoliú	Retain
+5	10	报到	bàodào	register,check in
+5	11	报告	bàogào	Presentation
+5	12	悲观	bēiguān	Pessimism
+5	13	背景	bèijǐng	background
+5	14	被子	bèizi	quilt
+5	15	本科	běnkē	Undergraduate
+5	16	本领	běnlǐng	ability
+5	17	比例	bǐlì	Proportion
+5	18	必然	bìrán	Inevitable
+5	19	必要	bìyào	necessary
+5	20	鞭炮	biānpào	firecracker
+5	21	辩论	biànlùn	Debate
+5	22	标志	biāozhì	sign
+5	23	表达	biǎodá	Expression
+5	24	表面	biǎomiàn	surface
+5	25	表情	biǎoqíng	Expression
+5	26	表现	biǎoxiàn	performance
+5	27	冰激凌	bīngjīlíng	ice cream
+5	28	玻璃	bōli	Glass
+5	29	博物馆	bówùguǎn	Museum
+5	30	不断	búduàn	Constantly
+5	31	不见得	bújiàndé	Not necessarily
+5	32	不耐烦	búnàifán	Impatient
+5	33	补充	bǔchōng	supplement
+5	34	不然	bùrán	otherwise
+5	35	不足	bùzú	insufficient
+5	36	部门	bùmén	department
+5	37	财产	cáichǎn	property
+5	38	踩	cǎi	step on
+5	39	采取	cǎiqǔ	take, adopt
+5	40	参考	cānkǎo	Reference resources
+5	41	操场	cāochǎng	Playground
+5	42	插	chā	insert
+5	43	叉子	chāzi	Fork
+5	44	拆	chāi	Remove
+5	45	产生	chǎnshēng	produce
+5	46	常识	chángshí	common sense
+5	47	潮湿	cháoshī	damp
+5	48	吵	chǎo	Noisy
+5	49	车库	chēkù	Garage
+5	50	彻底	chèdǐ	thorough
+5	51	趁	chèn	while
+5	52	称	chēng	call
+5	53	称赞	chēngzàn	Praise
+5	54	承担	chéngdān	bear
+5	55	承受	chéngshòu	bear
+5	56	程序	chéngxù	program
+5	57	成立	chénglì	establish
+5	58	成人	chéngrén	adult
+5	59	成语	chéngyǔ	idiom
+5	60	诚恳	chéngkěn	sincere
+5	61	持续	chíxù	Continued
+5	62	尺子	chǐzi	Ruler
+5	63	冲	chōng	punching
+5	64	充分	chōngfèn	To the full
+5	65	重复	chóngfù	repeat
+5	66	宠物	chǒngwù	Pet
+5	67	抽象	chōuxiàng	abstract
+5	68	丑	chǒu	ugly
+5	69	出口	chūkǒu	Exit
+5	70	出示	chūshì	show
+5	71	出席	chūxí	Attend
+5	72	除非	chúfēi	Unless
+5	73	除夕	chúxī	the New Year’s Eve
+5	74	处理	chǔlǐ	Handle
+5	75	传染	chuánrǎn	contagion
+5	76	传统	chuántǒng	tradition
+5	77	闯	chuǎng	rush; dash
+5	78	吹	chuī	blow
+5	79	此外	cǐwài	in addition
+5	80	次要	cìyào	secondary
+5	81	匆忙	cōngmáng	hastily
+5	82	从而	cóng’ér	thus
+5	83	从前	cóngqián	before
+5	84	粗糙	cūcāo	rough
+5	85	醋	cù	vinegar
+5	86	促使	cùshǐ	Urge
+5	87	措施	cuòshī	Measures
+5	88	打工	dǎgōng	Work
+5	89	大厦	dàshà	Large building
+5	90	大象	dàxiàng	Elephant
+5	91	代表	dàibiǎo	representative
+5	92	待遇	dàiyù	treatment
+5	93	单调	dāndiào	monotonous
+5	94	单位	dānwèi	Company
+5	95	担任	dānrèn	To serve as
+5	96	耽误	dānwu	delay
+5	97	淡	dàn	light
+5	98	倒霉	dǎoméi	fall on evil days
+5	99	道理	dàolǐ	truth
+5	100	登记	dēngjì	register
+5	101	等于	děngyú	Be equal to
+5	102	滴	dī	drop
+5	103	敌人	dírén	Enemy
+5	104	递	dì	Delivery
+5	105	地毯	dìtǎn	Carpet
+5	106	地震	dìzhèn	earthquake
+5	107	电池	diànchí	Battery
+5	108	顶	dǐng	top
+5	109	冻	dòng	freeze
+5	110	动画片	dònghuàpiàn	Cartoon
+5	111	逗	dòu	Funny
+5	112	独特	dútè	unique
+5	113	度过	dùguò	Spend
+5	114	对比	duìbǐ	Contrast
+5	115	对待	duìdài	treat
+5	116	对手	duìshǒu	Opponent
+5	117	吨	dūn	ton
+5	118	顿	dùn	Meal
+5	119	多亏	duōkuī	thanks to
+5	120	朵	duǒ	classifier of flower
+5	121	发表	fābiǎo	Publish
+5	122	发达	fādá	To develop
+5	123	发挥	fāhuī	Develop
+5	124	发票	fāpiào	invoice
+5	125	发言	fāyán	give a speech
+5	126	罚款	fákuǎn	forfeit; amerce; fine
+5	127	法院	fǎyuàn	Court
+5	128	繁荣	fánróng	Boom
+5	129	反而	fǎn’ér	Instead
+5	130	反应	fǎnyìng	reaction
+5	131	反正	fǎnzhèng	anyway
+5	132	范围	fànwéi	Range
+5	133	方案	fāng’àn	programme
+5	134	方式	fāngshì	mode
+5	135	妨碍	fáng’ài	Hinder
+5	136	肥皂	féizào	soap
+5	137	分布	fēnbù	distribution
+5	138	分手	fēnshǒu	Break up
+5	139	风景	fēngjǐng	Scenery
+5	140	风险	fēngxiǎn	risk
+5	141	讽刺	fěngcì	satire
+5	142	否认	fǒurèn	deny
+5	143	扶	fú	hold up
+5	144	复制	fùzhì	copy
+5	145	改进	gǎijìn	Improvement
+5	146	改正	gǎizhèng	correction
+5	147	概括	gàikuò	Generalization
+5	148	感想	gǎnxiǎng	Feel
+5	149	赶快	gǎnkuài	hurry up
+5	150	干活儿	gànhuór	work on a job
+5	151	高级	gāojí	senior
+5	152	告别	gàobié	farewell
+5	153	隔壁	gébì	next door
+5	154	个人	gèrén	personal
+5	155	各自	gèzì	Each
+5	156	根本	gēnběn	at all
+5	157	公开	gōngkāi	open
+5	158	公平	gōngpíng	fair
+5	159	公寓	gōngyù	apartment
+5	160	工厂	gōngchǎng	factory
+5	161	工具	gōngjù	tool
+5	162	工业	gōngyè	Industry
+5	163	功能	gōngnéng	function
+5	164	沟通	gōutōng	Communicate
+5	165	姑娘	gūniang	girl
+5	166	古代	gǔdài	Ancient
+5	167	鼓掌	gǔzhǎng	applause
+5	168	骨头	gǔtou	Bone
+5	169	乖	guāi	Good behaved
+5	170	怪不得	guàibude	No wonder
+5	171	观察	guānchá	observation
+5	172	观念	guānniàn	concept
+5	173	冠军	guànjūn	Champion
+5	174	光滑	guānghuá	smooth
+5	175	光明	guāngmíng	light
+5	176	广大	guǎngdà	Vast
+5	177	规律	guīlǜ	Law
+5	178	规则	guīzé	rule
+5	179	滚	gǔn	rolling
+5	180	国庆节	guóqìngjié	National Day
+5	181	果实	guǒshí	fruit
+5	182	过敏	guòmǐn	allergy
+5	183	海鲜	hǎixiān	seafood
+5	184	豪华	háohuá	luxury
+5	185	好奇	hàoqí	Be curious
+5	186	何必	hébì	Why
+5	187	合法	héfǎ	legitimate
+5	188	合理	hélǐ	reasonable
+5	189	合同	hétong	contract
+5	190	合作	hézuò	cooperation
+5	191	恨	hèn	hate
+5	192	猴子	hóuzi	Monkey
+5	193	后背	hòubèi	back
+5	194	忽视	hūshì	Ignore
+5	195	壶	hú	pot
+5	196	胡说	húshuō	Nonsense
+5	197	糊涂	hútu	Confused
+5	198	花生	huāshēng	peanut
+5	199	划	huá	Rowing
+5	200	话题	huàtí	Topic of conversation
+5	201	怀念	huáiniàn	miss
+5	202	怀孕	huáiyùn	become pregnant
+5	203	慌张	huāngzhāng	flurried
+5	204	黄金	huángjīn	gold
+5	205	灰	huī	ash
+5	206	灰心	huīxīn	Lose heart; be discouraged
+5	207	婚礼	hūnlǐ	wedding
+5	208	活跃	huóyuè	active
+5	209	伙伴	huǒbàn	Partner
+5	210	或许	huòxǔ	maybe; probably
+5	211	基本	jīběn	basic
+5	212	机器	jīqì	machine
+5	213	及格	jígé	pass
+5	214	集合	jíhé	aggregate
+5	215	集中	jízhōng	focus
+5	216	急诊	jízhěn	emergency
+5	217	记忆	jìyì	memory
+5	218	纪录	jìlù	Record
+5	219	纪念	jìniàn	memorialize
+5	220	家务	jiāwù	Housework
+5	221	嘉宾	jiābīn	Distinguished guest
+5	222	甲	jiǎ	nail
+5	223	假如	jiǎrú	If
+5	224	假装	jiǎzhuāng	pretend
+5	225	驾驶	jiàshǐ	Drive
+5	226	坚强	jiānqiáng	Firm
+5	227	艰苦	jiānkǔ	hard
+5	228	捡	jiǎn	pick up
+5	229	简直	jiǎnzhí	simply
+5	230	健身	jiànshēn	workout
+5	231	建设	jiànshè	build
+5	232	建筑	jiànzhù	Architecture
+5	233	键盘	jiànpán	keyboard
+5	234	讲座	jiǎngzuò	Lecture
+5	235	酱油	jiàngyóu	soy sauce
+5	236	浇	jiāo	pour it over
+5	237	交换	jiāohuàn	exchange
+5	238	交往	jiāowǎng	affiliate with
+5	239	角度	jiǎodù	angle
+5	240	教材	jiàocái	teaching material
+5	241	教训	jiàoxùn	lesson
+5	242	接待	jiēdài	Reception
+5	243	结实	jiēshi	strong
+5	244	节省	jiéshěng	save
+5	245	结构	jiégòu	structure
+5	246	结合	jiéhé	Combination
+5	247	结论	jiélùn	conclusion
+5	248	结账	jiézhàng	Checkout
+5	249	届	jiè	Session
+5	250	借口	jièkǒu	Excuse
+5	251	戒	jiè	Quit
+5	252	紧急	jǐnjí	urgent
+5	253	尽快	jǐnkuài	as soon as possible
+5	254	谨慎	jǐnshèn	cautious
+5	255	进步	jìnbù	progress
+5	256	近代	jìndài	Modern
+5	257	尽量	jìnliàng	as far as possible
+5	258	精神	jīngshén	spirit
+5	259	经典	jīngdiǎn	classics; scriptures
+5	260	救	jiù	save
+5	261	舅舅	jiùjiu	uncle
+5	262	桔子	júzi	Orange
+5	263	具备	jùbèi	Have, possess
+5	264	巨大	jùdà	huge
+5	265	决赛	juésài	Finals
+5	266	绝对	juéduì	Absolutely
+5	267	军事	jūnshì	Military
+5	268	开放	kāifàng	To open up
+5	269	开水	kāishuǐ	Boiling water
+5	270	砍	kǎn	cut
+5	271	看不起	kànbuqǐ	Despise
+5	272	可见	kějiàn	so; it`s thus clear
+5	273	可怕	kěpà	dreadful
+5	274	克	kè	gram
+5	275	客观	kèguān	objective
+5	276	控制	kòngzhì	control
+5	277	口味	kǒuwèi	Flavor
+5	278	夸	kuā	boast, praise
+5	279	扩大	kuòdà	Expand
+5	280	辣椒	làjiāo	Pepper, spice
+5	281	烂	làn	rotten
+5	282	劳动	láodòng	labour
+5	283	老板	lǎobǎn	Boss
+5	284	老鼠	lǎoshǔ	Mouse
+5	285	姥姥	lǎolao	Grandma
+5	286	理论	lǐlùn	theory
+5	287	理由	lǐyóu	Reason
+5	288	立刻	lìkè	immediately
+5	289	力量	lìliàng	Power
+5	290	利息	lìxī	accrual; interest
+5	291	利用	lìyòng	utilize
+5	292	连忙	liánmáng	Hurriedly
+5	293	联合	liánhé	union
+5	294	了不起	liǎobuqǐ	Amazing
+5	295	列车	lièchē	train
+5	296	临时	línshí	temporary
+5	297	灵活	línghuó	flexible
+5	298	领域	lǐngyù	field
+5	299	流传	liúchuán	spread
+5	300	浏览	liúlǎn	browse
+5	301	龙	lóng	dragon
+5	302	漏	lòu	leak
+5	303	陆地	lùdì	land
+5	304	录取	lùqǔ	matriculate
+5	305	论文	lùnwén	paper
+5	306	落后	luòhòu	backward, fall behind
+5	307	骂	mà	scold
+5	308	麦克风	màikèfēng	Microphone
+5	309	满足	mǎnzú	satisfy
+5	310	冒险	màoxiǎn	adventure
+5	311	眉毛	méimao	eyebrow
+5	312	美术	měishù	Fine Arts
+5	313	秘密	mìmì	Secret
+5	314	面对	miànduì	Face
+5	315	面临	miànlín	face
+5	316	苗条	miáotiao	slim
+5	317	明确	míngquè	To make clear
+5	318	明显	míngxiǎn	obvious
+5	319	名牌	míngpái	famous brand
+5	320	名胜古迹	míngshènggǔjì	Places of historic interest and scenic beauty
+5	321	命令	mìnglìng	call; nominate
+5	322	摸	mō	feel, touch
+5	323	模糊	móhu	vague
+5	324	摩托车	mótuōchē	Motorcycle
+5	325	某	mǒu	some
+5	326	目标	mùbiāo	target
+5	327	目录	mùlù	Catalog
+5	328	木头	mùtou	wood
+5	329	哪怕	nǎpà	even if
+5	330	难免	nánmiǎn	Unavoidable
+5	331	脑袋	nǎodai	head
+5	332	内科	nèikē	Internal medicine
+5	333	嫩	nèn	tender, delicate
+5	334	能干	nénggàn	capable
+5	335	能源	néngyuán	energy
+5	336	年代	niándài	years
+5	337	年纪	niánjì	Age
+5	338	宁可	nìngkě	would rather
+5	339	牛仔裤	niúzǎikù	Jeans
+5	340	农村	nóngcūn	countryside
+5	341	农业	nóngyè	Agriculture
+5	342	女士	nǚshì	Madam
+5	343	派	pài	send
+5	344	赔偿	péicháng	compensate for
+5	345	培养	péiyǎng	culture, foster
+5	346	配合	pèihé	Coordination
+5	347	披	pī	drape over one`s shoulders
+5	348	片面	piànmiàn	one-sided
+5	349	拼音	pīnyīn	pinyin
+5	350	平	píng	flat
+5	351	平常	píngcháng	Usual
+5	352	平方	píngfāng	square
+5	353	平静	píngjìng	calm
+5	354	评价	píngjià	evaluate
+5	355	破坏	pòhuài	Destruction
+5	356	期待	qīdài	expect
+5	357	奇迹	qíjì	Miracle
+5	358	启发	qǐfā	Inspire
+5	359	气氛	qìfēn	atmosphere
+5	360	汽油	qìyóu	gasoline
+5	361	谦虚	qiānxū	Modest
+5	362	签	qiān	Sign
+5	363	浅	qiǎn	shallow
+5	364	枪	qiāng	gun
+5	365	强调	qiángdiào	Emphasize
+5	366	抢	qiǎng	rob
+5	367	悄悄	qiāoqiāo	quietly
+5	368	瞧	qiáo	look
+5	369	巧妙	qiǎomiào	clever
+5	370	亲爱	qīn’ài	Dear
+5	371	亲切	qīnqiè	kind
+5	372	勤奋	qínfèn	hardworking
+5	373	青春	qīngchūn	Youth
+5	374	轻视	qīngshì	Despise
+5	375	请求	qǐngqiú	request
+5	376	球迷	qiúmí	fans
+5	377	趋势	qūshì	trend
+5	378	去世	qùshì	pass away
+5	379	权力	quánlì	power
+5	380	劝	quàn	persuade
+5	381	缺乏	quēfá	Lack
+5	382	确认	quèrèn	confirm
+5	383	群	qún	group
+5	384	燃烧	ránshāo	burning
+5	385	绕	rào	Around
+5	386	热爱	rè’ài	Ardently love
+5	387	热心	rèxīn	enthusiastic
+5	388	人才	réncái	talented people
+5	389	人类	rénlèi	Human beings
+5	390	人生	rénshēng	Life
+5	391	人物	rénwù	character
+5	392	忍不住	rěnbuzhù	Unable to bear
+5	393	日程	rìchéng	schedule
+5	394	日历	rìlì	calendar
+5	395	日用品	rìyòngpǐn	Daily Necessities
+5	396	如何	rúhé	How
+5	397	软件	ruǎnjiàn	Software
+5	398	洒	sǎ	sprinkle
+5	399	嗓子	sǎngzi	throat
+5	400	沙滩	shātān	beach
+5	401	晒	shài	The sun
+5	402	闪电	shǎndiàn	lightning
+5	403	善于	shànyú	be good at
+5	404	商品	shāngpǐn	commodity
+5	405	商务	shāngwù	business
+5	406	伤害	shānghài	hurt
+5	407	舍不得	shěbude	Hate to part with or use
+5	408	设计	shèjì	Design
+5	409	摄影	shèyǐng	Photography
+5	410	伸	shēn	stretch
+5	411	深刻	shēnkè	profound
+5	412	身份	shēnfèn	identity
+5	413	神秘	shénmì	mysterious
+5	414	生动	shēngdòng	vivid
+5	415	生长	shēngzhǎng	grow
+5	416	诗	shī	poetry
+5	417	失眠	shīmián	insomnia
+5	418	狮子	shīzi	Lion
+5	419	时代	shídài	times, epoch
+5	420	时髦	shímáo	Fashionable
+5	421	时尚	shíshàng	fashion
+5	422	实习	shíxí	Internship
+5	423	实验	shíyàn	Experiment
+5	424	石头	shítou	stone
+5	425	使劲儿	shǐjìnr	exert all one’s strength
+5	426	始终	shǐzhōng	Throughout
+5	427	试卷	shìjuàn	test paper
+5	428	市场	shìchǎng	market
+5	429	事物	shìwù	Thing
+5	430	收据	shōujù	receipt
+5	431	手工	shǒugōng	manual
+5	432	手术	shǒushù	Operation
+5	433	手续	shǒuxù	procedures
+5	434	首	shǒu	head, chief
+5	435	受伤	shòushāng	Injured
+5	436	寿命	shòumìng	Life
+5	437	书架	shūjià	bookshelf
+5	438	输入	shūrù	import; input
+5	439	熟练	shúliàn	skilled
+5	440	鼠标	shǔbiāo	mouse
+5	441	数据	shùjù	data
+5	442	数码	shùmǎ	Digital
+5	443	摔倒	shuāidǎo	fall
+5	444	双方	shuāngfāng	both sides
+5	445	税	shuì	tax
+5	446	说服	shuōfú	Persuade
+5	447	丝绸	sīchóu	silk
+5	448	思想	sīxiǎng	thought
+5	449	似乎	sìhū	It seems that
+5	450	随身	suíshēn	Carry on
+5	451	碎	suì	broken
+5	452	损失	sǔnshī	loss
+5	453	锁	suǒ	lock
+5	454	台阶	táijiē	Steps
+5	455	太极拳	tàijíquán	Taiji boxing
+5	456	逃	táo	flee
+5	457	淘气	táoqì	naughty
+5	458	讨价还价	tǎojiàhuánjià	bargain
+5	459	套	tào	set
+5	460	特色	tèsè	characteristic
+5	461	提倡	tíchàng	promote
+5	462	题目	tímù	subject
+5	463	体贴	tǐtiē	Considerate
+5	464	体验	tǐyàn	experience
+5	465	天空	tiānkōng	sky
+5	466	天真	tiānzhēn	naive
+5	467	调整	tiáozhěng	adjustment
+5	468	通常	tōngcháng	usually
+5	469	统一	tǒngyī	Unified
+5	470	痛快	tòngkuài	Happy, to one`s great satisfaction
+5	471	偷	tōu	steal
+5	472	投资	tóuzī	Investment
+5	473	突出	tūchū	prominent
+5	474	土豆	tǔdòu	Potato
+5	475	兔子	tùzi	Rabbit
+5	476	推辞	tuīcí	Refuse
+5	477	推荐	tuījiàn	Recommend
+5	478	退	tuì	retreat
+5	479	退休	tuìxiū	retire
+5	480	外公	wàigōng	grandpa (mother’s side)
+5	481	完整	wánzhěng	complete
+5	482	玩具	wánjù	Toys
+5	483	万一	wànyī	In case
+5	484	威胁	wēixié	threaten
+5	485	维修	wéixiū	Repair
+5	486	围绕	wéirào	around
+5	487	尾巴	wěiba	tail
+5	488	委屈	wěiqu	suffer from injustice
+5	489	胃	wèi	stomach
+5	490	位于	wèiyú	Be located
+5	491	未必	wèibì	not necessarily
+5	492	温柔	wēnróu	Tender
+5	493	文具	wénjù	Stationery
+5	494	文学	wénxué	literature
+5	495	稳定	wěndìng	Stable
+5	496	问候	wènhòu	To greet
+5	497	卧室	wòshì	Bedroom
+5	498	无数	wúshù	Countless
+5	499	勿	wù	Not
+5	500	物质	wùzhì	material
+5	501	吸取	xīqǔ	Draw
+5	502	系统	xìtǒng	system
+5	503	戏剧	xìjù	drama
+5	504	吓	xià	scare
+5	505	夏令营	xiàlìngyíng	Summer camp
+5	506	下载	xiàzài	download
+5	507	显然	xiǎnrán	Obviously
+5	508	县	xiàn	county
+5	509	现象	xiànxiàng	phenomenon
+5	510	香肠	xiāngcháng	sausage
+5	511	相当	xiāngdāng	Quite
+5	512	相似	xiāngsì	Be similar
+5	513	想念	xiǎngniàn	miss
+5	514	享受	xiǎngshòu	enjoy
+5	515	项链	xiàngliàn	Necklace
+5	516	象征	xiàngzhēng	Symbolize
+5	517	消极	xiāojí	negative
+5	518	消失	xiāoshī	disappear
+5	519	小气	xiǎoqi	Mean
+5	520	孝顺	xiàoshun	Filial piety
+5	521	斜	xié	oblique
+5	522	写作	xiězuò	writing
+5	523	心理	xīnlǐ	Psychology
+5	524	心脏	xīnzàng	heart
+5	525	信任	xìnrèn	trust
+5	526	行为	xíngwéi	behavior
+5	527	形容	xíngróng	describe
+5	528	形势	xíngshì	situation
+5	529	形状	xíngzhuàng	shape
+5	530	幸运	xìngyùn	lucky
+5	531	兄弟	xiōngdì	Brother
+5	532	虚心	xūxīn	With an open mind, modest
+5	533	宣布	xuānbù	Announce
+5	534	学术	xuéshù	learning
+5	535	询问	xúnwèn	inquiry
+5	536	训练	xùnliàn	training
+5	537	押金	yājīn	deposit
+5	538	牙齿	yáchǐ	tooth
+5	539	宴会	yànhuì	banquet
+5	540	痒	yǎng	itch
+5	541	样式	yàngshì	style
+5	542	腰	yāo	waist
+5	543	咬	yǎo	bite
+5	544	夜	yè	night
+5	545	业余	yèyú	amateur
+5	546	依然	yīrán	still
+5	547	一旦	yídàn	once; in case
+5	548	一致	yízhì	Agreement
+5	549	一再	yízài	repeatedly
+5	550	移民	yímín	immigrant
+5	551	疑问	yíwèn	Doubt
+5	552	以来	yǐlái	Since
+5	553	意外	yìwài	Accident
+5	554	议论	yìlùn	Discussion
+5	555	义务	yìwù	obligation
+5	556	因素	yīnsù	Factor
+5	557	英俊	yīngjùn	Handsome and spirited
+5	558	营养	yíngyǎng	Nutrition
+5	559	硬	yìng	hard
+5	560	应付	yìngfu	cope with
+5	561	应用	yìngyòng	application
+5	562	拥挤	yōngjǐ	Crowded
+5	563	勇气	yǒngqì	courage
+5	564	用功	yònggōng	Diligent
+5	565	优惠	yōuhuì	preferential; favorable
+5	566	优势	yōushì	advantage
+5	567	悠久	yōujiǔ	long
+5	568	油炸	yóuzhá	Fried
+5	569	有利	yǒulì	favourable, beneficial
+5	570	娱乐	yúlè	entertainment
+5	571	预报	yùbào	prediction
+5	572	预防	yùfáng	Prevention
+5	573	圆	yuán	circular
+5	574	元旦	uándàn	New year’s Day
+5	575	员工	yuángōng	employee
+5	576	愿望	yuànwàng	desire, wish
+5	577	晕	yūn	faint
+5	578	运气	yùnqi	luck
+5	579	运用	yùnyòng	Application
+5	580	灾害	zāihài	disaster
+5	581	在乎	zàihu	care about
+5	582	再三	zàisān	repeatedly
+5	583	赞成	zànchéng	Agreement
+5	584	糟糕	zāogāo	Too bad
+5	585	造成	zàochéng	cause
+5	586	责备	zébèi	Reproach
+5	587	窄	zhǎi	narrow
+5	588	展开	zhǎnkāi	Open
+5	589	掌握	zhǎngwò	master
+5	590	账户	zhànghù	account
+5	591	珍惜	zhēnxī	cherish
+5	592	阵	zhèn	front
+5	593	睁	zhēng	open (eyes)
+5	594	争取	zhēngqǔ	strive for
+5	595	整个	zhěnggè	Whole
+5	596	整齐	zhěngqí	neat
+5	597	正	zhèng	just
+5	598	政府	zhèngfǔ	government
+5	599	证件	zhèngjiàn	Certificates
+5	600	支	zhī	branch (measure word)
+5	601	支票	zhīpiào	Check
+5	602	指导	zhǐdǎo	guidance
+5	603	制定	zhìdìng	Formulate
+5	604	制造	zhìzào	Manufacture
+5	605	智慧	zhìhuì	wisdom
+5	606	秩序	zhìxù	order
+5	607	中介	zhōngjiè	intermediary
+5	608	中旬	zhōngxún	Mid
+5	609	周到	zhōudào	thoughtful
+5	610	逐步	zhúbù	gradually
+5	611	竹子	zhúzi	Bamboo
+5	612	主持	zhǔchí	Host
+5	613	主观	zhǔguān	subjective
+5	614	主题	zhǔtí	theme
+5	615	主任	zhǔrèn	Headmaster
+5	616	抓	zhuā	grab
+5	617	专家	zhuānjiā	expert
+5	618	专心	zhuānxīn	Attentively
+5	619	转告	zhuǎngào	Tell, transmit
+5	620	装	zhuāng	pretend
+5	621	装修	zhuāngxiū	decorate house
+5	622	状况	zhuàngkuàng	status
+5	623	追	zhuī	run after
+5	624	资格	zīgé	Qualifications
+5	625	资料	zīliào	data
+5	626	姿势	zīshì	posture
+5	627	紫	zǐ	purple
+5	628	字幕	zìmù	Subtitle
+5	629	自动	zìdòng	automatic
+5	630	自由	zìyóu	free
+5	631	综合	zōnghé	comprehensive
+5	632	总共	zǒnggòng	In total
+5	633	总理	zǒnglǐ	prime minister
+5	634	总算	zǒngsuàn	finally
+5	635	总之	zǒngzhī	in short, in brief
+5	636	组成	zǔchéng	Form
+5	637	组织	zǔzhī	organization
+5	638	作文	zuòwén	composition
+5	639	哎	āi	Oh
+5	640	爱护	àihù	Care
+5	641	爱惜	àixī	Cherish
+5	642	安装	ānzhuāng	install
+5	643	暗	àn	dark
+5	644	把握	bǎwò	grasp
+5	645	摆	bǎi	pendulum
+5	646	办理	bànlǐ	handle
+5	647	傍晚	bàngwǎn	Evening
+5	648	包裹	bāoguǒ	package
+5	649	包括	bāokuò	Include
+5	650	薄	báo	thin
+5	651	宝贝	bǎobèi	baby
+5	652	保持	bǎochí	keep
+5	653	保险	bǎoxiǎn	Insurance
+5	654	抱怨	bàoyuàn	Complain
+5	655	报道	bàodào	report
+5	656	报社	bàoshè	Newspaper office
+5	657	背	bèi	Back
+5	658	本质	běnzhì	essence
+5	659	彼此	bǐcǐ	each other
+5	660	毕竟	bìjìng	after all
+5	661	避免	bìmiǎn	avoid
+5	662	编辑	biānjí	edit
+5	663	便	biàn	then, in that case
+5	664	标点	biāodiǎn	punctuation
+5	665	表明	biǎomíng	Indicate
+5	666	病毒	bìngdú	virus
+5	667	播放	bōfàng	play
+5	668	脖子	bózi	neck
+5	669	不要紧	búyàojǐn	Never mind
+5	670	布	bù	cloth, textile
+5	671	不安	bù’ān	Uneasy, unstable
+5	672	不得了	bùdéliǎo	Very
+5	673	不如	bùrú	not as good as
+5	674	步骤	bùzhòu	step
+5	675	采访	cǎifǎng	interview
+5	676	彩虹	cǎihóng	Rainbow
+5	677	参与	cānyù	participate in
+5	678	惭愧	cánkuì	Be ashamed
+5	679	操心	cāoxīn	Worry
+5	680	册	cè	volume, book
+5	681	测验	cèyàn	test
+5	682	曾经	céngjīng	once
+5	683	差距	chājù	disparity; distance
+5	684	产品	chǎnpǐn	product
+5	685	长途	chángtú	Long-distance
+5	686	抄	chāo	copy
+5	687	超级	chāojí	super
+5	688	朝	cháo	towards
+5	689	炒	chǎo	fry
+5	690	吵架	chǎojià	quarrel
+5	691	车厢	chēxiāng	carriage
+5	692	沉默	chénmò	silent
+5	693	称呼	chēnghu	to address
+5	694	承认	chéngrèn	Admit
+5	695	程度	chéngdù	degree
+5	696	成分	chéngfèn	component
+5	697	成果	chéngguǒ	Achievements
+5	698	成就	chéngjiù	achievement
+5	699	成熟	chéngshú	mature
+5	700	成长	chéngzhǎng	Grow up
+5	701	吃亏	chīkuī	Suffer
+5	702	迟早	chízǎo	sooner or later
+5	703	池塘	chítáng	Pond
+5	704	翅膀	chìbǎng	Wing
+5	705	充电器	chōngdiànqì	Charger
+5	706	充满	chōngmǎn	full of
+5	707	抽屉	chōuti	drawer
+5	708	臭	chòu	smelly
+5	709	出版	chūbǎn	publish
+5	710	出色	chūsè	excellent; outstanding
+5	711	初级	chūjí	primary
+5	712	传播	chuánbō	spread
+5	713	传说	chuánshuō	Legend
+5	714	窗帘	chuānglián	Window curtains
+5	715	创造	chuàngzào	create
+5	716	词汇	cíhuì	vocabulary
+5	717	辞职	cízhí	Resignation
+5	718	刺激	cìjī	stimulate
+5	719	从此	cóngcǐ	from then on
+5	720	从事	cóngshì	Be engaged in
+5	721	促进	cùjìn	Promote
+5	722	催	cuī	Reminder, urge
+5	723	存在	cúnzài	existence
+5	724	答应	dāying	promise
+5	725	达到	dádào	Achieve
+5	726	打交道	dǎjiāodao	Dealing with
+5	727	打喷嚏	dǎpēntì	Sneeze
+5	728	打听	dǎting	Inquire
+5	729	大方	dàfang	generous
+5	730	大型	dàxíng	large
+5	731	呆	dāi	stay
+5	732	代替	dàitì	replace
+5	733	贷款	dàikuǎn	extend credit to; provide a loan
+5	734	单纯	dānchún	Simple
+5	735	单独	dāndú	Alone
+5	736	单元	dānyuán	unit
+5	737	胆小鬼	dǎnxiǎoguǐ	Coward
+5	738	当地	dāngdì	Local
+5	739	当心	dāngxīn	Watch out
+5	740	挡	dǎng	block
+5	741	岛屿	dǎoyǔ	Islands
+5	742	导演	dǎoyǎn	director
+5	743	导致	dǎozhì	cause
+5	744	到达	dàodá	Arrive
+5	745	道德	dàodé	Morality
+5	746	等待	děngdài	wait for
+5	747	的确	díquè	indeed; be certain to
+5	748	地道	dìdao	tunnel
+5	749	地理	dìlǐ	Geography
+5	750	地区	dìqū	region
+5	751	地位	dìwèi	status
+5	752	点心	diǎnxin	snack
+5	753	电台	diàntái	radio station
+5	754	钓	diào	Fishing
+5	755	洞	dòng	hole
+5	756	豆腐	dòufu	Bean curd
+5	757	独立	dúlì	Independent
+5	758	断	duàn	break
+5	759	堆	duī	heap
+5	760	对方	duìfāng	the other party
+5	761	对象	duìxiàng	object
+5	762	兑换	duìhuàn	exchange
+5	763	蹲	dūn	squat
+5	764	多余	duōyú	surplus
+5	765	躲藏	duǒcáng	Hide oneself
+5	766	恶劣	èliè	Adverse
+5	767	耳环	ěrhuán	Earrings
+5	768	发愁	fāchóu	To be worried
+5	769	发抖	fādǒu	Tremble
+5	770	发明	fāmíng	Invention
+5	771	翻	fān	Turn
+5	772	反复	fǎnfù	Repeatedly
+5	773	反映	fǎnyìng	reflect
+5	774	方	fāng	square
+5	775	仿佛	fǎngfú	as if
+5	776	非	fēi	wrong; non
+5	777	废话	fèihuà	Crap
+5	778	分别	fēnbié	part
+5	779	分配	fēnpèi	distribution
+5	780	分析	fēnxī	Analysis
+5	781	纷纷	fēnfēn	one after another
+5	782	奋斗	fèndòu	Struggle
+5	783	风格	fēnggé	style
+5	784	风俗	fēngsú	Customs
+5	785	疯狂	fēngkuáng	Insane
+5	786	否定	fǒudìng	negative
+5	787	幅	fú	classifier of picture
+5	788	服装	fúzhuāng	costume; dress
+5	789	辅导	fǔdǎo	Coach
+5	790	妇女	fùnǚ	Woman
+5	791	改革	gǎigé	reform
+5	792	改善	gǎishàn	Improve
+5	793	盖	gài	cover
+5	794	概念	gàiniàn	concept
+5	795	干脆	gāncuì	simply
+5	796	干燥	gānzào	Dry
+5	797	感激	gǎnjī	Appreciate
+5	798	感受	gǎnshòu	feel
+5	799	赶紧	gǎnjǐn	Quickly
+5	800	钢铁	gāngtiě	steel
+5	801	高档	gāodàng	High-grade
+5	802	搞	gǎo	get
+5	803	格外	géwài	especially
+5	804	个别	gèbié	individual
+5	805	个性	gèxìng	personality
+5	806	根	gēn	root
+5	807	公布	gōngbù	Publish
+5	808	公元	gōngyuán	A.D.
+5	809	公主	gōngzhǔ	princess
+5	810	工程师	gōngchéngshī	Engineer
+5	811	工人	gōngrén	Worker
+5	812	恭喜	gōngxǐ	congratulations
+5	813	贡献	gòngxiàn	contribution
+5	814	构成	gòuchéng	constitute
+5	815	姑姑	gūgu	aunt
+5	816	古典	gǔdiǎn	classical
+5	817	鼓舞	gǔwǔ	Inspire
+5	818	股票	gǔpiào	shares; stock
+5	819	固定	gùdìng	fixed
+5	820	挂号	guàhào	Register
+5	821	拐弯	guǎiwān	Turn
+5	822	官	guān	officer
+5	823	关闭	guānbì	close; shut
+5	824	观点	guāndiǎn	viewpoint
+5	825	管子	guǎnzi	pipe
+5	826	光临	guānglín	presence
+5	827	光盘	guāngpán	CD
+5	828	广场	guǎngchǎng	square
+5	829	广泛	guǎngfàn	widely
+5	830	规矩	guīju	Rules
+5	831	规模	guīmó	scale
+5	832	归纳	guīnà	Induce
+5	833	柜台	guìtái	Counter
+5	834	锅	guō	pot
+5	835	国王	guówáng	king
+5	836	果然	guǒrán	Sure enough
+5	837	过分	guòfèn	excessive
+5	838	过期	guòqī	Be overdue
+5	839	哈	hā	ah
+5	840	海关	hǎiguān	Customs
+5	841	喊	hǎn	shout
+5	842	行业	hángyè	industry
+5	843	好客	hàokè	Hospitable
+5	844	和平	hépíng	peace
+5	845	何况	hékuàng	Not to mention
+5	846	合影	héyǐng	Group photo
+5	847	核心	héxīn	core
+5	848	后果	hòuguǒ	Consequence
+5	849	忽然	hūrán	suddenly
+5	850	呼吸	hūxī	breathing
+5	851	蝴蝶	húdié	Butterfly
+5	852	胡同	hútòng	Hutong
+5	853	华裔	huáyì	Chinese born
+5	854	滑	huá	slippery
+5	855	化学	huàxué	Chemistry
+5	856	缓解	huǎnjiě	relieve
+5	857	幻想	huànxiǎng	fantasy
+5	858	挥	huī	Essential
+5	859	灰尘	huīchén	dust
+5	860	恢复	huīfù	recovery
+5	861	汇率	huìlǜ	exchange rate
+5	862	婚姻	hūnyīn	Marriage
+5	863	火柴	huǒchái	Match
+5	864	激烈	jīliè	fierce
+5	865	肌肉	jīròu	muscle
+5	866	极其	jíqí	extremely
+5	867	集体	jítǐ	collective
+5	868	急忙	jímáng	Hastily
+5	869	记录	jìlù	Record
+5	870	计算	jìsuàn	Calculation
+5	871	系领带	jìlǐngdài	wear a tie
+5	872	纪律	jìlǜ	discipline
+5	873	寂寞	jìmò	lonely
+5	874	家庭	jiātíng	Family
+5	875	家乡	jiāxiāng	Hometown
+5	876	夹子	jiāzi	Clip
+5	877	假设	jiǎshè	in case of
+5	878	嫁	jià	get married to
+5	879	价值	jiàzhí	value
+5	880	肩膀	jiānbǎng	shoulder
+5	881	坚决	jiānjué	firm, determined
+5	882	艰巨	jiānjù	arduous
+5	883	兼职	jiānzhí	Part-time job
+5	884	简历	jiǎnlì	resume
+5	885	剪刀	jiǎndāo	scissors
+5	886	建立	jiànlì	establish
+5	887	讲究	jiǎngjiu	Pay attention to; daintily
+5	888	交际	jiāojì	communication
+5	889	胶水	jiāoshuǐ	glue
+5	890	狡猾	jiǎohuá	cunning
+5	891	教练	jiàoliàn	coach
+5	892	接触	jiēchù	Contact
+5	893	接近	jiējìn	near
+5	894	阶段	jiēduàn	stage
+5	895	戒指	jièzhi	Ring
+5	896	金属	jīnshǔ	Metal
+5	897	进口	jìnkǒu	Imported
+5	898	尽力	jìnlì	Try the best
+5	899	精力	jīnglì	energy
+5	900	经商	jīngshāng	be in business; trade
+5	901	经营	jīngyíng	Management
+5	902	酒吧	jiǔbā	Bar
+5	903	救护车	jiùhùchē	Ambulance
+5	904	居然	jūrán	actually
+5	905	具体	jùtǐ	specific
+5	906	俱乐部	jùlèbù	Club
+5	907	据说	jùshuō	allegedly; it`s said
+5	908	捐	juān	Donate
+5	909	决心	juéxīn	Determination
+5	910	角色	juésè	role
+5	911	均匀	jūnyún	uniformity
+5	912	卡车	kǎchē	Truck
+5	913	开发	kāifā	Development
+5	914	开幕式	kāimùshì	The opening ceremony
+5	915	看望	kànwàng	visit
+5	916	靠	kào	lean
+5	917	颗	kē	pellet (measure word)
+5	918	可靠	kěkào	reliable
+5	919	课程	kèchéng	curriculum
+5	920	克服	kèfú	Overcome
+5	921	刻苦	kèkǔ	Hardworking
+5	922	空间	kōngjiān	space
+5	923	空闲	kòngxián	free
+5	924	夸张	kuāzhāng	exagerate
+5	925	会计	kuàijì	accountant
+5	926	宽	kuān	wide
+5	927	昆虫	kūnchóng	insect
+5	928	拦	lán	Stop
+5	929	朗读	lǎngdú	Reading aloud
+5	930	劳驾	láojià	Excuse me
+5	931	老百姓	lǎobǎixìng	Ordinary people
+5	932	老实	lǎoshi	honest
+5	933	老婆	lǎopó	wife
+5	934	乐观	lèguān	optimistic
+5	935	雷	léi	Thunder
+5	936	类型	lèixíng	type
+5	937	冷淡	lěngdàn	cool attitude
+5	938	梨	lí	pear
+5	939	离婚	líhūn	divorce
+5	940	厘米	límǐ	centimeter
+5	941	立即	lìjí	immediately
+5	942	利润	lìrùn	profit
+5	943	利益	lìyì	interest
+5	944	连续	liánxù	serial
+5	945	恋爱	liàn’ài	Love, in love
+5	946	良好	liánghǎo	good
+5	947	粮食	liángshi	foodstuff
+5	948	亮	liàng	bright
+5	949	铃	líng	bell
+5	950	零件	língjiàn	Spare parts
+5	951	零食	língshí	snacks
+5	952	领导	lǐngdǎo	Leader
+5	953	流泪	liúlèi	Shed tears
+5	954	陆续	lùxù	One after another
+5	955	录音	lùyīn	Sound recording
+5	956	轮流	lúnliú	take turns
+5	957	逻辑	luóji	logic
+5	958	馒头	mántou	Steamed buns
+5	959	毛病	máobìng	Trouble
+5	960	矛盾	máodùn	contradiction
+5	961	贸易	màoyì	Trade
+5	962	媒体	méitǐ	media
+5	963	煤炭	méitàn	coal
+5	964	魅力	mèilì	charm
+5	965	梦想	mèngxiǎng	Dream
+5	966	蜜蜂	mìfēng	honeybee
+5	967	密切	mìqiè	close
+5	968	秘书	mìshū	secretary
+5	969	面积	miànjī	The measure of area
+5	970	描写	miáoxiě	describe
+5	971	敏感	mǐngǎn	Sensitive
+5	972	明星	míngxīng	Star
+5	973	名片	míngpiàn	business card
+5	974	命运	mìngyùn	fate, destiny
+5	975	模仿	mófǎng	imitate
+5	976	模特	mótè	model
+5	977	陌生	mòshēng	strange
+5	978	目前	mùqián	at present
+5	979	难怪	nánguài	no wonder
+5	980	内部	nèibù	interior
+5	981	嗯	en	Well
+5	982	念	niàn	Read
+5	983	浓	nóng	strong
+5	984	农民	nóngmín	farmer
+5	985	欧洲	Ōuzhōu	Europe
+5	986	偶然	ǒurán	accidental
+5	987	拍	pāi	beat
+5	988	盼望	pànwàng	look forward to
+5	989	培训	péixùn	Train
+5	990	佩服	pèifu	Admire
+5	991	盆	pén	basin, pot
+5	992	碰	pèng	touch, meet
+5	993	批	pī	batch
+5	994	批准	pīzhǔn	Approval
+5	995	疲劳	píláo	fatigue
+5	996	匹	pǐ	Horse (meaure word)
+5	997	片	piàn	slice
+5	998	飘	piāo	Gone with the wind
+5	999	频道	píndào	channel
+5	1000	凭	píng	By
+5	1001	平安	píng’ān	sound and safe
+5	1002	平等	píngděng	equality
+5	1003	平衡	pínghéng	balance
+5	1004	平均	píngjūn	Average
+5	1005	破产	pòchǎn	bankruptcy
+5	1006	迫切	pòqiè	urgent
+5	1007	期间	qījiān	Period
+5	1008	其余	qíyú	Rest
+5	1009	企业	qǐyè	enterprise
+5	1010	前途	qiántú	future
+5	1011	欠	qiàn	owe
+5	1012	墙	qiáng	wall
+5	1013	强烈	qiángliè	strong
+5	1014	切	qiē	cut
+5	1015	亲自	qīnzì	personally
+5	1016	青	qīng	young
+5	1017	青少年	qīngshàonián	Teenagers
+5	1018	轻易	qīngyì	easily
+5	1019	清淡	qīngdàn	light
+5	1020	情景	qíngjǐng	scene
+5	1021	情绪	qíngxù	emotion
+5	1022	庆祝	qìngzhù	Celebrate
+5	1023	娶	qǔ	marry
+5	1024	取消	qǔxiāo	cancel
+5	1025	圈	quān	circle
+5	1026	全面	quánmiàn	comprehensive
+5	1027	权利	quánlì	right, interest
+5	1028	确定	quèdìng	Determine
+5	1029	热烈	rèliè	warm
+5	1030	人口	rénkǒu	population
+5	1031	人民币	rénmínbì	RMB
+5	1032	人事	rénshì	Personnel matters
+5	1033	人员	rényuán	personnel
+5	1034	日常	rìcháng	daily
+5	1035	日期	rìqī	Date
+5	1036	日子	rìzi	life, days
+5	1037	如今	rújīn	nowadays
+5	1038	软	ruǎn	soft
+5	1039	弱	ruò	weak
+5	1040	色彩	sècǎi	color
+5	1041	杀	shā	kill
+5	1042	沙漠	shāmò	Desert
+5	1043	傻	shǎ	silly
+5	1044	删除	shānchú	delete
+5	1045	善良	shànliáng	kind; virtuous
+5	1046	扇子	shànzi	Fan
+5	1047	商业	shāngyè	business
+5	1048	上当	shàngdàng	When
+5	1049	蛇	shé	snake
+5	1050	设备	shèbèi	equipment
+5	1051	设施	shèshī	facilities
+5	1052	射击	shèjī	Shooting
+5	1053	身材	shēncái	figure
+5	1054	神话	shénhuà	Myth
+5	1055	升	shēng	rise
+5	1056	生产	shēngchǎn	production
+5	1057	声调	shēngdiào	Tone
+5	1058	绳子	shéngzi	Rope
+5	1059	省略	shěnglüè	ellipsis
+5	1060	胜利	shènglì	victory
+5	1061	失去	shīqù	Lose
+5	1062	失业	shīyè	Unemployment
+5	1063	湿润	shīrùn	Moist
+5	1064	时差	shíchā	time difference
+5	1065	时刻	shíkè	time
+5	1066	时期	shíqī	period
+5	1067	实话	shíhuà	The truth
+5	1068	实践	shíjiàn	practice
+5	1069	实现	shíxiàn	Realization
+5	1070	实用	shíyòng	Practical
+5	1071	食物	shíwù	food
+5	1072	士兵	shìbīng	soldiers
+5	1073	似的	shìde	Likely
+5	1074	事实	shìshí	Fact
+5	1075	事先	shìxiān	Prior
+5	1076	收获	shōuhuò	Harvest
+5	1077	手套	shǒutào	glove
+5	1078	手指	shǒuzhǐ	finger
+5	1079	蔬菜	shūcài	Vegetables
+5	1080	舒适	shūshì	Comfortable
+5	1081	梳子	shūzi	comb
+5	1082	属于	shǔyú	belong to
+5	1083	数	shǔ	to count
+5	1084	甩	shuǎi	Rejection
+5	1085	说不定	shuōbudìng	maybe
+5	1086	撕	sī	tear
+5	1087	丝毫	sīháo	A bit
+5	1088	思考	sīkǎo	Reflection
+5	1089	私人	sīrén	private
+5	1090	搜索	sōusuǒ	search
+5	1091	宿舍	sùshè	dormitory
+5	1092	随时	suíshí	at any time
+5	1093	随手	suíshǒu	Readily
+5	1094	缩短	suōduǎn	Shorten
+5	1095	所	suǒ	place
+5	1096	太太	tàitai	Ma’am
+5	1097	谈判	tánpàn	negotiation
+5	1098	坦率	tǎnshuài	frank
+5	1099	烫	tàng	Hot
+5	1100	桃	táo	peach
+5	1101	逃避	táobì	escape
+5	1102	特殊	tèshū	special
+5	1103	特征	tèzhēng	Features
+5	1104	疼爱	téng’ài	Love dearly
+5	1105	提纲	tígāng	outline
+5	1106	提问	tíwèn	Put questions to
+5	1107	体会	tǐhuì	Experience
+5	1108	体现	tǐxiàn	Reflect
+5	1109	调皮	tiáopí	naughty
+5	1110	挑战	tiǎozhàn	challenge
+5	1111	痛苦	tòngkǔ	Pain
+5	1112	投入	tóurù	put into
+5	1113	透明	tòumíng	transparent
+5	1114	土地	tǔdì	land
+5	1115	吐	tù	spit
+5	1116	团	tuán	group
+5	1117	推广	tuīguǎng	Extension
+5	1118	退步	tuìbù	Backward
+5	1119	歪	wāi	Crooked
+5	1120	外交	wàijiāo	International Relations
+5	1121	完美	wánměi	perfect
+5	1122	完善	wánshàn	perfect
+5	1123	王子	wángzǐ	prince
+5	1124	往返	wǎngfǎn	Return
+5	1125	网络	wǎngluò	network
+5	1126	危害	wēihài	Harm
+5	1127	微笑	wēixiào	Smile
+5	1128	违反	wéifǎn	Violation
+5	1129	围巾	wéijīn	scarf
+5	1130	唯一	wéiyī	Only
+5	1131	伟大	wěidà	great
+5	1132	胃口	wèikǒu	Appetite
+5	1133	位置	wèizhì	position
+5	1134	未来	wèilái	Future
+5	1135	温暖	wēnnuǎn	warm
+5	1136	闻	wén	smell
+5	1137	文件	wénjiàn	file
+5	1138	文明	wénmíng	civilization
+5	1139	文字	wénzì	writing, character
+5	1140	吻	wěn	kiss
+5	1141	握手	wòshǒu	Handshake
+5	1142	屋子	wūzi	House
+5	1143	无奈	wúnài	have no choice
+5	1144	无所谓	wúsuǒwèi	cannot be designated as
+5	1145	武术	wǔshù	A martial art
+5	1146	雾	wù	Fog
+5	1147	物理	wùlǐ	Physics
+5	1148	吸收	xīshōu	absorb
+5	1149	系	xì	department
+5	1150	细节	xìjié	details
+5	1151	瞎	xiā	blind
+5	1152	鲜艳	xiānyàn	Colorful
+5	1153	显得	xiǎnde	Appear, seem
+5	1154	显示	xiǎnshì	display
+5	1155	现代	xiàndài	modern
+5	1156	现实	xiànshí	reality
+5	1157	限制	xiànzhì	limit
+5	1158	相处	xiāngchǔ	Get along with
+5	1159	相对	xiāngduì	Relative
+5	1160	相关	xiāngguān	correlate
+5	1161	想象	xiǎngxiàng	imagine
+5	1162	项	xiàng	term
+5	1163	项目	xiàngmù	project
+5	1164	象棋	xiàngqí	Xiangqi
+5	1165	消费	xiāofèi	consumption
+5	1166	消化	xiāohuà	Digestion
+5	1167	销售	xiāoshòu	Sale
+5	1168	小麦	xiǎomài	Wheat
+5	1169	效率	xiàolǜ	efficiency
+5	1170	歇	xiē	Rest
+5	1171	欣赏	xīnshǎng	Appreciate
+5	1172	信号	xìnhào	signal
+5	1173	行动	xíngdòng	Get some action
+5	1174	行人	xíngrén	pedestrian
+5	1175	形成	xíngchéng	formation
+5	1176	形式	xíngshì	form
+5	1177	形象	xíngxiàng	image
+5	1178	性质	xìngzhì	Nature
+5	1179	幸亏	xìngkuī	Thanks
+5	1180	胸	xiōng	chest
+5	1181	修改	xiūgǎi	modify
+5	1182	休闲	xiūxián	Leisure time
+5	1183	叙述	xùshù	Narration
+5	1184	宣传	xuānchuán	Propaganda
+5	1185	学历	xuélì	education degree
+5	1186	学问	xuéwen	knowledge
+5	1187	血	xuè	blood
+5	1188	寻找	xúnzhǎo	Seek, look for
+5	1189	迅速	xùnsù	rapid
+5	1190	延长	yáncháng	extend
+5	1191	严肃	yánsù	serious
+5	1192	演讲	yǎnjiǎng	speech
+5	1193	阳台	yángtái	balcony
+5	1194	摇	yáo	shake
+5	1195	要不	yàobù	Or
+5	1196	业务	yèwù	business
+5	1197	一辈子	yíbèizi	A lifetime
+5	1198	一律	yílǜ	all and singular
+5	1199	移动	yídòng	move
+5	1200	遗憾	yíhàn	pity
+5	1201	乙	yǐ	
+5	1202	以及	yǐjí	as well as
+5	1203	亿	yì	Billion
+5	1204	意义	yìyì	Significance
+5	1205	因而	yīn’ér	thus
+5	1206	银	yín	silver
+5	1207	印刷	yìnshuā	printing
+5	1208	英雄	yīngxióng	Hero
+5	1209	迎接	yíngjiē	meet, welcome
+5	1210	营业	yíngyè	Do business
+5	1211	影子	yǐngzi	shadow
+5	1212	硬件	yìngjiàn	Hardware
+5	1213	拥抱	yōngbào	embrace
+5	1214	用途	yòngtú	purpose
+5	1215	优美	yōuměi	Graceful
+5	1216	游览	yóulǎn	visit
+5	1217	犹豫	yóuyù	hesitate
+5	1218	幼儿园	yòu’éryuán	Kindergarten
+5	1219	与其	yǔqí	Rather than
+5	1220	语气	yǔqì	tone
+5	1221	预订	yùdìng	book; subscribe for
+5	1222	玉米	yùmǐ	Corn
+5	1223	原料	yuánliào	raw material
+5	1224	原则	yuánzé	Principle
+5	1225	乐器	yuèqì	instrument
+5	1226	运输	yùnshū	transport
+5	1227	在于	zàiyú	rest with
+5	1228	赞美	zànměi	Praise
+5	1229	则	zé	be
+5	1230	摘	zhāi	pick
+5	1231	粘贴	zhāntiē	paste
+5	1232	展览	zhǎnlǎn	exhibition
+5	1233	占	zhàn	occupy
+5	1234	战争	zhànzhēng	War
+5	1235	长辈	zhǎngbèi	Elder
+5	1236	涨	zhǎng	rise
+5	1237	招待	zhāodài	Entertain
+5	1238	着火	zháohuǒ	on fire
+5	1239	着凉	zháoliáng	get cold
+5	1240	召开	zhàokāi	convene
+5	1241	照常	zhàocháng	as usual
+5	1242	哲学	zhéxué	Philosophy
+5	1243	真实	zhēnshí	real
+5	1244	针对	zhēnduì	aim at
+5	1245	诊断	zhěnduàn	Diagnosis
+5	1246	振动	zhèndòng	Vibration
+5	1247	争论	zhēnglùn	debate
+5	1248	征求	zhēngqiú	ask for
+5	1249	整体	zhěngtǐ	Whole
+5	1250	政治	zhèngzhì	Politics
+5	1251	证据	zhèngjù	evidence
+5	1252	挣	zhèng	earn, make
+5	1253	直	zhí	straight
+5	1254	执照	zhízhào	License
+5	1255	指挥	zhǐhuī	command
+5	1256	制度	zhìdù	system
+5	1257	制作	zhìzuò	Make
+5	1258	至今	zhìjīn	so far
+5	1259	至于	zhìyú	As for
+5	1260	治疗	zhìliáo	Treatment
+5	1261	志愿者	zhìyuànzhě	Volunteer
+5	1262	中心	zhōngxīn	core
+5	1263	种类	zhǒnglèi	type
+5	1264	重大	zhòngdà	significant
+5	1265	重量	zhòngliàng	weight
+5	1266	猪	zhū	pig
+5	1267	逐渐	zhújiàn	gradually
+5	1268	煮	zhǔ	cook
+5	1269	主动	zhǔdòng	active
+5	1270	主人	zhǔrén	master
+5	1271	主席	zhǔxí	Chairman
+5	1272	主张	zhǔzhāng	opinion
+5	1273	祝福	zhùfú	blessing
+5	1274	注册	zhùcè	register
+5	1275	抓紧	zhuājǐn	Pay close attention to, grasp
+5	1276	转变	zhuǎnbiàn	change
+5	1277	装饰	zhuāngshì	decorate
+5	1278	撞	zhuàng	Hit
+5	1279	状态	zhuàngtài	state
+5	1280	追求	zhuīqiú	Pursuit
+5	1281	资金	zījīn	capital
+5	1282	资源	zīyuán	Resources
+5	1283	咨询	zīxún	Consultation
+5	1284	字母	zìmǔ	Letter
+5	1285	自从	zìcóng	Since
+5	1286	自豪	zìháo	Proud
+5	1287	自觉	zìjué	Conscious
+5	1288	自私	zìsī	selfish
+5	1289	自愿	zìyuàn	voluntarily
+5	1290	总裁	zǒngcái	CEO
+5	1291	总统	zǒngtǒng	President
+5	1292	组	zǔ	group
+5	1293	组合	zǔhé	combination
+5	1294	阻止	zǔzhǐ	prevent
+5	1295	醉	zuì	drunk
+5	1296	最初	zuìchū	First, at the beginning
+5	1297	尊敬	zūnjìng	respect
+5	1298	遵守	zūnshǒu	comply with
+5	1299	作品	zuòpǐn	works
+5	1300	作为	zuòwéi	As
+6	1	挨	ái	Next to
+6	2	癌症	áizhèng	cancer
+6	3	爱不释手	àibúshìshǒu	So much that one cannot bear to part with it
+6	4	爱戴	àidài	love and esteem
+6	5	暧昧	àimèi	ambiguous
+6	6	安宁	ānníng	peaceful; calm
+6	7	安详	ānxiáng	serene; composed
+6	8	安置	ānzhì	put; arrange for
+6	9	暗示	ànshì	suggest secretly
+6	10	案件	ànjiàn	law case; case
+6	11	案例	ànlì	case
+6	12	按摩	ànmó	massage
+6	13	昂贵	ángguì	expensive
+6	14	凹凸	āotū	concave-convex
+6	15	熬	áo	Boil
+6	16	奥秘	àomì	secret
+6	17	扒	bā	hold on to; dig up; push aside;
+6	18	疤	bā	scar
+6	19	巴不得	bābude	eagerly look forward to
+6	20	巴结	bājié	stutter
+6	21	拔苗助长	bámiáozhùzhǎng	Spoil things by excessive enthusiasm
+6	22	把关	bǎguān	hold the pass
+6	23	把手	bǎshou	knob
+6	24	霸道	bàdào	overbearing
+6	25	罢工	bàgōng	Strike
+6	26	掰	bāi	break off with fingers and thumb
+6	27	摆脱	bǎituō	cast off
+6	28	拜访	bàifǎng	visit
+6	29	拜年	bàinián	congratulate the New Year
+6	30	拜托	bàituō	request
+6	31	败坏	bàihuài	Corrupt
+6	32	斑	bān	speckle
+6	33	颁布	bānbù	promulgate; issue
+6	34	颁发	bānfā	award; issue
+6	35	版本	bǎnběn	Edition
+6	36	半途而废	bàntú’érfèi	Give up halfway
+6	37	伴侣	bànlǚ	partner; mate
+6	38	伴随	bànsuí	go with
+6	39	扮演	bànyǎn	Play the role
+6	40	绑架	bǎngjià	Kidnap
+6	41	榜样	bǎngyàng	example
+6	42	磅	bàng	pound
+6	43	包庇	bāobì	Shield
+6	44	包袱	bāofu	Burden
+6	45	包围	bāowéi	Surround
+6	46	包装	bāozhuāng	pack; put up; make up
+6	47	饱和	bǎohé	saturated
+6	48	饱经沧桑	bǎojīngcāngsāng	Have seen much of the changes in human life
+6	49	保管	bǎoguǎn	Safekeeping
+6	50	保密	bǎomì	secrecy
+6	51	保姆	bǎomǔ	nurse; mammy
+6	52	保守	bǎoshǒu	Conservative
+6	53	保卫	bǎowèi	Defend
+6	54	保养	bǎoyǎng	maintain
+6	55	保障	bǎozhàng	guarantee
+6	56	保重	bǎozhòng	take care of oneself
+6	57	抱负	bàofù	ambition
+6	58	报仇	bàochóu	revenge
+6	59	报酬	bàochou	remuneration
+6	60	报答	bàodá	reciprocate; pay back; repay
+6	61	报复	bàofù	Payback
+6	62	报警	bàojǐng	call the police
+6	63	报销	bàoxiāo	submit and expense account
+6	64	爆发	bàofā	burst
+6	65	爆炸	bàozhà	blast
+6	66	曝光	bàoguāng	exposure
+6	67	暴力	bàolì	violence
+6	68	暴露	bàolù	Expose
+6	69	悲哀	bēi’āi	Grief
+6	70	悲惨	bēicǎn	miserable
+6	71	卑鄙	bēibǐ	despicable
+6	72	北极	běijí	arctic
+6	73	被动	bèidòng	passive
+6	74	被告	bèigào	Defendant
+6	75	背叛	bèipàn	sellout; betray
+6	76	背诵	bèisòng	recite
+6	77	备份	bèifèn	backups
+6	78	备忘录	bèiwànglù	Memorandum
+6	79	贝壳	bèikè	shell; conch
+6	80	奔波	bēnbō	rush about
+6	81	奔驰	bēnchí	run quickly
+6	82	本能	běnnéng	instinct
+6	83	本钱	běnqián	Capital
+6	84	本人	běnrén	oneself
+6	85	本身	běnshēn	itself
+6	86	本事	běnshi	Skill
+6	87	笨拙	bènzhuō	clumsy
+6	88	崩溃	bēngkuì	collapse breakdown
+6	89	甭	béng	Not
+6	90	蹦	bèng	Jump
+6	91	迸发	bèngfā	Burst
+6	92	逼迫	bīpò	force; compel
+6	93	鼻涕	bítì	nasal mucus
+6	94	比方	bǐfāng	Example
+6	95	比喻	bǐyù	comparison; trope
+6	96	比重	bǐzhòng	specific gravity; proportion
+6	97	鄙视	bǐshì	despise
+6	98	臂	bì	arm
+6	99	弊病	bìbìng	ills
+6	100	弊端	bìduān	malpractice
+6	101	闭塞	bìsè	Occlusion
+6	102	鞭策	biāncè	urge on
+6	103	编织	biānzhī	Weave
+6	104	边疆	biānjiāng	frontier
+6	105	边界	biānjiè	boundary
+6	106	边境	biānjìng	border; frontier
+6	107	边缘	biānyuán	edge
+6	108	扁	biǎn	flat
+6	109	贬低	biǎndī	depreciate
+6	110	贬义	biǎnyì	derogatory sense
+6	111	遍布	biànbù	All over
+6	112	便利	biànlì	facilitate
+6	113	便条	biàntiáo	Note
+6	114	便于	biànyú	Easy to
+6	115	变故	biàngù	Misfortune
+6	116	变迁	biànqiān	Changes
+6	117	变质	biànzhì	deteriorate
+6	118	辩护	biànhù	Defend
+6	119	辩解	biànjiě	Explain
+6	120	辩证	biànzhèng	dialectical
+6	121	辨认	biànrèn	distinguish
+6	122	辫子	biànzi	queue; plait
+6	123	标本	biāoběn	specimen; demo
+6	124	标记	biāojì	sign
+6	125	标题	biāotí	title; heading
+6	126	表决	biǎojué	Vote
+6	127	表态	biǎotài	clarify one’s position
+6	128	表彰	biǎozhāng	commend; cite
+6	129	憋	biē	hold back
+6	130	别墅	biéshù	Villa
+6	131	别致	biézhì	Unique
+6	132	别扭	bièniu	unnatural; awkward
+6	133	濒临	bīnlín	On the verge of
+6	134	冰雹	bīngbáo	hail
+6	135	丙	bǐng	
+6	136	并非	bìngfēi	not so
+6	137	并列	bìngliè	Parallel
+6	138	拨	bō	dial
+6	139	播种	bōzhòng	Sow
+6	140	波浪	bōlàng	wave
+6	141	波涛	bōtāo	waves
+6	142	剥削	bōxuē	exploitation
+6	143	博大精深	bódàjīngshēn	Broad and profound
+6	144	博览会	bólǎnhuì	exposition
+6	145	搏斗	bódòu	struggle; fight
+6	146	伯母	bómǔ	Aunt
+6	147	薄弱	bóruò	weak
+6	148	不顾	búgù	disregard
+6	149	不愧	búkuì	Worthy
+6	150	不料	búliào	Unexpectedly
+6	151	不像话	búxiànghuà	unreasonable
+6	152	不屑一顾	búxièyígù	A contemptuous disregard
+6	153	补偿	bǔcháng	compensate
+6	154	补救	bǔjiù	remedy
+6	155	补贴	bǔtiē	subsidy
+6	156	哺乳	bǔrǔ	lactation
+6	157	捕捉	bǔzhuō	Catch
+6	158	不得已	bùdéyǐ	have no alternative but to
+6	159	不妨	bùfáng	might as well
+6	160	不敢当	bùgǎndāng	I really don’t deserve this.
+6	161	不禁	bùjīn	Can not help but
+6	162	不堪	bùkān	can’t bear
+6	163	不可思议	bùkěsīyì	It is beyond logic and above reason
+6	164	不免	bùmiǎn	unavoidable
+6	165	不时	bùshí	now and then
+6	166	不惜	bùxī	not spare; not hesitate
+6	167	不相上下	bùxiāngshàngxià	about the same; equally matched
+6	168	不言而喻	bùyán’éryù	Self-evident
+6	169	不由得	bùyóude	Cannot help
+6	170	不择手段	bùzéshǒuduàn	Use unscrupulous divisive tactics
+6	171	不止	bùzhǐ	more than
+6	172	布告	bùgào	Notice
+6	173	布局	bùjú	distribution; layout
+6	174	布置	bùzhì	Arrangement
+6	175	步伐	bùfá	pace
+6	176	部署	bùshǔ	deploy
+6	177	部位	bùwèi	part; section
+6	178	才干	cáigàn	Talent
+6	179	财富	cáifù	wealth
+6	180	财务	cáiwù	financial affairs
+6	181	财政	cáizhèng	finance
+6	182	裁缝	cáifeng	Tailor
+6	183	裁判	cáipàn	Referee
+6	184	裁员	cáiyuán	Layoffs
+6	185	采购	cǎigòu	Purchase
+6	186	采集	cǎijí	gather; collect
+6	187	采纳	cǎinà	accept
+6	188	彩票	cǎipiào	lottery
+6	189	参谋	cānmóu	Staff officer
+6	190	参照	cānzhào	refer to
+6	191	残疾	cánjí	A disability
+6	192	残酷	cánkù	cruel
+6	193	残留	cánliú	Residual
+6	194	残忍	cánrěn	brutal
+6	195	灿烂	cànlàn	splendid
+6	196	舱	cāng	cabin
+6	197	苍白	cāngbái	pale
+6	198	仓促	cāngcù	Hasty
+6	199	仓库	cāngkù	Warehouse
+6	200	操劳	cāoláo	work hard
+6	201	操练	cāoliàn	drill; practice
+6	202	操纵	cāozòng	control
+6	203	操作	cāozuò	operation
+6	204	嘈杂	cáozá	noisy
+6	205	草案	cǎo’àn	draft
+6	206	草率	cǎoshuài	cursory; jerry
+6	207	策划	cèhuà	plan; hatch; plot
+6	208	策略	cèlüè	tactic; policy
+6	209	测量	cèliáng	measure
+6	210	侧面	cèmiàn	side; flank
+6	211	层出不穷	céngchūbùqióng	emerge in endlessly
+6	212	层次	céngcì	gradation; arrangement
+6	213	插座	chāzuò	socket
+6	214	差别	chābié	difference
+6	215	查获	cháhuò	hunt down and seize; ferret out
+6	216	岔	chà	turn off; fork
+6	217	刹那	chànà	Instant
+6	218	诧异	chàyì	astonished
+6	219	柴油	cháiyóu	diesel oil
+6	220	搀	chān	mix; mingle
+6	221	馋	chán	Greedy
+6	222	缠绕	chánrào	twine
+6	223	产业	chǎnyè	industry
+6	224	阐述	chǎnshù	expatiate; expound
+6	225	颤抖	chàndǒu	Tremble
+6	226	昌盛	chāngshèng	Prosperity
+6	227	尝试	chángshì	attempt
+6	228	偿还	chánghuán	repay
+6	229	场合	chǎnghé	occasion
+6	230	场面	chǎngmiàn	scene
+6	231	场所	chǎngsuǒ	place
+6	232	敞开	chǎngkāi	Open wide
+6	233	倡导	chàngdǎo	Advocate
+6	234	倡议	chàngyì	Initiative
+6	235	畅通	chàngtōng	unimpeded; unblocked
+6	236	畅销	chàngxiāo	sell well
+6	237	超越	chāoyuè	Transcend
+6	238	钞票	chāopiào	Bank note
+6	239	朝代	cháodài	Dynasty
+6	240	潮流	cháoliú	Trend
+6	241	嘲笑	cháoxiào	Ridicule
+6	242	巢穴	cháoxué	nest
+6	243	撤退	chètuì	haul off
+6	244	撤销	chèxiāo	repeal; retract
+6	245	沉淀	chéndiàn	subside
+6	246	沉闷	chénmèn	oppressive; withdrawn
+6	247	沉思	chénsī	Meditation
+6	248	沉重	chénzhòng	heavy
+6	249	沉着	chénzhuó	composed; cool headed
+6	250	陈旧	chénjiù	obsolete
+6	251	陈列	chénliè	display
+6	252	陈述	chénshù	present; state; mention
+6	253	衬托	chèntuō	set off
+6	254	称心如意	chènxīnrúyì	As one wishes
+6	255	称号	chēnghào	Title
+6	256	盛	chéng	fill
+6	257	橙	chéng	orange
+6	258	乘	chéng	ride
+6	259	承办	chéngbàn	Undertake
+6	260	承包	chéngbāo	Contract
+6	261	承诺	chéngnuò	Promise
+6	262	城堡	chéngbǎo	Castle
+6	263	成本	chéngběn	cost
+6	264	成交	chéngjiāo	Deal
+6	265	成天	chéngtiān	All day long
+6	266	成效	chéngxiào	Results, effects
+6	267	成心	chéngxīn	on purpose
+6	268	成员	chéngyuán	member
+6	269	惩罚	chéngfá	punish
+6	270	诚挚	chéngzhì	sincere; cordial; earnest
+6	271	澄清	chéngqīng	clarify
+6	272	呈现	chéngxiàn	Present
+6	273	秤	chèng	balance
+6	274	吃苦	chīkǔ	Hardship
+6	275	吃力	chīlì	Sweaty
+6	276	迟钝	chídùn	bluntness
+6	277	迟缓	chíhuǎn	tardy; sluggish
+6	278	迟疑	chíyí	Hesitation
+6	279	持久	chíjiǔ	Lasting
+6	280	赤道	chìdào	equator
+6	281	赤字	chìzì	deficit; red ink
+6	282	冲动	chōngdòng	impulse
+6	283	冲击	chōngjī	To attack
+6	284	冲突	chōngtū	conflict
+6	285	充当	chōngdāng	act as; serve as
+6	286	充沛	chōngpèi	Abundant
+6	287	充实	chōngshí	Enrich
+6	288	充足	chōngzú	adequate
+6	289	崇拜	chóngbài	worship
+6	290	崇高	chónggāo	lofty
+6	291	崇敬	chóngjìng	respect; revere
+6	292	重叠	chóngdié	overlap
+6	293	筹备	chóubèi	arrange; prepare
+6	294	稠密	chóumì	thick; dense
+6	295	丑恶	chǒu’è	ugly; filthy
+6	296	出路	chūlù	way out
+6	297	出卖	chūmài	sell
+6	298	出身	chūshēn	Birth
+6	299	出神	chūshén	Trance
+6	300	出息	chūxi	Good
+6	301	初步	chūbù	preliminary
+6	302	除	chú	except
+6	303	储备	chǔbèi	store
+6	304	储存	chǔcún	Storage
+6	305	储蓄	chǔxù	save up; bank
+6	306	处分	chǔfèn	prescription
+6	307	处境	chǔjìng	plight; situation
+6	308	处置	chǔzhì	treat; dispose
+6	309	触犯	chùfàn	offend; violate
+6	310	穿越	chuānyuè	Pass through
+6	311	川流不息	chuānliúbùxī	flowing up in an endless stream
+6	312	船舶	chuánbó	watercraft; ships
+6	313	传达	chuándá	Convey
+6	314	传单	chuándān	fly sheet; leaflet
+6	315	传授	chuánshòu	initiate; teach
+6	316	喘气	chuǎnqì	Panting
+6	317	串	chuàn	strand, cluster
+6	318	床单	chuángdān	Sheet
+6	319	创立	chuànglì	Found
+6	320	创新	chuàngxīn	innovate
+6	321	创业	chuàngyè	carve out
+6	322	创作	chuàngzuò	A literary creation
+6	323	吹牛	chuīniú	brag; boast
+6	324	吹捧	chuīpěng	flatter; puff
+6	325	炊烟	chuīyān	cooking smoke
+6	326	锤	chuí	hammer
+6	327	垂直	chuízhí	vertical
+6	328	纯粹	chúncuì	pure
+6	329	纯洁	chúnjié	pure
+6	330	磁带	cídài	Magnetic tape
+6	331	慈祥	cíxiáng	Kindly
+6	332	慈善	císhàn	charity
+6	333	雌雄	cíxióng	male and female
+6	334	刺	cì	thorn
+6	335	次品	cìpǐn	defective goods
+6	336	次序	cìxù	order; sequence
+6	337	伺候	cìhou	Wait
+6	338	丛	cóng	cluster
+6	339	从容	cóngróng	take one’s time; calm and unhurried
+6	340	凑合	còuhuo	gather together
+6	341	粗鲁	cūlǔ	rude
+6	342	窜	cuàn	Channeling
+6	343	摧残	cuīcán	devastate; wreck
+6	344	脆弱	cuìruò	fragile
+6	345	搓	cuō	Rub
+6	346	磋商	cuōshāng	negotiate
+6	347	挫折	cuòzhé	frustration
+6	348	搭	dā	to match, to take
+6	349	搭档	dādàng	partner
+6	350	搭配	dāpèi	arrange; match
+6	351	答辩	dábiàn	reply; answer
+6	352	答复	dáfù	Reply
+6	353	达成	dáchéng	Reach
+6	354	打包	dǎbāo	Pack
+6	355	打官司	dǎguānsi	To engage in a lawsuit
+6	356	打击	dǎjī	strike
+6	357	打架	dǎjià	Fight
+6	358	打量	dǎliang	look sb. up and down
+6	359	打猎	dǎliè	Go hunting
+6	360	打仗	dǎzhàng	To war
+6	361	大不了	dàbuliǎo	Big deal
+6	362	大臣	dàchén	Minister
+6	363	大伙儿	dàhuǒr	you all; everybody
+6	364	大肆	dàsì	Wantonly
+6	365	大体	dàtǐ	general
+6	366	大意	dàyi	Careless
+6	367	大致	dàzhì	roughly
+6	368	歹徒	dǎitú	gangster; mobster
+6	369	带领	dàilǐng	lead
+6	370	代价	dàijià	cost
+6	371	代理	dàilǐ	agent
+6	372	逮捕	dàibǔ	Arrest
+6	373	怠慢	dàimàn	cold-shoulder
+6	374	担保	dānbǎo	assure; hypothecate
+6	375	胆怯	dǎnqiè	coward, fear
+6	376	淡季	dànjì	Low Season
+6	377	淡水	dànshuǐ	fresh water
+6	378	蛋白质	dànbáizhì	Protein
+6	379	诞辰	dànchén	Birthday
+6	380	诞生	dànshēng	Be born
+6	381	当场	dāngchǎng	On the spot
+6	382	当初	dāngchū	Original
+6	383	当代	dāngdài	Contemporary
+6	384	当面	dāngmiàn	Face to face
+6	385	当前	dāngqián	current
+6	386	当事人	dāngshìrén	client
+6	387	当务之急	dāngwùzhījí	A pressing matter of the moment
+6	388	当选	dāngxuǎn	be elected; come in
+6	389	党	dǎng	party
+6	390	档案	dàng’àn	archives
+6	391	档次	dàngcì	grade
+6	392	倒闭	dǎobì	Collapse
+6	393	导弹	dǎodàn	Missile
+6	394	导航	dǎoháng	navigate
+6	395	导向	dǎoxiàng	guide
+6	396	捣乱	dǎoluàn	Trouble
+6	397	稻谷	dàogǔ	Unhusked rice
+6	398	盗窃	dàoqiè	steal; pilfer
+6	399	得不偿失	débùchángshī	be not worth the candle; get more kicks than halfpence
+6	400	得力	délì	right-hand
+6	401	得天独厚	détiāndúhòu	Be richly endowed by nature
+6	402	得罪	dézuì	Offend
+6	403	蹬	dēng	thrust
+6	404	灯笼	dēnglong	lantern
+6	405	登陆	dēnglù	disembark; land
+6	406	登录	dēnglù	Sign in
+6	407	等候	děnghòu	Wait
+6	408	等级	děngjí	grade; rank
+6	409	瞪	dèng	Stare
+6	410	堤坝	dībà	Dam
+6	411	敌视	díshì	be hostile to; antagonize
+6	412	抵达	dǐdá	Arrive
+6	413	抵抗	dǐkàng	resistance
+6	414	抵制	dǐzhì	resist; reject; repel
+6	415	递增	dìzēng	Increasing
+6	416	地步	dìbù	condition; plight; situation; state; extent
+6	417	地势	dìshì	Terrain
+6	418	地质	dìzhì	geology
+6	419	颠簸	diānbǒ	bump; welter
+6	420	颠倒	diāndǎo	Upside down
+6	421	点缀	diǎnzhuì	Embellishment
+6	422	典礼	diǎnlǐ	Ceremony
+6	423	典型	diǎnxíng	typical
+6	424	垫	diàn	pad
+6	425	电源	diànyuán	power supply
+6	426	奠定	diàndìng	Establish
+6	427	惦记	diànjì	Miss
+6	428	叼	diāo	hold in mouth
+6	429	雕刻	diāokè	carving
+6	430	雕塑	diāosù	Sculpture
+6	431	吊	diào	crane
+6	432	调动	diàodòng	transfer
+6	433	跌	diē	fall
+6	434	丁	dīng	
+6	435	盯	dīng	stare at
+6	436	叮嘱	dīngzhǔ	urge again and again; exhort; warn
+6	437	定期	dìngqī	regular
+6	438	定义	dìngyì	Definition
+6	439	丢人	diūrén	lose face
+6	440	丢三落四	diūsānlàsì	Miss or lose this and that
+6	441	东道主	dōngdàozhǔ	Host
+6	442	东张西望	dōngzhāngxīwàng	Look around
+6	443	董事长	dǒngshìzhǎng	Chairman
+6	444	栋	dòng	Building (measure word)
+6	445	冻结	dòngjié	Frozen
+6	446	动荡	dòngdàng	turbulence
+6	447	动机	dòngjī	motivation
+6	448	动静	dòngjing	Movement
+6	449	动力	dònglì	power, motivation
+6	450	动脉	dòngmài	artery
+6	451	动身	dòngshēn	Leave
+6	452	动手	dòngshǒu	DIY
+6	453	动态	dòngtài	dynamic
+6	454	动员	dòngyuán	mobilization
+6	455	兜	dōu	Pocket
+6	456	陡峭	dǒuqiào	Steep
+6	457	斗争	dòuzhēng	Struggle
+6	458	督促	dūcù	supervise and urge
+6	459	独裁	dúcái	autocracy
+6	460	毒品	dúpǐn	narcotics
+6	461	赌博	dǔbó	gambling
+6	462	堵塞	dǔsè	blocking
+6	463	杜绝	dùjué	Stop， ban
+6	464	端	duān	end
+6	465	端午节	uānwǔjié	The Dragon Boat Festival
+6	466	端正	duānzhèng	correct
+6	467	短促	duǎncù	very brief
+6	468	断定	duàndìng	be sure; figure out
+6	469	断绝	duànjué	be sure; figure out
+6	470	堆积	duījī	Accumulation
+6	471	对策	duìcè	countermeasure
+6	472	对称	duìchèn	symmetrical
+6	473	对付	duìfu	deal with
+6	474	对抗	duìkàng	Combat
+6	475	对立	duìlì	Opposition
+6	476	对联	duìlián	Antithetical couplet
+6	477	对应	duìyìng	Corresponding
+6	478	对照	duìzhào	compare; collate
+6	479	兑现	duìxiàn	Cash
+6	480	队伍	duìwu	Ranks
+6	481	顿时	dùnshí	Suddenly
+6	482	多元化	duōyuánhuà	Diversification
+6	483	哆嗦	duōsuo	Shiver
+6	484	堕落	duòluò	Degenerate
+6	485	额外	éwài	extra; additional
+6	486	恶心	ěxin	disgusting
+6	487	恶化	èhuà	deteriorate
+6	488	遏制	èzhì	contain
+6	489	恩怨	ēnyuàn	Resentment
+6	490	而已	éryǐ	Nothing more
+6	491	二氧化碳	èryǎnghuàtàn	Carbon dioxide
+6	492	发布	fābù	Release
+6	493	发财	fācái	make a fortune; make a pile
+6	494	发呆	fādāi	In a daze
+6	495	发动	fādòng	Launch
+6	496	发觉	fājué	find
+6	497	发射	fāshè	launch
+6	498	发誓	fāshì	swear
+6	499	发行	fāxíng	issue
+6	500	发炎	fāyán	inflammation
+6	501	发扬	fāyáng	carry forward
+6	502	发育	fāyù	Development, growth
+6	503	法人	fǎrén	juridical person
+6	504	番	fān	Some
+6	505	繁华	fánhuá	Bustling
+6	506	繁忙	fánmáng	busy
+6	507	繁体字	fántǐzì	the traditional Chinese character
+6	508	繁殖	fánzhí	Reproduction
+6	509	凡是	fánshì	All
+6	510	反驳	fǎnbó	refute
+6	511	反常	fǎncháng	abnormal
+6	512	反感	fǎngǎn	Disgusted
+6	513	反抗	fǎnkàng	Resistance
+6	514	反馈	fǎnkuì	feedback
+6	515	反面	fǎnmiàn	The other side
+6	516	反射	fǎnshè	echo; reflect
+6	517	反思	fǎnsī	Reflect
+6	518	反问	fǎnwèn	rhetorical question
+6	519	反之	fǎnzhī	on the contrary; whereas
+6	520	范畴	fànchóu	category
+6	521	泛滥	fànlàn	Flood
+6	522	贩卖	fànmài	Trafficking
+6	523	方位	fāngwèi	Position
+6	524	方言	fāngyán	dialect
+6	525	方圆	fāngyuán	circumference
+6	526	方针	fāngzhēn	policy
+6	527	防守	fángshǒu	Defense
+6	528	防御	fángyù	defense
+6	529	防止	fángzhǐ	Prevent
+6	530	防治	fángzhì	Prevention and cure
+6	531	访问	fǎngwèn	Visit
+6	532	纺织	fǎngzhī	Spin
+6	533	放大	fàngdà	enlarge
+6	534	放射	fàngshè	radiation
+6	535	非法	fēifǎ	illegal
+6	536	飞禽走兽	fēiqínzǒushòu	Birds and animals
+6	537	飞翔	fēixiáng	flight
+6	538	飞跃	fēiyuè	leap
+6	539	肥沃	féiwò	fertile
+6	540	诽谤	fěibàng	slander; defame
+6	541	肺	fèi	lung
+6	542	废除	fèichú	Abolish
+6	543	废墟	fèixū	Ruins
+6	544	废寝忘食	fèiqǐnwàngshí	forget all about sleeping and eating
+6	545	沸腾	fèiténg	boiling
+6	546	分辨	fēnbiàn	Distinguish
+6	547	分寸	fēncùn	Sense of propriety
+6	548	分红	fēnhóng	bonus
+6	549	分解	fēnjiě	decompose
+6	550	分裂	fēnliè	division
+6	551	分泌	fēnmì	secretion
+6	552	分明	fēnmíng	clear
+6	553	分歧	fēnqí	divergence
+6	554	分散	fēnsàn	Dispersed
+6	555	吩咐	fēnfù	Tell
+6	556	坟墓	fénmù	Grave
+6	557	粉末	fěnmò	powder
+6	558	粉色	fěnsè	Pink
+6	559	粉碎	fěnsuì	smash
+6	560	分量	fènliàng	Weight
+6	561	愤怒	fènnù	anger
+6	562	风暴	fēngbào	Storm
+6	563	风度	fēngdù	Manner
+6	564	风光	fēngguāng	Scenery
+6	565	风气	fēngqì	atmosphere
+6	566	风趣	fēngqù	Funny
+6	567	风土人情	fēngtǔrénqíng	Local customs and practices
+6	568	风味	fēngwèi	flavor
+6	569	封闭	fēngbì	close
+6	570	封建	fēngjiàn	Feudal
+6	571	封锁	fēngsuǒ	blockade
+6	572	丰满	fēngmǎn	Plump
+6	573	丰盛	fēngshèng	rich; sumptuous
+6	574	丰收	fēngshōu	Have bumper harvest
+6	575	锋利	fēnglì	sharp
+6	576	逢	féng	meet; come upon
+6	577	奉献	fèngxiàn	dedicate
+6	578	否决	fǒujué	veto; reject; overrule
+6	579	夫妇	fūfù	couple
+6	580	夫人	fūrén	Madam
+6	581	敷衍	fūyǎn	play at
+6	582	幅度	fúdù	range; extent
+6	583	服从	fúcóng	Obey
+6	584	服气	fúqì	Be convinced
+6	585	符号	fúhào	Symbol
+6	586	福利	fúlì	welfare
+6	587	福气	fúqi	good luck; felicity
+6	588	俘虏	fúlǔ	captive
+6	589	辐射	fúshè	radiation
+6	590	腐败	fǔbài	corrupt
+6	591	腐烂	fǔlàn	Decay
+6	592	腐蚀	fǔshí	corrosion
+6	593	腐朽	fǔxiǔ	Decadent
+6	594	辅助	fǔzhù	auxiliary
+6	595	抚养	fǔyǎng	Raise
+6	596	抚摸	fǔmō	stroke
+6	597	俯视	fǔshì	look down
+6	598	富裕	fùyù	Affluent
+6	599	副	fù	Vice-
+6	600	负担	fùdān	burden
+6	601	覆盖	fùgài	overlay; cover with
+6	602	附和	fùhè	chime in with; come to heel
+6	603	附件	fùjiàn	Enclosure
+6	604	附属	fùshǔ	attach appertain
+6	605	复活	fùhuó	Resurrection
+6	606	复兴	fùxīng	Revival
+6	607	腹泻	fùxiè	diarrhea
+6	608	赋予	fùyǔ	give
+6	609	改良	gǎiliáng	Improvement
+6	610	盖章	gàizhāng	Seal
+6	611	钙	gài	calcium
+6	612	干旱	gānhàn	drought
+6	613	干扰	gānrǎo	interfere
+6	614	干涉	gānshè	interference
+6	615	干预	gānyù	intervene
+6	616	尴尬	gāngà	awkward
+6	617	感慨	gǎnkǎi	Feeling
+6	618	感染	gǎnrǎn	Infected
+6	619	干劲	gànjìn	Drive
+6	620	纲领	gānglǐng	Programme
+6	621	港口	gǎngkǒu	Port
+6	622	港湾	gǎngwān	Harbour
+6	623	岗位	gǎngwèi	post
+6	624	杠杆	gànggǎn	lever
+6	625	高超	gāochāo	outstanding; superb; excellent
+6	626	高潮	gāocháo	climax
+6	627	高峰	gāofēng	peak
+6	628	高明	gāomíng	brilliant; bright
+6	629	高尚	gāoshàng	noble
+6	630	高涨	gāozhǎng	Upsurge
+6	631	稿件	gǎojiàn	manuscript
+6	632	告辞	gàocí	Take leave
+6	633	告诫	gàojiè	warn; caution
+6	634	割	gē	cut
+6	635	搁	gē	Put aside
+6	636	疙瘩	gēda	lump; pimple
+6	637	歌颂	gēsòng	Sing
+6	638	鸽子	gēzi	Dove
+6	639	隔阂	géhé	Estrangement
+6	640	隔离	gélí	quarantine
+6	641	格局	géjú	situation
+6	642	格式	géshi	format
+6	643	革命	gémìng	revolution
+6	644	个体	gètǐ	individual
+6	645	各抒己见	gèshūjǐjiàn	Each airs his own views
+6	646	根深蒂固	gēnshēndìgù	being deeply rooted; in grain
+6	647	根源	gēnyuán	root
+6	648	跟前	gēnqián	In front of
+6	649	跟随	gēnsuí	follow
+6	650	跟踪	gēnzōng	run after; tail
+6	651	耕地	gēngdì	Cultivated land
+6	652	更新	gēngxīn	renovate; renew
+6	653	更正	gēngzhèng	correct
+6	654	公安局	gōng’ānjú	Bureau of public security
+6	655	公道	gōngdao	fair
+6	656	公告	gōnggào	Notice
+6	657	公关	gōngguān	public relations
+6	658	公民	gōngmín	citizen
+6	659	公然	gōngrán	to the teeth; under one’s nose
+6	660	公认	gōngrèn	Accepted
+6	661	公式	gōngshì	formula
+6	662	公务	gōngwù	Official business
+6	663	公正	gōngzhèng	fair
+6	664	公证	gōngzhèng	Notarization
+6	665	供不应求	gōngbúyìngqiú	Demand exceeds supply
+6	666	供给	gōngjǐ	supply
+6	667	工艺品	gōngyìpǐn	Arts and Crafts
+6	668	宫殿	gōngdiàn	Palace
+6	669	功劳	gōngláo	credit
+6	670	功效	gōngxiào	Effect
+6	671	攻击	gōngjī	attack
+6	672	攻克	gōngkè	Conquer
+6	673	恭敬	gōngjìng	dutiful; respectful
+6	674	巩固	gǒnggù	consolidate
+6	675	共和国	gònghéguó	Republic
+6	676	共计	gòngjì	count up to; sum to
+6	677	共鸣	gòngmíng	resonance
+6	678	勾结	gōujié	Collusion
+6	679	钩子	gōuzi	hook
+6	680	构思	gòusī	Design
+6	681	孤独	gūdú	lonely
+6	682	孤立	gūlì	isolated
+6	683	辜负	gūfù	Live up to
+6	684	姑且	gūqiě	Tentatively
+6	685	古董	gǔdǒng	antique
+6	686	古怪	gǔguài	cranky; wacky
+6	687	股东	gǔdōng	stockholder
+6	688	股份	gǔfèn	Shares
+6	689	鼓动	gǔdòng	Agitation
+6	690	骨干	gǔgàn	backbone
+6	691	固然	gùrán	Of course
+6	692	固体	gùtǐ	solid
+6	693	固有	gùyǒu	Inherent
+6	694	固执	gùzhi	stubborn
+6	695	顾虑	gùlǜ	misgive; misgiving
+6	696	顾问	gùwèn	adviser
+6	697	故乡	gùxiāng	Hometown
+6	698	故障	gùzhàng	fault
+6	699	雇佣	gùyōng	hire
+6	700	拐杖	guǎizhàng	cane
+6	701	关怀	guānhuái	Care
+6	702	关照	guānzhào	Take care of
+6	703	官方	guānfāng	by the government official
+6	704	观光	guānguāng	Sightseeing
+6	705	管辖	guǎnxiá	dominate; rule
+6	706	罐	guàn	pot
+6	707	贯彻	guànchè	implement
+6	708	灌溉	guàngài	irrigation
+6	709	惯例	guànlì	convention
+6	710	光彩	guāngcǎi	Brilliance
+6	711	光辉	guānghuī	Glory
+6	712	光芒	guāngmáng	Shine
+6	713	光荣	guāngróng	glory
+6	714	广阔	guǎngkuò	wide
+6	715	规范	guīfàn	criterion; rule
+6	716	规格	guīgé	standard; format
+6	717	规划	guīhuà	Plan
+6	718	规章	guīzhāng	Rules
+6	719	归根到底	guīgēndàodǐ	at all time and place
+6	720	归还	guīhuán	return
+6	721	轨道	guǐdào	track
+6	722	跪	guì	kneel
+6	723	贵族	guìzú	noble
+6	724	棍棒	gùnbàng	club; cudgel
+6	725	国防	guófáng	national defense
+6	726	国务院	guówùyuàn	The State Council
+6	727	果断	guǒduàn	decisive
+6	728	过度	guòdù	excessive
+6	729	过渡	guòdù	transition
+6	730	过奖	guòjiǎng	you flatter
+6	731	过滤	guòlǜ	filter
+6	732	过失	guòshī	fault
+6	733	过问	guòwèn	Ask
+6	734	过瘾	guòyǐn	Fun
+6	735	过于	guòyú	too; excessively
+6	736	嗨	hāi	hi
+6	737	海拔	hǎibá	altitude
+6	738	海滨	hǎibīn	Seaside
+6	739	含糊	hánhu	vague
+6	740	含义	hányì	signification; meanings
+6	741	寒暄	hánxuān	exchange of conventional greetings
+6	742	罕见	hǎnjiàn	peculiar; rare
+6	743	捍卫	hànwèi	defend; guard
+6	744	航空	hángkōng	aviation
+6	745	航天	hángtiān	Space flight
+6	746	航行	hángxíng	Sail
+6	747	行列	hángliè	Ranks
+6	748	豪迈	háomài	Heroic
+6	749	毫米	háomǐ	millimeter
+6	750	毫无	háowú	nothing
+6	751	号召	hàozhào	call
+6	752	耗费	hàofèi	cost
+6	753	呵	hē	Oh
+6	754	和蔼	hé’ǎi	Kindly
+6	755	和解	héjiě	compromise
+6	756	和睦	hémù	harmony
+6	757	和气	héqi	kind; polite
+6	758	和谐	héxié	Harmonious
+6	759	合并	hébìng	merge
+6	760	合成	héchéng	Synthesis
+6	761	合伙	héhuǒ	cooperate; join hands with
+6	762	合算	hésuàn	Cost-effective
+6	763	嘿	hēi	
+6	764	痕迹	hénjì	mark
+6	765	狠心	hěnxīn	cruel hearted
+6	766	恨不得	hènbude	Hate not
+6	767	哼	hēng	Hum
+6	768	横	héng	harsh and unreasonable; perverse
+6	769	哄	hōng	fool
+6	770	烘	hōng	Bake
+6	771	轰动	hōngdòng	make a sensation; make a stir
+6	772	宏观	hóngguān	Macroscopic
+6	773	宏伟	hóngwěi	grand
+6	774	洪水	hóngshuǐ	Flood
+6	775	喉咙	hóulóng	throat
+6	776	吼	hǒu	Roar
+6	777	后代	hòudài	Offspring
+6	778	后顾之忧	hòugùzhīyōu	Any menace from the “rear
+6	779	后勤	hòuqín	logistics
+6	780	候选	hòuxuǎn	candidate
+6	781	忽略	hūlüè	ignore
+6	782	呼唤	hūhuàn	call
+6	783	呼啸	hūxiào	Whistling
+6	784	呼吁	hūyù	call on; appeal
+6	785	胡乱	húluàn	Casually
+6	786	胡须	húxū	beard
+6	787	湖泊	húpō	lake
+6	788	花瓣	huābàn	Petal
+6	789	花蕾	huālěi	bud
+6	790	华丽	huálì	design
+6	791	华侨	huáqiáo	overseas Chinese
+6	792	画蛇添足	huàshétiānzú	Superfluous
+6	793	化肥	huàféi	chemical fertilizer
+6	794	化石	huàshí	Fossil
+6	795	化验	huàyàn	Test
+6	796	化妆	huàzhuāng	prink; make up
+6	797	划分	huàfēn	Divide
+6	798	话筒	huàtǒng	Microphone
+6	799	欢乐	huānlè	Happy
+6	800	还原	huányuán	reduction
+6	801	环节	huánjié	link
+6	802	缓和	huǎnhé	To moderate
+6	803	患者	huànzhě	Patient
+6	804	荒凉	huāngliáng	Desolate
+6	805	荒谬	huāngmiù	ridiculous; nonsensical
+6	806	荒唐	huāngtáng	absurd
+6	807	黄昏	huánghūn	Dusk
+6	808	皇帝	huángdì	Emperor
+6	809	皇后	huánghòu	Queen
+6	810	晃	huǎng	shake
+6	811	恍然大悟	huǎngrándàwù	See light suddenly
+6	812	挥霍	huīhuò	splurge; devour
+6	813	辉煌	huīhuáng	brilliant
+6	814	回报	huíbào	Return
+6	815	回避	huíbì	obviate; slide over
+6	816	回顾	huígù	review; look back
+6	817	回收	huíshōu	recovery
+6	818	悔恨	huǐhèn	Regret
+6	819	毁灭	huǐmiè	Ruin
+6	820	会晤	huìwù	Meet
+6	821	汇报	huìbào	report
+6	822	贿赂	huìlù	bribery
+6	823	昏迷	hūnmí	coma
+6	824	荤	hūn	meat
+6	825	浑身	húnshēn	All
+6	826	混合	hùnhé	blend
+6	827	混乱	hùnluàn	confusion
+6	828	混淆	hùnxiáo	confusion
+6	829	混浊	hùnzhuó	Turbidity
+6	830	活该	huógāi	You deserves it
+6	831	活力	huólì	energy; vigor
+6	832	火箭	huǒjiàn	rocket
+6	833	火焰	huǒyàn	flame
+6	834	火药	huǒyào	gunpowder
+6	835	货币	huòbì	currency
+6	836	基地	jīdì	base
+6	837	基金	jījīn	fund
+6	838	基因	jīyīn	gene
+6	839	机动	jīdòng	Maneuver
+6	840	机构	jīgòu	mechanism
+6	841	机灵	jīling	wise; clever
+6	842	机密	jīmì	Confidential
+6	843	机械	jīxiè	Mechanics
+6	844	机遇	jīyù	Opportunity
+6	845	机智	jīzhì	tactful; resourceful
+6	846	激发	jīfā	inspire
+6	847	激励	jīlì	inspirit
+6	848	激情	jīqíng	Passion
+6	849	饥饿	jī’è	hunger
+6	850	讥笑	jīxiào	fleer
+6	851	极端	jíduān	extreme
+6	852	极限	jíxiàn	limit
+6	853	即便	jíbiàn	even if
+6	854	即将	jíjiāng	soon
+6	855	级别	jíbié	level
+6	856	疾病	jíbìng	disease
+6	857	嫉妒	jídù	Envy
+6	858	及早	jízǎo	as soon as possible
+6	859	急功近利	jígōngjìnlì	Be anxious to achieve quick success and get instant benefits
+6	860	急剧	jíjù	sharp
+6	861	急切	jíqiè	impatient eager; imperative
+6	862	急于求成	jíyúqiúchéng	Be anxious for success
+6	863	急躁	jízào	Impatient
+6	864	籍贯	jíguàn	Place of origin
+6	865	集团	jítuán	group
+6	866	吉祥	jíxiáng	lucky; auspicious
+6	867	给予	jǐyǔ	give
+6	868	寄托	jìtuō	place on; consign or commit
+6	869	继承	jìchéng	inherit
+6	870	记性	jìxing	memory
+6	871	记载	jìzǎi	Record
+6	872	季度	jìdù	quarter (of a year)
+6	873	季军	jìjūn	Third place
+6	874	计较	jìjiào	Regardless of
+6	875	忌讳	jìhuì	Taboo
+6	876	寂静	jìjìng	Silent
+6	877	纪要	jìyào	summary
+6	878	技巧	jìqiǎo	Skill
+6	879	迹象	jìxiàng	Sign
+6	880	家常	jiācháng	the daily life of a family
+6	881	家伙	jiāhuo	Fellow
+6	882	家属	jiāshǔ	family members
+6	883	家喻户晓	jiāyùhùxiǎo	widely known
+6	884	加工	jiāgōng	machining
+6	885	加剧	jiājù	exacerbate
+6	886	佳肴	jiāyáo	Delicacy
+6	887	夹杂	jiāzá	Inclusion
+6	888	煎	jiān	Fried
+6	889	坚定	jiāndìng	Firm, steadfast
+6	890	坚固	jiāngù	strong
+6	891	坚韧	jiānrèn	gritty; hard-bitten
+6	892	坚实	jiānshí	solid
+6	893	坚硬	jiānyìng	hard
+6	894	监督	jiāndū	supervise
+6	895	监视	jiānshì	Monitor
+6	896	监狱	jiānyù	Prison
+6	897	尖端	jiānduān	top end
+6	898	尖锐	jiānruì	Sharp
+6	899	艰难	jiānnán	difficult
+6	900	拣	jiǎn	Pick
+6	901	剪彩	jiǎncǎi	Ribbon-cutting
+6	902	检讨	jiǎntǎo	A review
+6	903	检验	jiǎnyàn	test
+6	904	简化	jiǎnhuà	predigest
+6	905	简陋	jiǎnlòu	simple and crude
+6	906	简体字	jiǎntǐzì	simplified character
+6	907	简要	jiǎnyào	in brief
+6	908	溅	jiàn	splash
+6	909	鉴别	jiànbié	differentiate
+6	910	鉴定	jiàndìng	Appraisal
+6	911	鉴于	jiànyú	In view of the fact that
+6	912	间谍	jiàndié	espionage
+6	913	间隔	jiàngé	interval
+6	914	间接	jiànjiē	indirect
+6	915	见多识广	jiànduōshíguǎng	Have great experience
+6	916	见解	jiànjiě	Opinion
+6	917	见闻	jiànwén	Informative
+6	918	见义勇为	jiànyìyǒngwéi	Do boldly what is righteous
+6	919	健全	jiànquán	sound
+6	920	践踏	jiàntà	override
+6	921	舰艇	jiàntǐng	Naval vessels
+6	922	剑	jiàn	sword
+6	923	将近	jiāngjìn	nearly
+6	924	将军	jiāngjūn	General
+6	925	将就	jiāng jiù	put up with
+6	926	僵硬	jiāngyìng	stiff
+6	927	桨	jiǎng	propeller
+6	928	奖励	jiǎnglì	reward
+6	929	奖赏	jiǎngshǎng	reward
+6	930	降临	jiànglín	become of; befall; arrive
+6	931	交叉	jiāochā	intercross
+6	932	交代	jiāodài	hand over
+6	933	交涉	jiāoshè	Negotiate
+6	934	交易	jiāoyì	transaction
+6	935	焦点	jiāodiǎn	focus
+6	936	焦急	jiāojí	anxious
+6	937	娇气	jiāoqì	effeminate
+6	938	角落	jiǎoluò	corner
+6	939	搅拌	jiǎobàn	mix up
+6	940	缴纳	jiǎonà	Pay
+6	941	侥幸	jiǎoxìng	by luck
+6	942	教养	jiàoyǎng	train; upbringing; education
+6	943	较量	jiàoliàng	Contest
+6	944	皆	jiē	all
+6	945	接连	jiēlián	One after another
+6	946	阶层	jiēcéng	stratum
+6	947	揭露	jiēlù	Expose
+6	948	节奏	jiézòu	rhythm
+6	949	节制	jiézhì	dicipline
+6	950	杰出	jiéchū	outstanding
+6	951	结晶	jiéjīng	result; finale
+6	952	结局	jiéjú	Ending
+6	953	结算	jiésuàn	Settlement
+6	954	竭尽全力	jiéjìnquánlì	Strain every nerve
+6	955	截至	jiézhì	By (time）
+6	956	截止	jiézhǐ	due
+6	957	解除	jiěchú	Relieve
+6	958	解放	jiěfàng	liberate
+6	959	解雇	jiěgù	fire
+6	960	解剖	jiěpōu	anatomy
+6	961	解散	jiěsàn	dissolution
+6	962	解体	jiětǐ	Disintegrate
+6	963	借鉴	jièjiàn	take example by
+6	964	借助	jièzhù	With the help of
+6	965	戒备	jièbèi	Alert
+6	966	界限	jièxiàn	limit
+6	967	津津有味	jīnjīnyǒuwèi	Eat with appetite
+6	968	金融	jīnróng	Finance
+6	969	紧迫	jǐnpò	urgent
+6	970	锦上添花	jǐnshàngtiānhuā	icing on the cake
+6	971	进而	jìn’ér	and then
+6	972	进攻	jìngōng	attack
+6	973	进化	jìnhuà	evolution
+6	974	进展	jìnzhǎn	evolve; get along
+6	975	近来	jìnlái	recently
+6	976	浸泡	jìnpào	soak
+6	977	晋升	jìnshēng	Promotion
+6	978	茎	jīng	stalk; stem
+6	979	精打细算	jīngdǎxìsuàn	pinch pennies
+6	980	精华	jīnghuá	elite; distillate
+6	981	精简	jīngjiǎn	simplify; condense
+6	982	精密	jīngmì	exact; close
+6	983	精确	jīngquè	accurate; exact
+6	984	精通	jīngtōng	Master, be good at
+6	985	精心	jīngxīn	Elaborate
+6	986	精益求精	jīngyìqiújīng	keep improving
+6	987	精致	jīngzhì	delicate
+6	988	经费	jīngfèi	funds
+6	989	经纬	jīngwěi	longitude and latitude
+6	990	惊动	jīngdòng	Disturb
+6	991	惊奇	jīngqí	Be surprised
+6	992	惊讶	jīngyà	surprised
+6	993	兢兢业业	jīngjīngyèyè	cautious and conscientious
+6	994	井	jǐng	well
+6	995	警告	jǐnggào	warning
+6	996	警惕	jǐngtì	Be vigilant
+6	997	颈椎	jǐngzhuī	cervical vertebra
+6	998	敬礼	jìnglǐ	Salute
+6	999	敬业	jìngyè	dedication (work)
+6	1000	境界	jìngjiè	realm; extent reached
+6	1001	竞赛	jìngsài	competition
+6	1002	竞选	jìngxuǎn	Campaign for
+6	1003	镜头	jìngtóu	Camera lens
+6	1004	纠纷	jiūfēn	dissension; tangle
+6	1005	纠正	jiūzhèng	correct
+6	1006	酒精	jiǔjīng	alcohol
+6	1007	救济	jiùjì	redress; relief
+6	1008	就近	jiùjìn	Nearby
+6	1009	就业	jiùyè	take up an occupation
+6	1010	就职	jiùzhí	Inauguration
+6	1011	鞠躬	jūgōng	Bow
+6	1012	拘留	jūliú	detain
+6	1013	拘束	jūshù	constrained; ill at ease
+6	1014	居民	jūmín	residents
+6	1015	居住	jūzhù	live
+6	1016	局部	júbù	local
+6	1017	局面	júmiàn	situation
+6	1018	局势	júshì	Situation
+6	1019	局限	júxiàn	limit; confine
+6	1020	举动	jǔdòng	Move
+6	1021	举世瞩目	jǔshìzhǔmù	attract worldwide attention
+6	1022	举足轻重	jǔzúqīngzhòng	Play a decisive role
+6	1023	咀嚼	jǔjué	Chew
+6	1024	沮丧	jǔsàng	depressed
+6	1025	剧本	jùběn	Script
+6	1026	剧烈	jùliè	Severe
+6	1027	聚精会神	jùjīnghuìshén	Concentrate one’s attention on
+6	1028	据悉	jùxī	it is reported
+6	1029	卷	juǎn	volume
+6	1030	决策	juécè	make policy
+6	1031	觉悟	juéwù	consciousness
+6	1032	觉醒	juéxǐng	rouse; awake
+6	1033	绝望	juéwàng	Despair
+6	1034	倔强	juéjiàng	stubborn
+6	1035	军队	jūnduì	army
+6	1036	君子	jūnzǐ	gentleman
+6	1037	卡通	kǎtōng	Cartoon
+6	1038	开采	kāicǎi	exploit (mine)
+6	1039	开除	kāichú	Expel
+6	1040	开阔	kāikuò	open
+6	1041	开朗	kāilǎng	Optimistic
+6	1042	开明	kāimíng	enlightened
+6	1043	开辟	kāipì	open up
+6	1044	开拓	kāituò	open up; exploit
+6	1045	开展	kāizhǎn	Develop
+6	1046	开支	kāizhī	expenditure
+6	1047	刊登	kāndēng	publish in a newspaper
+6	1048	刊物	kānwù	Publication
+6	1049	勘探	kāntàn	prospect for; prove up
+6	1050	砍伐	kǎnfá	lop
+6	1051	侃侃而谈	kǎnkǎn ér tán	chatting
+6	1052	看待	kàndài	To view
+6	1053	慷慨	kāngkǎi	generous
+6	1054	扛	káng	Carry
+6	1055	抗议	kàngyì	Protest
+6	1056	考察	kǎochá	Investigate
+6	1057	考古	kǎogǔ	Archaeology
+6	1058	考核	kǎohé	examine; assess
+6	1059	考验	kǎoyàn	test
+6	1060	靠拢	kàolǒng	Close to
+6	1061	磕	kē	Knock
+6	1062	科目	kēmù	Subject
+6	1063	渴望	kěwàng	Yearn
+6	1064	可观	kěguān	considerable
+6	1065	可口	kěkǒu	Delicious
+6	1066	可恶	kěwù	loathsome; hateful
+6	1067	可行	kěxíng	feasible
+6	1068	刻不容缓	kèbùrónghuǎn	Brook no delay
+6	1069	课题	kètí	topic
+6	1070	克制	kèzhì	restrain
+6	1071	客户	kèhù	Customer
+6	1072	啃	kěn	Bite
+6	1073	恳切	kěnqiè	fair-spoken
+6	1074	坑	kēng	pit
+6	1075	空洞	kōngdòng	empty
+6	1076	空前绝后	kōngqiánjuéhòu	Unprecedented
+6	1077	空想	kōngxiǎng	escapism; dream; phantasm
+6	1078	空虚	kōngxū	vain; empty
+6	1079	孔	kǒng	hole
+6	1080	恐怖	kǒngbù	terror
+6	1081	恐吓	kǒnghè	intimidate
+6	1082	恐惧	kǒngjù	Fear
+6	1083	空白	kòngbái	blank; vacancy
+6	1084	空隙	kòngxì	interspaced; lacuna
+6	1085	口气	kǒuqì	tone
+6	1086	口腔	kǒuqiāng	mouth; oral cavity
+6	1087	口头	kǒutóu	oral
+6	1088	口音	kǒuyīn	accent
+6	1089	扣	kòu	button
+6	1090	哭泣	kūqì	cry
+6	1091	枯燥	kūzào	Boring
+6	1092	枯萎	kūwěi	withered
+6	1093	苦涩	kǔsè	bitter
+6	1094	苦尽甘来	kǔjìngānlái	All sufferings have their reward
+6	1095	挎	kuà	carry on the arm
+6	1096	跨	kuà	Cross
+6	1097	快活	kuàihuo	happy
+6	1098	宽敞	kuānchang	spacious; commodious
+6	1099	宽容	kuānróng	tolerant
+6	1100	款待	kuǎndài	Entertain
+6	1101	款式	kuǎnshì	style
+6	1102	筐	kuāng	basket
+6	1103	旷课	kuàngkè	Absenteeism
+6	1104	框架	kuàngjià	frame
+6	1105	况且	kuàngqiě	moreover
+6	1106	矿产	kuàngchǎn	mineral
+6	1107	亏待	kuīdài	Treat
+6	1108	亏损	kuīsǔn	loss
+6	1109	捆绑	kǔnbǎng	binding
+6	1110	扩充	kuòchōng	extend; enlarge
+6	1111	扩散	kuòsàn	spread
+6	1112	扩张	kuòzhāng	expand; outspread
+6	1113	喇叭	lǎba	horn
+6	1114	蜡烛	làzhú	candle
+6	1115	啦	la	
+6	1116	来历	láilì	Origin
+6	1117	来源	láiyuán	source
+6	1118	栏目	lánmù	column
+6	1119	懒惰	lǎnduò	lazy
+6	1120	狼狈	lángbèi	in sore straits; in a tight corner
+6	1121	狼吞虎咽	lángtūnhǔyàn	devour like a wolf
+6	1122	捞	lāo	Fishing
+6	1123	唠叨	láodao	To nag
+6	1124	牢固	láogù	solid
+6	1125	牢骚	láosāo	Complain
+6	1126	乐趣	lèqù	pleasure
+6	1127	乐意	lèyì	Happy
+6	1128	雷达	léidá	radar
+6	1129	类似	lèisì	Similar
+6	1130	冷酷	lěngkù	cool
+6	1131	冷却	lěngquè	cooling
+6	1132	冷落	lěngluò	indiffenrent
+6	1133	愣	lèng	distracted
+6	1134	黎明	límíng	Dawn
+6	1135	里程碑	lǐchéngbēi	Milepost
+6	1136	礼节	lǐjié	etiquette
+6	1137	礼尚往来	lǐshàngwǎnglái	reci[rocity
+6	1138	理睬	lǐcǎi	Acknowledge
+6	1139	理所当然	lǐsuǒdāngrán	go without saying; of course
+6	1140	理直气壮	lǐzhíqìzhuàng	one is assured and bold with justice
+6	1141	理智	lǐzhì	reasonable
+6	1142	粒	lì	grain (measure word)
+6	1143	立场	lìchǎng	position
+6	1144	立方	lìfāng	cube
+6	1145	立交桥	lìjiāoqiáo	Overpass
+6	1146	立体	lìtǐ	Three-dimensional
+6	1147	立足	lìzú	Based on the
+6	1148	历代	lìdài	past dynasties
+6	1149	历来	lìlái	always
+6	1150	利害	lìhài	Interest
+6	1151	力所能及	lìsuǒnéngjí	Do everything in one’s power
+6	1152	力争	lìzhēng	Strive to
+6	1153	力求	lìqiú	strive for
+6	1154	例外	lìwài	exception
+6	1155	连年	liánnián	in successive years
+6	1156	连锁	liánsuǒ	chain
+6	1157	连同	liántóng	together with
+6	1158	联欢	liánhuān	Gala
+6	1159	联络	liánluò	liaison
+6	1160	联盟	liánméng	union
+6	1161	联想	liánxiǎng	association
+6	1162	廉洁	liánjié	uncorrupted; clean-fingered
+6	1163	良心	liángxīn	conscience
+6	1164	晾	liàng	Dry
+6	1165	谅解	liàngjiě	understanding
+6	1166	辽阔	liáokuò	Vast
+6	1167	列举	lièjǔ	list
+6	1168	淋	lín	Shower
+6	1169	临床	línchuáng	clinical
+6	1170	吝啬	lìnsè	Stingy
+6	1171	零星	língxīng	Sporadic
+6	1172	凌晨	língchén	Before dawn
+6	1173	灵感	línggǎn	inspiration
+6	1174	灵魂	línghún	soul
+6	1175	灵敏	língmǐn	sensitive
+6	1176	伶俐	línglì	Clever
+6	1177	领会	lǐnghuì	Understand
+6	1178	领事馆	lǐngshìguǎn	Consulate
+6	1179	领土	lǐngtǔ	territory
+6	1180	领悟	lǐngwù	Understand
+6	1181	领先	lǐngxiān	keep ahead
+6	1182	领袖	lǐngxiù	leader
+6	1183	溜	liū	Slip
+6	1184	留恋	liúliàn	be reluctant to leave
+6	1185	留念	liúniàn	As a souvenir
+6	1186	留神	liúshén	Watch
+6	1187	流浪	liúlàng	lead a vagrant life; rove; roam about
+6	1188	流露	liúlù	reveal
+6	1189	流氓	liúmáng	rogue
+6	1190	流通	liútōng	circulation
+6	1191	聋哑	lóngyǎ	Deaf-mute
+6	1192	隆重	lóngzhòng	ceremonious
+6	1193	垄断	lǒngduàn	monopoly
+6	1194	笼罩	lǒngzhào	Shrouded
+6	1195	搂	lǒu	Hug
+6	1196	炉灶	lúzào	A kitchen stove
+6	1197	轮船	lúnchuán	Ship
+6	1198	轮廓	lúnkuò	outline
+6	1199	轮胎	lúntāi	tyre
+6	1200	论坛	lùntán	forum
+6	1201	论证	lùnzhèng	Demonstration
+6	1202	啰唆	luōsuo	troublesome, wordy
+6	1203	落成	luòchéng	Completion
+6	1204	落实	luòshí	put into effect
+6	1205	络绎不绝	luòyìbùjué	Go and fro in constant streams
+6	1206	屡次	lǚcì	Repeatedly
+6	1207	履行	lǚxíng	Perform
+6	1208	掠夺	lüèduó	plunder
+6	1209	麻痹	mábì	lull; blunt; paralysis
+6	1210	麻木	mámù	numbness
+6	1211	麻醉	mázuì	narcosis
+6	1212	码头	mǎtóu	wharf
+6	1213	蚂蚁	mǎyǐ	ant
+6	1214	嘛	ma	
+6	1215	埋伏	máifú	Ambush
+6	1216	埋没	máimò	immerse oneself in
+6	1217	埋葬	máizàng	bury
+6	1218	迈	mài	Wallace
+6	1219	脉搏	màibó	pulse
+6	1220	埋怨	mányuàn	Complain
+6	1221	慢性	mànxìng	chronic
+6	1222	漫长	màncháng	Very long
+6	1223	漫画	mànhuà	Cartoon
+6	1224	蔓延	mànyán	spread; creep
+6	1225	忙碌	mánglù	Be busy
+6	1226	茫茫	mángmáng	vast; boundless
+6	1227	茫然	mángrán	Blank
+6	1228	盲目	mángmù	blind
+6	1229	冒充	màochōng	Posing
+6	1230	冒犯	màofàn	offend
+6	1231	茂盛	màoshèng	Lush
+6	1232	枚	méi	measure word for medal
+6	1233	媒介	méijiè	agent; medium
+6	1234	美观	měiguān	Beautiful
+6	1235	美满	měimǎn	happy; perfect
+6	1236	美妙	měimiào	wonderful
+6	1237	萌芽	méngyá	bud; sprout
+6	1238	猛烈	měngliè	violent
+6	1239	眯	mī	take a nap
+6	1240	弥补	míbǔ	remedy; offset
+6	1241	弥漫	mímàn	permeate; fill the air
+6	1242	迷惑	míhuò	puzzle; delude
+6	1243	迷人	mírén	charming
+6	1244	迷信	míxìn	superstition
+6	1245	谜语	míyǔ	Riddle
+6	1246	密度	mìdù	density
+6	1247	密封	mìfēng	Seal up
+6	1248	棉花	miánhua	cotton
+6	1249	免得	miǎndé	lest
+6	1250	免疫	miǎnyì	immune
+6	1251	勉励	miǎnlì	Encourage
+6	1252	勉强	miǎnqiǎng	reluctantly
+6	1253	面貌	miànmào	face
+6	1254	面子	miànzi	prestige; face
+6	1255	描绘	miáohuì	describe; portray
+6	1256	瞄准	miáozhǔn	aim
+6	1257	渺小	miǎoxiǎo	Tiny
+6	1258	藐视	miǎoshì	contempt
+6	1259	蔑视	mièshì	disparage; scorn
+6	1260	灭亡	mièwáng	perish
+6	1261	民间	mínjiān	nongovernmental
+6	1262	民主	mínzhǔ	democratic
+6	1263	敏捷	mǐnjié	agile
+6	1264	敏锐	mǐnruì	keen
+6	1265	明明	míngmíng	Obviously
+6	1266	明智	míngzhì	wise
+6	1267	名次	míngcì	Ranking
+6	1268	名额	míng’é	Places
+6	1269	名副其实	míngfùqíshí	Be worthy of the name
+6	1270	名誉	míngyù	reputation
+6	1271	命名	mìngmíng	call; nominate
+6	1272	摸索	mōsuǒ	fumble; grope
+6	1273	膜	mó	membrane
+6	1274	摩擦	mócā	rub; scrape
+6	1275	磨合	móhé	running-in
+6	1276	模范	mófàn	model
+6	1277	模式	móshì	mode; style
+6	1278	模型	móxíng	Model
+6	1279	魔鬼	móguǐ	devil; demon
+6	1280	魔术	móshù	Magic
+6	1281	抹杀	mǒshā	write off; obliterate
+6	1282	莫名其妙	mòmíng-qímiào	without rhyme or reason
+6	1283	默默	mòmò	silently
+6	1284	墨水儿	mòshuǐr	book learning
+6	1285	谋求	móuqiú	seek
+6	1286	模样	múyàng	Appearance
+6	1287	母语	mǔyǔ	Mother tongue
+6	1288	目睹	mùdǔ	witness; see with one’s eyes
+6	1289	目光	mùguāng	Eye
+6	1290	沐浴	mùyù	Bath
+6	1291	拿手	náshǒu	Good
+6	1292	纳闷儿	nàmènr	feel puzzle
+6	1293	耐用	nàiyòng	durable
+6	1294	南辕北辙	nányuánběizhé	have nothing in common
+6	1295	难得	nándé	rare
+6	1296	难堪	nánkān	Embarrassed
+6	1297	难能可贵	nánnéngkěguì	Praiseworthy for one’s excellent conduct
+6	1298	恼火	nǎohuǒ	angry; take fire
+6	1299	内涵	nèihán	connotation
+6	1300	内幕	nèimù	Insider
+6	1301	内在	nèizài	inherent
+6	1302	能量	néngliàng	energy
+6	1303	拟定	nǐdìng	study out
+6	1304	逆行	nìxíng	retrograde motion
+6	1305	年度	niándù	year
+6	1306	捏	niē	Pinch
+6	1307	拧	níng	Screw
+6	1308	凝固	nínggù	freezing
+6	1309	凝聚	níngjù	condensation
+6	1310	凝视	níngshì	gaze; stare
+6	1311	宁肯	nìngkěn	would rather than
+6	1312	宁愿	nìngyuàn	would rather
+6	1313	纽扣儿	niǔkòur	button
+6	1314	扭转	niǔzhuǎn	Reverse
+6	1315	浓厚	nónghòu	dense
+6	1316	农历	nónglì	Lunar calendar
+6	1317	奴隶	núlì	slave
+6	1318	挪	nuó	move; shift
+6	1319	虐待	nüèdài	To abuse
+6	1320	哦	o	Oh
+6	1321	殴打	ōudǎ	beat up; hit; drub
+6	1322	偶像	ǒuxiàng	idol
+6	1323	呕吐	ǒutù	vomit
+6	1324	趴	pā	Lie
+6	1325	排斥	páichì	exclude
+6	1326	排除	páichú	eliminate; remove; debar
+6	1327	排练	páiliàn	rehearse
+6	1328	排放	páifàng	discharge
+6	1329	徘徊	páihuái	wander
+6	1330	派别	pàibié	faction; group
+6	1331	派遣	pàiqiǎn	send; dispatch
+6	1332	攀登	pāndēng	Climb
+6	1333	盘旋	pánxuán	convolute; hover
+6	1334	畔	pàn	bank, side
+6	1335	判决	pànjué	Sentence
+6	1336	庞大	pángdà	enormous
+6	1337	抛弃	pāoqì	throw over; abandon; discard
+6	1338	泡沫	pàomò	bubble; froth
+6	1339	培育	péiyù	Cultivation
+6	1340	配备	pèibèi	Equipment
+6	1341	配偶	pèi’ǒu	consort; mate
+6	1342	配套	pèitào	form a complete set
+6	1343	盆地	péndì	basin
+6	1344	烹饪	pēngrèn	cooking
+6	1345	捧	pěng	Holding
+6	1346	劈	pī	split
+6	1347	批发	pīfā	wholesale
+6	1348	批判	pīpàn	critique
+6	1349	疲惫	píbèi	tired out; exhausted
+6	1350	疲倦	píjuàn	Tired
+6	1351	皮革	pígé	leather
+6	1352	屁股	pìgu	Butt
+6	1353	譬如	pìrú	for example
+6	1354	偏差	piānchā	error; deviation
+6	1355	偏见	piānjiàn	prejudice
+6	1356	偏僻	piānpì	out of the way; devious; outlying
+6	1357	偏偏	piānpiān	Just
+6	1358	片断	piànduàn	Fragment
+6	1359	片刻	piànkè	a while; a moment
+6	1360	飘扬	piāoyáng	Flying
+6	1361	漂浮	piāofú	Float
+6	1362	撇	piē	cast aside
+6	1363	拼搏	pīnbó	go all out in work
+6	1364	拼命	pīnmìng	Try my best
+6	1365	频繁	pínfán	frequently
+6	1366	频率	pínlǜ	frequency
+6	1367	贫乏	pínfá	poor; lacking indigent
+6	1368	贫困	pínkùn	Poor
+6	1369	品尝	pǐncháng	Taste
+6	1370	品德	pǐndé	Character
+6	1371	品质	pǐnzhì	quality
+6	1372	品种	pǐnzhǒng	Varieties
+6	1373	平凡	píngfán	ordinary
+6	1374	平面	píngmiàn	plane
+6	1375	平坦	píngtǎn	flat
+6	1376	平行	píngxíng	Parallel
+6	1377	平原	píngyuán	plain
+6	1378	平庸	píngyōng	mediocre
+6	1379	评估	pínggū	evaluate
+6	1380	评论	pínglùn	comment
+6	1381	屏障	píngzhàng	wall; barrier
+6	1382	屏幕	píngmù	screen
+6	1383	坡	pō	slope
+6	1384	泼	pō	Splash
+6	1385	颇	pō	quite; pretty
+6	1386	破例	pòlì	Make an exception
+6	1387	迫不及待	pòbùjídài	Unable to hold oneself back
+6	1388	迫害	pòhài	persecution
+6	1389	魄力	pòlì	Courage
+6	1390	扑	pū	Flutter
+6	1391	铺	pū	spread
+6	1392	普及	pǔjí	Universal
+6	1393	朴实	pǔshí	simple
+6	1394	朴素	pǔsù	simple
+6	1395	瀑布	pùbù	Waterfall
+6	1396	期望	qīwàng	Expect
+6	1397	期限	qīxiàn	term
+6	1398	欺负	qīfu	bully
+6	1399	欺骗	qīpiàn	Deception
+6	1400	凄凉	qīliáng	Desolate
+6	1401	奇妙	qímiào	wonderful
+6	1402	旗袍	qípáo	cheongsam
+6	1403	旗帜	qízhì	flag
+6	1404	齐全	qíquán	complete; all ready
+6	1405	齐心协力	qíxīn-xiélì	Make concerted efforts
+6	1406	歧视	qíshì	discrimination
+6	1407	起草	qǐcǎo	Draft
+6	1408	起初	qǐchū	at first
+6	1409	起伏	qǐfú	undulate
+6	1410	起哄	qǐhòng	kick up a row
+6	1411	起码	qǐmǎ	Minimum, at least
+6	1412	起源	qǐyuán	origin
+6	1413	启程	qǐchéng	set out
+6	1414	启示	qǐshì	enlightenment
+6	1415	启事	qǐshì	Notice
+6	1416	启蒙	qǐméng	enlightenment
+6	1417	乞丐	qǐgài	Beggar
+6	1418	企图	qǐtú	Attempt
+6	1419	岂有此理	qǐyǒu-cǐlǐ	outrageous; preposterous
+6	1420	器材	qìcái	equipment
+6	1421	器官	qìguān	organ
+6	1422	气概	qìgài	Spirit
+6	1423	气功	qìgōng	Qigong (a system of breathing technique)
+6	1424	气魄	qìpò	Verve
+6	1425	气色	qìsè	Look
+6	1426	气势	qìshì	vigor
+6	1427	气味	qìwèi	smell
+6	1428	气象	qìxiàng	Meteorological
+6	1429	气压	qìyā	pressure
+6	1430	气质	qì zhì	temperament
+6	1431	迄今为止	qìjīn-wéizhǐ	So far
+6	1432	掐	qiā	Pinch
+6	1433	恰当	qiàdàng	appropriate
+6	1434	恰到好处	qiàdàohǎochù	just right
+6	1435	恰巧	qiàqiǎo	Just
+6	1436	洽谈	qiàtán	talk over with
+6	1437	牵	qiān	Pull
+6	1438	牵扯	qiānchě	Involved
+6	1439	牵制	qiānzhì	hold down
+6	1440	千方百计	qiānfāng-bǎijì	Make every attempt
+6	1441	签署	qiānshǔ	sign; affix to; subscribe
+6	1442	迁就	qiānjiù	indulge
+6	1443	迁徙	qiānxǐ	migrate
+6	1444	谦逊	qiānxùn	Modest
+6	1445	前景	qiánjǐng	prospect
+6	1446	前提	qiántí	precondition
+6	1447	潜力	qiánlì	potential
+6	1448	潜水	qiánshuǐ	Diving
+6	1449	潜移默化	qiányí-mòhuà	Influence character by environment
+6	1450	谴责	qiǎnzé	condemn; accuse; censure
+6	1451	强制	qiángzhì	force; oblige
+6	1452	抢劫	qiǎngjié	Robbery
+6	1453	抢救	qiǎngjiù	rescue
+6	1454	强迫	qiǎngpò	Force
+6	1455	桥梁	qiáoliáng	bridge
+6	1456	翘	qiào	Alice
+6	1457	窍门	qiàomén	trick
+6	1458	锲而不舍	qiè’érbùshě	Keep on carving
+6	1459	切实	qièshí	practical
+6	1460	亲密	qīnmì	close
+6	1461	亲热	qīnrè	Affectionate
+6	1462	侵犯	qīnfàn	Violation
+6	1463	侵略	qīnlüè	aggression
+6	1464	钦佩	qīnpèi	admire
+6	1465	勤俭	qínjiǎn	hardworking and thrifty
+6	1466	勤劳	qínláo	industrious
+6	1467	清澈	qīngchè	clear
+6	1468	清晨	qīngchén	Early morning
+6	1469	清除	qīngchú	Eliminate
+6	1470	清洁	qīngjié	clean
+6	1471	清理	qīnglǐ	Clear
+6	1472	清晰	qīngxī	clear
+6	1473	清醒	qīngxǐng	Sober
+6	1474	清真	qīngzhēn	Muslim
+6	1475	倾听	qīngtīng	Listen for
+6	1476	倾向	qīngxiàng	inclination
+6	1477	倾斜	qīngxié	tilt
+6	1478	晴朗	qínglǎng	sunny
+6	1479	情报	qíngbào	intelligence
+6	1480	情节	qíngjié	plot
+6	1481	情理	qínglǐ	Reason
+6	1482	情形	qíngxíng	Situation
+6	1483	请柬	qǐngjiǎn	Invitation card
+6	1484	请教	qǐngjiào	Consult
+6	1485	请示	qǐngshì	For instructions
+6	1486	请帖	qǐngtiě	Invitation
+6	1487	丘陵	qiūlíng	hill
+6	1488	区分	qūfēn	Distinguish
+6	1489	区域	qūyù	region
+6	1490	屈服	qūfú	submit; give in; bend
+6	1491	曲折	qūzhé	Tortuous
+6	1492	驱逐	qūzhú	drive out; banish
+6	1493	渠道	qúdào	channel
+6	1494	取缔	qǔdì	Ban
+6	1495	曲子	qǔzi	Tune
+6	1496	趣味	qùwèi	Interest
+6	1497	圈套	quāntào	trap
+6	1498	全局	quánjú	Overall situation
+6	1499	全力以赴	quánlìyǐfù	do one’s level best; go all out
+6	1500	权衡	quánhéng	Balance
+6	1501	权威	quánwēi	authority
+6	1502	拳头	quántou	fist
+6	1503	犬	quǎn	dog
+6	1504	缺口	quēkǒu	breach; gap
+6	1505	缺席	quēxí	Absent
+6	1506	缺陷	quēxiàn	defect
+6	1507	瘸	qué	Lame
+6	1508	确保	quèbǎo	ensure
+6	1509	确立	quèlì	establish
+6	1510	确切	quèqiè	exact; definite
+6	1511	确信	quèxìn	Sure
+6	1512	群众	qúnzhòng	The masses
+6	1513	染	rǎn	dye
+6	1514	嚷	rǎng	Shout
+6	1515	让步	ràngbù	give in; concede to
+6	1516	饶恕	ráoshù	Forgive
+6	1517	扰乱	rǎoluàn	Disturb
+6	1518	惹祸	rěhuò	Trouble
+6	1519	热泪盈眶	rèlèi-yíngkuàng	one’s eyes brimming with tears
+6	1520	热门	rèmén	Hot
+6	1521	人道	réndào	Humanity
+6	1522	人格	réngé	personality
+6	1523	人工	réngōng	artificial
+6	1524	人家	rénjiā	family
+6	1525	人间	rénjiān	Human world
+6	1526	人士	rénshì	Personage
+6	1527	人为	rénwéi	artificial
+6	1528	人性	rénxìng	human nature
+6	1529	人质	rénzhì	Hostage
+6	1530	仁慈	réncí	Kind
+6	1531	忍耐	rěnnài	Exercise patience
+6	1532	忍受	rěnshòu	bear
+6	1533	认定	rèndìng	cognizance
+6	1534	认可	rènkě	certificate; ratify
+6	1535	任命	rènmìng	Appointment
+6	1536	任性	rènxìng	Wayward
+6	1537	任意	rènyì	Arbitrarily
+6	1538	任重道远	rènzhòng-dàoyuǎn	Take a heavy burden and embark on a long road
+6	1539	仍旧	réngjiù	still
+6	1540	日新月异	rìxīn-yuèyì	Change rapidly
+6	1541	日益	rìyì	increasingly
+6	1542	融化	rónghuà	thaw
+6	1543	融洽	róngqià	harmonious
+6	1544	溶解	róngjiě	dissolve; melt
+6	1545	容貌	róngmào	appearance
+6	1546	容纳	róngnà	accommodate; contain; hold
+6	1547	容器	róngqì	container
+6	1548	容忍	róngrěn	tolerate
+6	1549	荣幸	róngxìng	To be honored
+6	1550	荣誉	róngyù	Honor
+6	1551	揉	róu	Knead
+6	1552	柔和	róuhé	soft
+6	1553	儒家	rújiā	Confucianism
+6	1554	弱点	ruòdiǎn	weakness
+6	1555	若干	ruògān	a certain number or amount
+6	1556	撒谎	sāhuǎng	Lie
+6	1557	散文	sǎnwén	Prose
+6	1558	散布	sànbù	spread
+6	1559	散发	sànfā	Emission
+6	1560	丧失	sàngshī	lose
+6	1561	骚扰	sāorǎo	harassment
+6	1562	嫂子	sǎozi	Sister-in-law
+6	1563	刹车	shāchē	brake
+6	1564	啥	shá	what
+6	1565	筛选	shāixuǎn	screen
+6	1566	山脉	shānmài	Mountain range
+6	1567	闪烁	shǎnshuò	Twinkle
+6	1568	擅长	shàncháng	Be good at
+6	1569	擅自	shànzì	do sth, without authorization
+6	1570	商标	shāngbiāo	trademark
+6	1571	伤脑筋	shāngnǎojīn	troublesome
+6	1572	上级	shàngjí	Superior
+6	1573	上进	shàngjìn	Desire to advance
+6	1574	上任	shàngrèn	take up an official post
+6	1575	上瘾	shàngyǐn	Addiction
+6	1576	上游	shàngyóu	Upper reaches
+6	1577	尚且	shàngqiě	yet
+6	1578	捎	shāo	take along sth. to sb
+6	1579	梢	shāo	end; tip
+6	1580	哨	shào	whistle
+6	1581	奢侈	shēchǐ	luxurious
+6	1582	舌头	shétou	Tongue
+6	1583	设立	shèlì	Establish
+6	1584	设想	shèxiǎng	imagine， conceive
+6	1585	设置	shèzhì	Set up
+6	1586	社区	shèqū	Community
+6	1587	涉及	shèjí	Involve
+6	1588	摄氏度	shèshìdù	Centigrade
+6	1589	深奥	shēn’ào	profound
+6	1590	深沉	shēnchén	deep
+6	1591	深情厚谊	shēnqíng-hòuyì	Profound sentiments of friendship
+6	1592	申报	shēnbào	declare
+6	1593	绅士	shēnshì	gentleman
+6	1594	呻吟	shēnyín	moan
+6	1595	神经	shénjīng	nerve
+6	1596	神奇	shénqí	Magical
+6	1597	神气	shénqì	Air, expression
+6	1598	神圣	shénshèng	sacred
+6	1599	神态	shéntài	expression
+6	1600	神仙	shénxiān	supernatural being; immortal; fairy
+6	1601	审查	shěnchá	Examination
+6	1602	审理	shěnlǐ	hear; try (law)
+6	1603	审美	shěnměi	taste
+6	1604	审判	shěnpàn	Trial
+6	1605	渗透	shèntòu	Infiltration
+6	1606	慎重	shènzhòng	careful
+6	1607	生存	shēngcún	Existence
+6	1608	生机	shēngjī	vitality
+6	1609	生理	shēnglǐ	Physiology
+6	1610	生疏	shēngshū	Strange
+6	1611	生态	shēngtài	ecology
+6	1612	生物	shēngwù	Biology
+6	1613	生肖	shēngxiào	Chinese Zodiac
+6	1614	生效	shēngxiào	Take effect
+6	1615	生锈	shēngxiù	Rust
+6	1616	生育	shēngyù	Birth
+6	1617	牲畜	shēngchù	livestock
+6	1618	声明	shēngmíng	statement
+6	1619	声势	shēngshì	impetus; momentum
+6	1620	声誉	shēngyù	reputation
+6	1621	省会	shěnghuì	provincial capital
+6	1622	盛产	shèngchǎn	abound in; teem with
+6	1623	盛开	shèngkāi	In full bloom
+6	1624	盛情	shèngqíng	boundless hospitality
+6	1625	盛行	shèngxíng	Prevalence
+6	1626	胜负	shèngfù	victory and defeat
+6	1627	失事	shīshì	crash
+6	1628	失误	shīwù	An error
+6	1629	失踪	shīzōng	disappear
+6	1630	师范	shīfàn	Normal school
+6	1631	施加	shījiā	Exert
+6	1632	施展	shīzhǎn	Display
+6	1633	尸体	shītǐ	body; cadaver
+6	1634	拾	shí	pick up, collect
+6	1635	十足	shízú	100 percent
+6	1636	识别	shíbié	Distinguish
+6	1637	时常	shícháng	often
+6	1638	时而	shí’ér	from time to time; now … now …
+6	1639	时光	shíguāng	time
+6	1640	时机	shíjī	Opportunity
+6	1641	时事	shíshì	current affairs
+6	1642	实惠	shíhuì	substantial
+6	1643	实力	shílì	Strength
+6	1644	实施	shíshī	Implementation
+6	1645	实事求是	shíshìqiúshì	Seek truth from facts
+6	1646	实行	shíxíng	Implement
+6	1647	实质	shízhì	essence
+6	1648	石油	shíyóu	petroleum
+6	1649	使命	shǐmìng	Mission
+6	1650	是非	shìfēi	right and wrong; quarrel; dispute
+6	1651	试图	shìtú	Try
+6	1652	试验	shìyàn	test
+6	1653	势必	shìbì	Certainly will
+6	1654	势力	shìlì	Power
+6	1655	世代	shìdài	generation
+6	1656	示范	shìfàn	lead the way; demonstrate
+6	1657	示威	shìwēi	Demonstration
+6	1658	示意	shìyì	hint，signal
+6	1659	释放	shìfàng	release
+6	1660	事故	shìgù	Accident
+6	1661	事迹	shìjì	Deed， story
+6	1662	事件	shìjiàn	Event
+6	1663	事态	shìtài	situation
+6	1664	事务	shìwù	affair
+6	1665	事项	shìxiàng	Matter
+6	1666	事业	shìyè	career
+6	1667	适宜	shìyí	suitable
+6	1668	视力	shìlì	Vision
+6	1669	视频	shìpín	video
+6	1670	视线	shìxiàn	sight
+6	1671	视野	shìyě	View
+6	1672	逝世	shìshì	Death
+6	1673	收藏	shōucáng	Collection
+6	1674	收缩	shōusuō	shrink
+6	1675	收益	shōuyì	income; profit
+6	1676	收音机	shōuyīnjī	radio
+6	1677	手法	shǒufǎ	technique
+6	1678	手势	shǒushì	gesture
+6	1679	手艺	shǒuyì	craft; handicraft
+6	1680	首要	shǒuyào	chief; principal
+6	1681	首饰	shǒushì	jewelry
+6	1682	守护	shǒuhù	Guard
+6	1683	受罪	shòuzuì	Suffer
+6	1684	授予	shòuyǔ	grant
+6	1685	书法	shūfǎ	Calligraphy
+6	1686	书籍	shūjí	book
+6	1687	书记	shūjì	secretary
+6	1688	书面	shūmiàn	in written form
+6	1689	舒畅	shūchàng	Happy, entirely free from worry
+6	1690	疏忽	shūhū	neglect
+6	1691	疏远	shūyuǎn	alienation
+6	1692	竖	shù	vertical
+6	1693	束	shù	beam
+6	1694	束缚	shùfù	Shackles
+6	1695	树立	shùlì	Establish
+6	1696	数额	shù’é	Amount
+6	1697	耍	shuǎ	Play
+6	1698	衰老	shuāilǎo	Be senile, grow old
+6	1699	衰退	shuāituì	decline
+6	1700	率领	shuàilǐng	Lead
+6	1701	涮火锅	shuànhuǒguō	have hotpot
+6	1702	双胞胎	shuāngbāotāi	Horse hooves
+6	1703	爽快	shuǎngkuài	Frank
+6	1704	水利	shuǐlì	Water conservancy
+6	1705	水龙头	shuǐlóngtóu	Water tap
+6	1706	水泥	shuǐní	cement
+6	1707	瞬间	shùnjiān	moment
+6	1708	司法	sīfǎ	judicial
+6	1709	司令	sīlìng	commander
+6	1710	思念	sīniàn	miss
+6	1711	思索	sīsuǒ	Thinking
+6	1712	思维	sīwéi	thinking
+6	1713	私自	sīzì	Secretly
+6	1714	斯文	sīwen	Gentle
+6	1715	死亡	sǐwáng	death
+6	1716	四肢	sìzhī	limb
+6	1717	寺庙	sìmiào	Temple
+6	1718	肆无忌惮	sìwújìdàn	Act recklessly and care for nobody
+6	1719	饲养	sìyǎng	Raise
+6	1720	耸	sǒng	Shrug
+6	1721	艘	sōu	ship
+6	1722	苏醒	sūxǐng	Wake up
+6	1723	俗话	súhuà	common saying
+6	1724	塑造	sùzào	Model
+6	1725	素食	sùshí	Vegetarian diet
+6	1726	素质	sùzhì	quality
+6	1727	诉讼	sùsòng	litigation
+6	1728	算数	suànshù	Count
+6	1729	随即	suíjí	immediately
+6	1730	随意	suíyì	random; casual
+6	1731	岁月	suìyuè	Years
+6	1732	隧道	suìdào	Tunnel
+6	1733	损坏	sǔnhuài	damage
+6	1734	索性	suǒxìng	Simply
+6	1735	索取	suǒqǔ	request
+6	1736	塌	tā	collapse
+6	1737	踏实	tāshi	earnest, steady and sure
+6	1738	塔	tǎ	tower
+6	1739	台风	táifēng	Typhoon
+6	1740	太空	tàikōng	Space
+6	1741	泰斗	tàidǒu	leading authority
+6	1742	瘫痪	tānhuàn	paralysis
+6	1743	贪婪	tānlán	Greedy
+6	1744	贪污	tānwū	corruption
+6	1745	摊	tān	stall
+6	1746	弹性	tánxìng	elastic
+6	1747	坦白	tǎnbái	Frank
+6	1748	探测	tàncè	Probe
+6	1749	探索	tànsuǒ	explore
+6	1750	探讨	tàntǎo	discuss; probe into
+6	1751	探望	tànwàng	Visit
+6	1752	叹气	tànqì	Sigh
+6	1753	倘若	tǎngruò	If
+6	1754	掏	tāo	Dig
+6	1755	滔滔不绝	tāotāobùjué	dash along; give it mouth
+6	1756	陶瓷	táocí	ceramics
+6	1757	陶醉	táozuì	revel in
+6	1758	淘汰	táotài	eliminate
+6	1759	讨好	tǎohǎo	to please someone
+6	1760	特长	tècháng	Specialty
+6	1761	特定	tèdìng	given
+6	1762	特意	tèyì	specially
+6	1763	提拔	tíbá	elevate
+6	1764	提炼	tíliàn	abstract; refine
+6	1765	提示	tíshì	hint
+6	1766	提议	tíyì	proposal
+6	1767	题材	tícái	theme
+6	1768	体裁	tǐcái	genre
+6	1769	体积	tǐjī	volume
+6	1770	体谅	tǐliàng	understand; allow for
+6	1771	体面	tǐmiàn	Respectable
+6	1772	体系	tǐxì	system
+6	1773	天才	tiāncái	genius
+6	1774	天伦之乐	tiānlúnzhīlè	The happiness of a family union
+6	1775	天然气	tiānránqì	Natural gas
+6	1776	天生	tiānshēng	Born
+6	1777	天堂	tiāntáng	heaven
+6	1778	天赋	tiānfù	talent
+6	1779	天文	tiānwén	Astronomy
+6	1780	田径	tiánjìng	Athletics
+6	1781	田野	tiányě	Field
+6	1782	舔	tiǎn	lick
+6	1783	挑剔	tiāoti	Fastidious
+6	1784	条款	tiáokuǎn	clause
+6	1785	条理	tiáolǐ	Organized
+6	1786	条约	tiáoyuē	Treaty
+6	1787	调和	tiáohé	Reconcile
+6	1788	调剂	tiáojì	relief; temper
+6	1789	调节	tiáojié	adjust
+6	1790	调解	tiáojiě	mediate
+6	1791	调料	tiáoliào	Seasoning
+6	1792	挑拨	tiǎobō	Provoke
+6	1793	挑衅	tiǎoxìn	provocation
+6	1794	跳跃	tiàoyuè	jump
+6	1795	停泊	tíngbó	Anchor
+6	1796	停顿	tíngdùn	pause
+6	1797	停滞	tíngzhì	stagnation
+6	1798	亭子	tíngzi	Pavilion
+6	1799	挺拔	tǐngbá	Tall and straight
+6	1800	通货膨胀	tōnghuòpéngzhàng	Inflation
+6	1801	通俗	tōngsú	popular, common
+6	1802	通讯	tōngxùn	communication
+6	1803	通用	tōngyòng	currency
+6	1804	通缉	tōngjī	list as wanted
+6	1805	铜	tóng	copper
+6	1806	同胞	tóngbāo	Compatriot
+6	1807	同志	tóngzhì	comrade
+6	1808	童话	tónghuà	fairy tale
+6	1809	统筹兼顾	tǒngchóujiāngù	Take into consideration both needs of the state and the interests of the collectives
+6	1810	统计	tǒngjì	Statistics
+6	1811	统统	tǒngtǒng	All
+6	1812	统治	tǒngzhì	rule
+6	1813	投机	tóujī	Speculation
+6	1814	投票	tóupiào	vote
+6	1815	投诉	tóusù	complaint
+6	1816	投降	tóuxiáng	surrender
+6	1817	投掷	tóuzhì	Throw
+6	1818	透露	tòulù	disclose
+6	1819	秃	tū	Bald
+6	1820	突破	tūpò	Breach
+6	1821	图案	tú’àn	pattern
+6	1822	徒弟	túdì	Apprentice
+6	1823	途径	tújìng	channel
+6	1824	涂抹	túmǒ	Apply
+6	1825	土壤	tǔrǎng	soil
+6	1826	吞吞吐吐	tūntūntǔtǔ	mutter and mumble
+6	1827	团结	tuánjié	Unite
+6	1828	团体	tuántǐ	group
+6	1829	团圆	tuányuán	reunion
+6	1830	推测	tuīcè	Speculation
+6	1831	推翻	tuīfān	overthrow
+6	1832	推理	tuīlǐ	reasoning
+6	1833	推论	tuīlùn	inference
+6	1834	推销	tuīxiāo	promote sales
+6	1835	脱离	tuōlí	Be divorced from
+6	1836	拖延	tuōyán	delay
+6	1837	托运	tuōyùn	Consignment
+6	1838	妥当	tuǒdang	appropriate
+6	1839	妥善	tuǒshàn	proper
+6	1840	妥协	tuǒxié	compromise
+6	1841	椭圆	tuǒyuán	Ellipse
+6	1842	唾弃	tuòqì	cast aside
+6	1843	挖掘	wājué	Excavate
+6	1844	娃娃	wáwa	A doll
+6	1845	瓦解	wǎjiě	collapse
+6	1846	哇	wa	wow
+6	1847	歪曲	wāiqū	distort
+6	1848	外表	wàibiǎo	appearance
+6	1849	外行	wàiháng	Layman
+6	1850	外界	wàijiè	outside
+6	1851	外向	wàixiàng	Extroversion
+6	1852	丸	wán	pill
+6	1853	完备	wánbèi	complete, maturity
+6	1854	完毕	wánbì	Complete
+6	1855	玩弄	wánnòng	Play with; flirt with
+6	1856	玩意儿	wányìr	Thing
+6	1857	顽固	wángù	stubborn
+6	1858	顽强	wánqiáng	Tenacious
+6	1859	挽回	wǎnhuí	To save
+6	1860	挽救	wǎnjiù	save
+6	1861	惋惜	wǎnxī	Sorry
+6	1862	万分	wànfēn	Extremely
+6	1863	往常	wǎngcháng	The usual
+6	1864	往事	wǎngshì	Past
+6	1865	妄想	wàngxiǎng	mirage; deliria
+6	1866	微不足道	wēibùzúdào	Not worth mentioning
+6	1867	微观	wēiguān	Microcosmic
+6	1868	威风	wēifēng	Prestige
+6	1869	威力	wēilì	power
+6	1870	威望	wēiwàng	prestige
+6	1871	威信	wēixìn	Authority
+6	1872	危机	wēijī	crisis
+6	1873	违背	wéibèi	Violation
+6	1874	维持	wéichí	maintain
+6	1875	维护	wéihù	protect
+6	1876	维生素	wéishēngsù	Vitamin
+6	1877	唯独	wéidú	Only
+6	1878	为难	wéinán	Embarrassed
+6	1879	为期	wéiqī	by a definite date
+6	1880	委托	wěituō	Entrust
+6	1881	委员	wěiyuán	Committee member
+6	1882	伪造	wěizào	Forge
+6	1883	喂（叹词）	wèi	hey
+6	1884	未免	wèimiǎn	Rather
+6	1885	畏惧	wèijù	Fear
+6	1886	卫星	wèixīng	satellite
+6	1887	慰问	wèiwèn	Condolences
+6	1888	蔚蓝	wèilán	azure
+6	1889	温带	wēndài	The temperate zone
+6	1890	温和	wēnhé	mild
+6	1891	文凭	wénpíng	diploma
+6	1892	文物	wénwù	Cultural relic
+6	1893	文献	wénxiàn	literature
+6	1894	文雅	wényǎ	Elegant
+6	1895	文艺	wényì	literature
+6	1896	问世	wènshì	The advent of
+6	1897	窝	wō	nest
+6	1898	乌黑	wūhēi	Black
+6	1899	污蔑	wūmiè	Slander
+6	1900	诬陷	wūxiàn	Framed
+6	1901	无比	wúbǐ	extremely
+6	1902	无偿	wúcháng	for free
+6	1903	无耻	wúchǐ	shameless
+6	1904	无动于衷	wúdòngyúzhōng	Completely indifferent
+6	1905	无非	wúfēi	Nothing more than
+6	1906	无精打采	wújīngdǎcǎi	Be in the blues
+6	1907	无赖	wúlài	Rogue
+6	1908	无理取闹	wúlǐqǔnào	Make trouble out of nothing
+6	1909	无能为力	wúnéngwéilì	Incapable of action
+6	1910	无辜	wúgū	innocent
+6	1911	无穷无尽	wúqióngwújìn	Inexhaustible
+6	1912	无微不至	wúwēibúzhì	Considerate right down to the most trivial detail
+6	1913	无忧无虑	wúyōuwúlǜ	Be light of heart from care
+6	1914	无知	wúzhī	ignorance
+6	1915	舞蹈	wǔdǎo	Dance
+6	1916	武器	wǔqì	arms
+6	1917	武侠	wǔxiá	Martial arts
+6	1918	武装	wǔzhuāng	Armed forces
+6	1919	侮辱	wǔrǔ	insult
+6	1920	务必	wùbì	must
+6	1921	误差	wùchā	error
+6	1922	误解	wùjiě	misunderstand
+6	1923	物业	wùyè	property
+6	1924	物美价廉	wùměijiàlián	High quality and inexpensive
+6	1925	物资	wùzī	goods and materials
+6	1926	溪	xī	brook
+6	1927	膝盖	xīgài	knee
+6	1928	熄灭	xīmiè	crush out; go out
+6	1929	昔日	xīrì	The past
+6	1930	牺牲	xīshēng	sacrifice
+6	1931	夕阳	xīyáng	Setting sun
+6	1932	媳妇	xífu	daughter-in-law
+6	1933	习俗	xísú	custom
+6	1934	袭击	xíjī	A surprise attack
+6	1935	喜闻乐见	xǐwénlèjiàn	Love to see and hear
+6	1936	喜悦	xǐyuè	Joy
+6	1937	系列	xìliè	series
+6	1938	细胞	xìbāo	Cells
+6	1939	细菌	xìjūn	Bacteria
+6	1940	细致	xìzhì	careful
+6	1941	霞	xiá	rosy clouds
+6	1942	狭隘	xiá’ài	narrow and limited
+6	1943	狭窄	xiázhǎi	Narrow
+6	1944	峡谷	xiágǔ	Canyon
+6	1945	下属	xiàshǔ	subordinate
+6	1946	先进	xiānjìn	advanced
+6	1947	先前	xiānqián	previously
+6	1948	鲜明	xiānmíng	distinct
+6	1949	掀起	xiānqǐ	Set off
+6	1950	纤维	xiānwéi	fibre
+6	1951	弦	xián	string
+6	1952	嫌	xián	dislike and avoid
+6	1953	嫌疑	xiányí	suspicion
+6	1954	闲话	xiánhuà	gossip
+6	1955	贤惠	xiánhuì	Virtuous
+6	1956	衔接	xiánjiē	joint
+6	1957	显著	xiǎnzhù	remarkable
+6	1958	现场	xiànchǎng	scene
+6	1959	现成	xiànchéng	Ready-made
+6	1960	现状	xiànzhuàng	Present situation
+6	1961	宪法	xiànfǎ	Constitution
+6	1962	陷害	xiànhài	Framed
+6	1963	陷入	xiànrù	fall into
+6	1964	陷阱	xiànjǐng	trap
+6	1965	馅儿	xiànr	Filling
+6	1966	线索	xiànsuǒ	Clue
+6	1967	相差	xiāngchà	Differ
+6	1968	相等	xiāngděng	Equal
+6	1969	相辅相成	xiāngfǔxiāngchéng	Exist side by side and play a part together
+6	1970	相应	xiāngyìng	Corresponding
+6	1971	镶嵌	xiāngqiàn	Set, inlay
+6	1972	乡镇	xiāngzhèn	Town
+6	1973	想方设法	xiǎngfāngshèfǎ	Try various devices to
+6	1974	响亮	xiǎngliàng	loud and clear
+6	1975	响应	xiǎngyìng	response
+6	1976	巷	xiàng	Alley
+6	1977	向导	xiàngdǎo	Guide
+6	1978	向来	xiànglái	always
+6	1979	向往	xiàngwǎng	Yearn for
+6	1980	相声	xiàngsheng	crosstalk
+6	1981	消除	xiāochú	eliminate
+6	1982	消毒	xiāodú	Disinfection
+6	1983	消防	xiāofáng	Fire control
+6	1984	消耗	xiāohào	consume
+6	1985	消灭	xiāomiè	eliminate
+6	1986	销毁	xiāohuǐ	destroy by melting or burning
+6	1987	小心翼翼	xiǎoxīnyìyì	With great care
+6	1988	效益	xiàoyì	benefit
+6	1989	肖像	xiàoxiàng	portrait
+6	1990	潇洒	xiāosǎ	chic
+6	1991	携带	xiédài	carry
+6	1992	协会	xiéhuì	association
+6	1993	协商	xiéshāng	consult
+6	1994	协调	xiétiáo	coordinate
+6	1995	协议	xiéyì	Agreement
+6	1996	协助	xiézhù	assist
+6	1997	屑	xiè	Chip
+6	1998	谢绝	xièjué	decline with thanks
+6	1999	泄露	xièlòu	leakage
+6	2000	泄气	xièqì	Feel discouraged
+6	2001	新陈代谢	xīnchéndàixiè	The new supersedes the old
+6	2002	新郎	xīnláng	Groom
+6	2003	新娘	xīnniáng	Bride
+6	2004	新颖	xīnyǐng	novel
+6	2005	心得	xīndé	Experience
+6	2006	心灵	xīnlíng	Heart
+6	2007	心态	xīntài	mentality
+6	2008	心疼	xīnténg	Distressed
+6	2009	心血	xīnxuè	Blood
+6	2010	心眼儿	xīnyǎnr	Heart, mind, intention
+6	2011	心甘情愿	xīngānqíngyuàn	willingly
+6	2012	辛勤	xīnqín	Hardworking
+6	2013	欣慰	xīnwèi	Gratified
+6	2014	欣欣向荣	xīnxīnxiàngróng	Thriving
+6	2015	薪水	xīnshui	salary
+6	2016	信赖	xìnlài	trust; rely
+6	2017	信念	xìnniàn	belief
+6	2018	信仰	xìnyǎng	Faith
+6	2019	信誉	xìnyù	reputation
+6	2020	腥	xīng	Fishy
+6	2021	兴隆	xīnglóng	Prosperous
+6	2022	兴旺	xīngwàng	Prosperous
+6	2023	行政	xíngzhèng	Administration
+6	2024	形态	xíngtài	Form
+6	2025	刑事	xíngshì	criminal
+6	2026	性感	xìnggǎn	sexy
+6	2027	性命	xìngmìng	life
+6	2028	性能	xìngnéng	performance
+6	2029	兴高采烈	xìnggāocǎiliè	Be jubilant
+6	2030	兴致勃勃	xìngzhìbóbó	Be in the best of spirits
+6	2031	胸怀	xiōnghuái	mind
+6	2032	胸膛	xiōngtáng	chest
+6	2033	汹涌	xiōngyǒng	turbulent
+6	2034	凶恶	xiōng’è	Ferocious
+6	2035	凶手	xiōngshǒu	Murderer
+6	2036	雄厚	xiónghòu	Abundant
+6	2037	雄伟	xióngwěi	Magnificent
+6	2038	修复	xiūfù	repair
+6	2039	修建	xiūjiàn	build
+6	2040	修养	xiūyǎng	training, mastery
+6	2041	羞耻	xiūchǐ	Shame
+6	2042	绣	xiù	embroidery
+6	2043	嗅觉	xiùjué	smell
+6	2044	虚假	xūjiǎ	false sham
+6	2045	虚荣	xūróng	vanity
+6	2046	虚伪	xūwěi	hypocrisy
+6	2047	需求	xūqiú	demand
+6	2048	须知	xūzhī	Notice
+6	2049	许可	xǔkě	Permit
+6	2050	酗酒	xùjiǔ	Alcohol
+6	2051	畜牧	xùmù	Animal husbandry
+6	2052	序言	xùyán	Preface
+6	2053	喧哗	xuānhuá	uproar
+6	2054	宣誓	xuānshì	Swear an oath
+6	2055	宣扬	xuānyáng	Preach
+6	2056	悬挂	xuánguà	suspension
+6	2057	悬念	xuánniàn	suspense
+6	2058	悬殊	xuánshū	disparity
+6	2059	悬崖峭壁	xuányáqiàobì	Steep cliff
+6	2060	旋律	xuánlǜ	Melody
+6	2061	旋转	xuánzhuǎn	rotate
+6	2062	选拔	xuǎnbá	Selection
+6	2063	选举	xuǎnjǔ	Election
+6	2064	选手	xuǎnshǒu	Player
+6	2065	炫耀	xuànyào	show off
+6	2066	削	xuē	cut
+6	2067	削弱	xuēruò	weaken; cripple
+6	2068	学说	xuéshuō	theory
+6	2069	学位	xuéwèi	Academic degree
+6	2070	雪上加霜	xuěshàngjiāshuāng	One disaster after another
+6	2071	血压	xuèyā	blood pressure
+6	2072	熏陶	xūntáo	The influence of
+6	2073	循环	xúnhuán	loop
+6	2074	循序渐进	xúnxùjiànjìn	follow in order and advance step by step
+6	2075	巡逻	xúnluó	patrol
+6	2076	寻觅	xúnmì	Looking for
+6	2077	压迫	yāpò	Oppression
+6	2078	压岁钱	yāsuìqián	Lucky money in new year
+6	2079	压缩	yāsuō	compress
+6	2080	压抑	yāyì	oppress; overbear
+6	2081	压榨	yāzhà	press
+6	2082	压制	yāzhì	Suppress
+6	2083	亚军	yàjūn	Runner-up
+6	2084	鸦雀无声	yāquèwúshēng	silent
+6	2085	烟花爆竹	yānhuābàozhú	Fireworks and firecrackers
+6	2086	淹没	yānmò	Flood
+6	2087	延期	yánqī	Delay
+6	2088	延伸	yánshēn	extend
+6	2089	延续	yánxù	continue
+6	2090	严寒	yánhán	Severe cold
+6	2091	严禁	yánjìn	Strictly prohibit
+6	2092	严峻	yánjùn	stern; serious; harsh
+6	2093	严厉	yánlì	severe
+6	2094	严密	yánmì	tight
+6	2095	沿海	yánhǎi	coastal
+6	2096	言论	yánlùn	speech
+6	2097	炎热	yánrè	Scorching hot
+6	2098	岩石	yánshí	rock
+6	2099	演变	yǎnbiàn	evolution
+6	2100	演习	yǎnxí	exercise
+6	2101	演绎	yǎnyì	deduction
+6	2102	演奏	yǎnzòu	Play
+6	2103	掩盖	yǎngài	cover up
+6	2104	掩护	yǎnhù	cover
+6	2105	掩饰	yǎnshì	Conceal
+6	2106	眼光	yǎnguāng	Eye
+6	2107	眼色	yǎnsè	meaningful glance
+6	2108	眼神	yǎnshén	expression in one’s eyes
+6	2109	验收	yànshōu	Check before acceptance
+6	2110	验证	yànzhèng	Verification
+6	2111	厌恶	yànwù	Hate
+6	2112	氧气	yǎngqì	oxygen
+6	2113	样品	yàngpǐn	sample
+6	2114	摇摆	yáobǎi	swing
+6	2115	摇滚	yáogǔn	Rock
+6	2116	遥控	yáokòng	remote control
+6	2117	遥远	yáoyuǎn	distant
+6	2118	谣言	yáoyán	Rumor
+6	2119	要点	yàodiǎn	Main points
+6	2120	要命	yàomìng	kill, extremely
+6	2121	要素	yàosù	Essential factor
+6	2122	耀眼	yàoyǎn	dazzling
+6	2123	野蛮	yěmán	barbarism
+6	2124	野心	yěxīn	ambition
+6	2125	液体	yètǐ	liquid
+6	2126	一流	yīliú	First-class
+6	2127	依旧	yījiù	still
+6	2128	依据	yījù	Basis
+6	2129	依靠	yīkào	rely on; depend on
+6	2130	依赖	yīlài	rely on
+6	2131	依托	yītuō	rely on
+6	2132	衣裳	yīshang	clothes
+6	2133	一度	yídù	once
+6	2134	一贯	yíguàn	consistent
+6	2135	一目了然	yímùliǎorán	Stick out a mile
+6	2136	一向	yíxiàng	Always
+6	2137	遗产	yíchǎn	heritage
+6	2138	遗传	yíchuán	inheritance
+6	2139	遗留	yíliú	Left
+6	2140	遗失	yíshī	Loss
+6	2141	疑惑	yíhuò	doubt; disbelieve
+6	2142	仪器	yíqì	instrument
+6	2143	仪式	yíshì	Ceremony
+6	2144	以便	yǐbiàn	so that
+6	2145	以免	yǐmiǎn	in case
+6	2146	以往	yǐwǎng	Past
+6	2147	以至	yǐzhì	So that; down to
+6	2148	以致	yǐzhì	so that
+6	2149	亦	yì	also
+6	2150	翼	yì	Wing
+6	2151	一帆风顺	yìfānfēngshùn	Everything is going smoothly
+6	2152	一举两得	yìjǔliǎngdé	Shoot two hawks with one arrow
+6	2153	一如既往	yìrújìwǎng	As always
+6	2154	一丝不苟	yìsībùgǒu	Be strict in one’s demands
+6	2155	异常	yìcháng	abnormal
+6	2156	意料	yìliào	expect; anticipate
+6	2157	意识	yìshí	consciousness
+6	2158	意图	yìtú	intention
+6	2159	意味着	yìwèizhe	Signify
+6	2160	意向	yìxiàng	intention
+6	2161	意志	yìzhì	will
+6	2162	毅力	yìlì	Will
+6	2163	毅然	yìrán	Resolutely; firmly
+6	2164	阴谋	yīnmóu	conspiracy
+6	2165	音响	yīnxiǎng	sound
+6	2166	隐蔽	yǐnbì	Concealment
+6	2167	隐患	yǐnhuàn	hidden danger
+6	2168	隐瞒	yǐnmán	hide
+6	2169	隐私	yǐnsī	Privacy
+6	2170	隐约	yǐnyuē	Vaguely
+6	2171	引导	yǐndǎo	guide
+6	2172	引擎	yǐnqíng	engine
+6	2173	引用	yǐnyòng	Quote
+6	2174	饮食	yǐnshí	diet
+6	2175	婴儿	yīng’ér	baby
+6	2176	英明	yīngmíng	wise
+6	2177	英勇	yīngyǒng	heroic
+6	2178	迎面	yíngmiàn	Head-on; in one`s face
+6	2179	盈利	yínglì	profit
+6	2180	应酬	yìngchou	Entertainment
+6	2181	应邀	yìngyāo	Invited
+6	2182	拥护	yōnghù	support
+6	2183	拥有	yōngyǒu	Have
+6	2184	庸俗	yōngsú	philistine; tacky
+6	2185	勇于	yǒngyú	The courage to
+6	2186	永恒	yǒnghéng	Eternal
+6	2187	涌现	yǒngxiàn	The emergence of
+6	2188	踊跃	yǒngyuè	Enthusiastically
+6	2189	用户	yònghù	user
+6	2190	优胜劣汰	yōushèngliètài	Survival of the fittest
+6	2191	优先	yōuxiān	first
+6	2192	优异	yōuyì	excellent
+6	2193	优越	yōuyuè	superior
+6	2194	忧郁	yōuyù	heavy-hearted
+6	2195	油腻	yóunì	greasy
+6	2196	油漆	yóuqī	paint
+6	2197	犹如	yóurú	like; as if; just as
+6	2198	有条不紊	yǒutiáobùwěn	Everything in good order and well arranged
+6	2199	幼稚	yòuzhì	Immature
+6	2200	诱惑	yòuhuò	tempt; lure
+6	2201	愚蠢	yúchǔn	stupid
+6	2202	愚昧	yúmèi	Foolish
+6	2203	舆论	yúlùn	public opinion
+6	2204	渔民	yúmín	Fisherman
+6	2205	与日俱增	yǔrìjùzēng	Grow with each passing day
+6	2206	羽绒服	yǔróngfú	Down Jackets
+6	2207	宇宙	yǔzhòu	universe
+6	2208	愈	yù	more
+6	2209	预料	yùliào	Expect
+6	2210	预期	yùqī	expect; anticipate
+6	2211	预算	yùsuàn	budget
+6	2212	预先	yùxiān	beforehand
+6	2213	预言	yùyán	Prophesy
+6	2214	预兆	yùzhào	Omen
+6	2215	玉	yù	jade
+6	2216	欲望	yùwàng	desire
+6	2217	寓言	yùyán	fable
+6	2218	冤枉	yuānwang	Wrong; treat unjustly
+6	2219	元首	yuánshǒu	The heads of a state
+6	2220	元素	yuánsù	element
+6	2221	元宵节	yuánxiāojié	The Lantern Festival
+6	2222	圆满	yuánmǎn	Satisfactorily
+6	2223	原告	yuángào	accuser
+6	2224	原理	yuánlǐ	principle
+6	2225	原始	yuánshǐ	Original
+6	2226	原先	yuánxiān	Original
+6	2227	缘故	yuángù	Reason
+6	2228	园林	yuánlín	Gardens
+6	2229	源泉	yuánquán	headspring
+6	2230	约束	yuēshù	bind; restrain
+6	2231	乐谱	yuèpǔ	Music score
+6	2232	岳母	yuèmǔ	mother in law
+6	2233	熨	yùn	Ironing
+6	2234	蕴藏	yùncáng	hold in store; contain
+6	2235	运算	yùnsuàn	operation
+6	2236	运行	yùnxíng	run; working
+6	2237	酝酿	yùnniàng	Brewing
+6	2238	孕育	yùnyù	inoculation; breed
+6	2239	砸	zá	Hit
+6	2240	杂技	zájì	acrobatics
+6	2241	杂交	zájiāo	Hybridization
+6	2242	咋	zǎ	how; why
+6	2243	灾难	zāinàn	disaster
+6	2244	栽培	zāipéi	cultivate
+6	2245	宰	zǎi	Slaughter
+6	2246	在意	zàiyì	care about
+6	2247	再接再厉	zàijiēzàilì	Make persistent efforts
+6	2248	攒	zǎn	Save
+6	2249	赞叹	zàntàn	Praise
+6	2250	赞助	zànzhù	Sponsor
+6	2251	暂且	zànqiě	For the time being
+6	2252	糟蹋	zāotà	waste; ruin
+6	2253	遭受	zāoshòu	Suffer
+6	2254	遭殃	zāoyāng	Suffer
+6	2255	遭遇	zāoyù	encounter
+6	2256	造型	zàoxíng	style; modeling
+6	2257	噪音	zàoyīn	noise
+6	2258	责怪	zéguài	Blame
+6	2259	贼	zéi	thief
+6	2260	增添	zēngtiān	Add
+6	2261	赠送	zèngsòng	Give
+6	2262	渣	zhā	residue
+6	2263	扎	zhā	Tie
+6	2264	扎实	zhāshi	solid
+6	2265	眨	zhǎ	Blink
+6	2266	诈骗	zhàpiàn	Fraud
+6	2267	摘要	zhāiyào	abstract
+6	2268	债券	zhàiquàn	bond
+6	2269	沾光	zhānguāng	gain some advantage from another
+6	2270	瞻仰	zhānyǎng	look at with reverence
+6	2271	斩钉截铁	zhǎndīngjiétiě	Resolute and decisive
+6	2272	展示	zhǎnshì	Exhibit
+6	2273	展望	zhǎnwàng	expectation
+6	2274	展现	zhǎnxiàn	To show
+6	2275	崭新	zhǎnxīn	Completely new
+6	2276	战斗	zhàndòu	Battle
+6	2277	战略	zhànlüè	strategy
+6	2278	战术	zhànshù	tactics
+6	2279	战役	zhànyì	Battle
+6	2280	占据	zhànjù	Occupy
+6	2281	占领	zhànlǐng	occupy
+6	2282	章程	zhāngchéng	Constitution, regulations
+6	2283	障碍	zhàng’ài	obstacle
+6	2284	帐篷	zhàngpeng	Tent
+6	2285	招标	zhāobiāo	call for bids
+6	2286	招收	zhāoshōu	recruit
+6	2287	朝气蓬勃	zhāoqìpéngbó	Full of youthful spirit
+6	2288	着迷	zháomí	Be fascinated
+6	2289	沼泽	zhǎozé	Swamp
+6	2290	照样	zhàoyàng	all the same; as before
+6	2291	照耀	zhàoyào	Shine
+6	2292	遮挡	zhēdǎng	keep out
+6	2293	折腾	zhēteng	Toss
+6	2294	折	zhé	fracture
+6	2295	折磨	zhémó	torture
+6	2296	真理	zhēnlǐ	Truth
+6	2297	真相	zhēnxiàng	fact; truth
+6	2298	真挚	zhēnzhì	sincere
+6	2299	珍贵	zhēnguì	precious
+6	2300	珍稀	zhēnxī	Rare
+6	2301	珍珠	zhēnzhū	Pearl
+6	2302	侦探	zhēntàn	Detective
+6	2303	斟酌	zhēnzhuó	Consider
+6	2304	枕头	zhěntou	Pillow
+6	2305	阵地	zhèndì	position
+6	2306	阵容	zhènróng	Lineup
+6	2307	镇定	zhèndìng	Calm
+6	2308	镇静	zhènjìng	Calm
+6	2309	振奋	zhènfèn	Exciting
+6	2310	振兴	zhènxīng	The revitalization of
+6	2311	震撼	zhènhàn	shock
+6	2312	震惊	zhènjīng	shock
+6	2313	争端	zhēngduān	Dispute
+6	2314	争夺	zhēngduó	Fight for
+6	2315	争气	zhēngqì	try to win credit for
+6	2316	争先恐后	zhēngxiānkǒnghòu	strive to be the first; vie with each other
+6	2317	争议	zhēngyì	dispute
+6	2318	蒸发	zhēngfā	evaporation
+6	2319	征服	zhēngfú	Conquer
+6	2320	征收	zhēngshōu	collection
+6	2321	正月	zhēngyuè	January (moon calendar)
+6	2322	挣扎	zhēngzhá	Struggle
+6	2323	整顿	zhěngdùn	rectify
+6	2324	正当	zhèngdāng	proper
+6	2325	正负	zhèngfù	Positive and negative
+6	2326	正规	zhèngguī	regular
+6	2327	正经	zhèngjing	Serious
+6	2328	正气	zhèngqì	Righteousness
+6	2329	正义	zhèngyì	justice
+6	2330	正宗	zhèngzōng	authentic
+6	2331	政策	zhèngcè	policy
+6	2332	政权	zhèngquán	regime
+6	2333	证实	zhèngshí	Confirm
+6	2334	证书	zhèngshū	certificate
+6	2335	郑重	zhèngzhòng	Solemnly
+6	2336	症状	zhèngzhuàng	Symptom
+6	2337	之际	zhī jì	it’s time…
+6	2338	枝	zhī	branch
+6	2339	支撑	zhīchēng	brace
+6	2340	支出	zhīchū	payout; expend
+6	2341	支流	zhīliú	Tributary
+6	2342	支配	zhīpèi	Control
+6	2343	支援	zhīyuán	support
+6	2344	支柱	zhīzhù	mainstay; backbone
+6	2345	知觉	zhījué	perception
+6	2346	知足常乐	zhīzúchánglè	Happy is he who is content
+6	2347	脂肪	zhīfáng	Fat
+6	2348	直播	zhíbō	on live
+6	2349	直径	zhíjìng	diameter
+6	2350	值班	zhíbān	Be on duty
+6	2351	殖民地	zhímíndì	Colony
+6	2352	职能	zhínéng	function
+6	2353	职位	zhíwèi	position
+6	2354	职务	zhíwù	post
+6	2355	执行	zhíxíng	implement
+6	2356	执着	zhízhuó	persistent
+6	2357	侄子	zhízi	nephew
+6	2358	指标	zhǐbiāo	index
+6	2359	指定	zhǐdìng	Appoint
+6	2360	指甲	zhǐjia	nail
+6	2361	指令	zhǐlìng	instructions
+6	2362	指南针	zhǐnánzhēn	Compass
+6	2363	指示	zhǐshì	Instructions
+6	2364	指望	zhǐwàng	expect; figure on
+6	2365	指责	zhǐzé	Accuse
+6	2366	治安	zhì’ān	public security
+6	2367	治理	zhìlǐ	Government
+6	2368	制裁	zhìcái	Sanction
+6	2369	制服	zhìfú	uniform
+6	2370	制约	zhìyuē	restrict
+6	2371	制止	zhìzhǐ	Stop it
+6	2372	致辞	zhìcí	Speech
+6	2373	致力	zhìlì	devote oneself to
+6	2374	致使	zhìshǐ	cause
+6	2375	智力	zhìlì	intelligence
+6	2376	智能	zhìnéng	Intelligence
+6	2377	智商	zhìshāng	intelligence quotient
+6	2378	滞留	zhìliú	retention
+6	2379	志气	zhìqì	Ambition
+6	2380	忠诚	zhōngchéng	loyal
+6	2381	忠实	zhōngshí	Faithful
+6	2382	终点	zhōngdiǎn	End
+6	2383	终究	zhōngjiū	after all
+6	2384	终身	zhōngshēn	lifelong
+6	2385	终止	zhōngzhǐ	termination
+6	2386	中断	zhōngduàn	interrupt
+6	2387	中立	zhōnglì	neutral
+6	2388	中央	zhōngyāng	center
+6	2389	衷心	zhōngxīn	Heartfelt
+6	2390	种子	zhǒngzi	seed
+6	2391	种族	zhǒngzú	race
+6	2392	种植	zhòngzhí	plant
+6	2393	肿瘤	zhǒngliú	tumour
+6	2394	重心	zhòngxīn	Focus
+6	2395	众所周知	zhòngsuǒzhōuzhī	As everyone knows
+6	2396	州	zhōu	State
+6	2397	舟	zhōu	boat
+6	2398	粥	zhōu	Porridge
+6	2399	周边	zhōubiān	periphery
+6	2400	周密	zhōumì	thorough; careful
+6	2401	周年	zhōunián	anniversary
+6	2402	周期	zhōuqī	period cycle
+6	2403	周折	zhōuzhé	Twists and turns
+6	2404	周转	zhōuzhuǎn	turnover
+6	2405	皱纹	zhòuwén	Wrinkle
+6	2406	昼夜	zhòuyè	Day and night
+6	2407	株	zhū	plant (measure word)
+6	2408	诸位	zhūwèi	every one
+6	2409	逐年	zhúnián	year by year
+6	2410	拄	zhǔ	lean on a stick
+6	2411	主办	zhǔbàn	Host
+6	2412	主导	zhǔdǎo	leading
+6	2413	主管	zhǔguǎn	Executive director
+6	2414	主流	zhǔliú	Main stream
+6	2415	主权	zhǔquán	sovereignty
+6	2416	主义	zhǔyì	doctrine
+6	2417	嘱咐	zhǔfù	Charge someone with a task
+6	2418	住宅	zhùzhái	residence
+6	2419	注射	zhùshè	injection
+6	2420	注视	zhùshì	Gaze
+6	2421	注释	zhùshì	note; annotation
+6	2422	注重	zhùzhòng	pay attention to
+6	2423	助理	zhùlǐ	assistant
+6	2424	助手	zhùshǒu	assistant
+6	2425	著作	zhùzuò	Work
+6	2426	驻扎	zhùzhā	Be stationed
+6	2427	铸造	zhùzào	casting, foundry
+6	2428	拽	zhuài	drag; haul
+6	2429	专长	zhuāncháng	Expertise
+6	2430	专程	zhuānchéng	Special-purpose trip
+6	2431	专利	zhuānlì	patent
+6	2432	专题	zhuāntí	special collection
+6	2433	砖	zhuān	Brick
+6	2434	转达	zhuǎndá	Convey
+6	2435	转让	zhuǎnràng	make over; transfer
+6	2436	转移	zhuǎnyí	transfer
+6	2437	转折	zhuǎnzhé	Transition
+6	2438	传记	zhuànjì	biography
+6	2439	装备	zhuāngbèi	equipment
+6	2440	装卸	zhuāngxiè	Loading and unloading
+6	2441	庄严	zhuāngyán	solemn
+6	2442	庄重	zhuāngzhòng	grand; superb
+6	2443	庄稼	zhuāngjia	crops
+6	2444	幢	zhuàng	Building (meaure word)
+6	2445	壮观	zhuàngguān	grand; sublime
+6	2446	壮丽	zhuànglì	Magnificent
+6	2447	壮烈	zhuàngliè	brave; heroic
+6	2448	追悼	zhuīdào	mour for
+6	2449	追究	zhuījiū	Investigate
+6	2450	坠	zhuì	fall
+6	2451	准则	zhǔnzé	criterion
+6	2452	琢磨	zhuómó	Pondering
+6	2453	着手	zhuóshǒu	To start
+6	2454	着想	zhuóxiǎng	consider
+6	2455	着重	zhuózhòng	Emphasize
+6	2456	卓越	zhuóyuè	Excellent
+6	2457	资本	zīběn	capital
+6	2458	资产	zīchǎn	capital; asset
+6	2459	资深	zīshēn	senior
+6	2460	资助	zīzhù	give financial aid
+6	2461	姿态	zītài	attitude
+6	2462	滋味	zīwèi	Taste
+6	2463	滋润	zīrùn	moisturize
+6	2464	子弹	zǐdàn	Bullet
+6	2465	自卑	zìbēi	inferiority
+6	2466	自发	zìfā	spontaneous; unprompted
+6	2467	自力更生	zìlìgēngshēng	Rely through one’s own efforts
+6	2468	自满	zìmǎn	Complacent
+6	2469	自主	zìzhǔ	Autonomy
+6	2470	踪迹	zōngjì	tail; trail; trace
+6	2471	宗教	zōngjiào	Religion
+6	2472	宗旨	zōngzhǐ	Purpose
+6	2473	棕色	zōngsè	brown
+6	2474	总而言之	zǒng’éryánzhī	To make a long story short
+6	2475	总和	zǒnghé	summation
+6	2476	纵横	zònghéng	in length and breadth
+6	2477	走廊	zǒuláng	corridor
+6	2478	走漏	zǒulòu	leak out
+6	2479	走私	zǒusī	smuggle
+6	2480	揍	zòu	Beat
+6	2481	租赁	zūlìn	Lease
+6	2482	足以	zúyǐ	Enough
+6	2483	阻碍	zǔ’ài	hinder
+6	2484	阻拦	zǔlán	block off
+6	2485	阻挠	zǔnáo	obstruct; stand in the way
+6	2486	祖父	zǔfù	grandfather
+6	2487	祖国	zǔguó	Motherland
+6	2488	祖先	zǔxiān	Ancestors
+6	2489	钻研	zuānyán	Study intensively
+6	2490	钻石	zuànshí	Diamonds
+6	2491	嘴唇	zuǐchún	Lips
+6	2492	罪犯	zuìfàn	Criminal
+6	2493	尊严	zūnyán	dignity
+6	2494	遵循	zūnxún	follow
+6	2495	做主	zuòzhǔ	decide
+6	2496	座右铭	zuòyòumíng	Motto
+6	2497	作弊	zuòbì	Cheat
+6	2498	作废	zuòfèi	cancel, blank out
+6	2499	作风	zuòfēng	style
+6	2500	作息	zuòxī	work and rest

@@ -1,0 +1,6 @@
+@import url(https://db.onlinewebfonts.com/c/1ee9941f1b8c128110ca4307dda59917?family=STKaiti);
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&family=Nunito:wght@200;300;400&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

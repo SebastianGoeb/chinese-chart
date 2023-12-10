@@ -1,0 +1,31 @@
+{
+  "name": "hsk-chart",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "heroicons": "^2.0.18",
+    "lodash": "^4.17.21",
+    "solid-js": "^1.8.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.10",
+    "@types/lodash": "^4.14.202",
+    "@types/murmurhash3js": "^3.0.7",
+    "autoprefixer": "^10.4.16",
+    "murmurhash3js": "^3.0.1",
+    "postcss": "^8.4.31",
+    "prettier": "^3.1.0",
+    "prettier-plugin-tailwindcss": "^0.5.7",
+    "tailwindcss": "^3.3.5",
+    "typescript": "^5.2.2",
+    "vite": "^4.5.0",
+    "vite-plugin-solid": "^2.7.2"
+  }
+}

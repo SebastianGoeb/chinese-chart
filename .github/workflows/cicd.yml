@@ -5,8 +5,13 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
+concurrency: cicd
+
 jobs:
-  test:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo

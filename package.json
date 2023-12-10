@@ -28,5 +28,10 @@
     "typescript": "^5.2.2",
     "vite": "^5.0.0",
     "vite-plugin-solid": "^2.7.2"
+  },
+  "overrides": {
+    "vite-plugin-solid": {
+      "vite": "^5.0.0"
+    }
   }
 }

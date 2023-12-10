@@ -35,4 +35,3 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.4.1
         with:
           folder: dist
-          clean-exclude: .nojekyll

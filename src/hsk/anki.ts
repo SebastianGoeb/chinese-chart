@@ -1,7 +1,7 @@
 import { Revision } from "./hsk";
 
 export async function getWordIntervals(
-  _revision: Revision
+  _revision: Revision,
 ): Promise<Map<string, number>> {
   const res = await fetch("src/assets/new_hsk_anki_notes.tsv");
   const text = await res.text();

@@ -1,7 +1,7 @@
 import { Revision } from "./hsk";
 
 export async function getFakeWordIntervals(
-  _revision: Revision
+  _revision: Revision,
 ): Promise<Map<string, number>> {
   const res = await fetch("src/assets/old_hsk.tsv");
   const text = await res.text();

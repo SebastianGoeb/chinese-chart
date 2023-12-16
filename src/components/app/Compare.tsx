@@ -50,7 +50,7 @@ function Compare() {
               <tr>
                 <th>{levelA}</th>
                 <For each={optionLevels.get(optionB())}>
-                  {(levelB) => <td>-</td>}
+                  {(_levelB) => <td>-</td>}
                 </For>
               </tr>
             )}

@@ -1,6 +1,6 @@
 import Topnav from "./Topnav";
 
-function App(props) {
+function App(props: any) {
   return (
     <div>
       <Topnav></Topnav>

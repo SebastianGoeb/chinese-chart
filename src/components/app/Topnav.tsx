@@ -1,3 +1,4 @@
+import { A } from "@solidjs/router";
 import magnifyingGlass from "heroicons/24/outline/magnifying-glass.svg";
 import { Revision } from "../../hsk/hsk";
 import { revision, setRevision, setZoom, zoom } from "../../state/config";
@@ -19,8 +20,25 @@ const revisionOptions: MultibuttonOption<Revision>[] = [
 function Topnav() {
   return (
     <>
-      <nav class="sticky top-0 flex items-center justify-between  bg-[#223F05] px-32 py-4">
-        <h1 class="font-nunito text-4xl font-extralight  text-white">HSK</h1>
+      <nav class="sticky top-0 flex items-center justify-between bg-[#223F05] px-32 py-4">
+        <h1 class="font-nunito text-4xl font-extralight text-white">HSK</h1>
+
+        <A
+          href="/chinese-chart/levels"
+          class="rounded-full bg-lime-100 px-8 py-3 text-black hover:bg-lime-200 hover:shadow-lg hover:shadow-rose-500/25"
+          activeClass="shadow-lg shadow-rose-500/50"
+        >
+          Levels
+        </A>
+        <A
+          href="/chinese-chart/compare"
+          class="rounded-full bg-lime-100 px-8 py-3 text-black hover:bg-lime-200 hover:shadow-lg hover:shadow-rose-500/25"
+          activeClass="shadow-lg shadow-rose-500/50"
+        >
+          Compare
+        </A>
+
+        {/* filter */}
         <div class="flex items-center gap-4">
           <div class="relative">
             <div class="pointer-events-none absolute inset-y-0 right-0 mr-3 flex items-center">
@@ -52,12 +70,18 @@ function Topnav() {
               </ul>
             </div>
           </div> */}
+
+          {/* zoom */}
           <Zoomer></Zoomer>
+
+          {/* exact zoom */}
           <input
             type="number"
             onchange={(e) => setZoom(Number(e.target.value))}
             value={zoom()}
           ></input>
+
+          {/* hsk old/new */}
           <Multibutton
             options={revisionOptions}
             value={revision()}

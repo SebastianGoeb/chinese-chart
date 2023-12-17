@@ -2,25 +2,27 @@ import { A } from "@solidjs/router";
 
 function Topnav() {
   return (
-    <>
-      <nav class="sticky top-0 flex items-center justify-between bg-[#223F05] px-4 py-4 lg:px-32">
-        <h1 class="font-nunito text-4xl font-extralight text-white">HSK</h1>
+    <nav class="sticky top-0 flex items-center justify-between border-b border-b-stone-500 bg-lime-50 px-4 text-xs md:px-16 md:text-base lg:px-32 xl:px-64 2xl:px-96">
+      <h1 class="font-kaiti text-4xl font-semibold text-stone-700">中文</h1>
+      <div class="flex gap-4">
         <A
           href="/chinese-chart/levels"
-          class="rounded-full bg-lime-100 px-8 py-3 text-black hover:bg-lime-200 hover:shadow-lg hover:shadow-rose-500/25"
-          activeClass="shadow-lg shadow-rose-500/50"
+          class="p-3 hover:border-b-[7px] hover:border-b-rose-200 md:px-8"
+          style={{ "margin-bottom": "-4px" }}
+          activeClass="border-b-rose-500 border-b-[7px] hover:border-b-rose-500"
         >
-          Levels
+          HSK Levels
         </A>
         <A
           href="/chinese-chart/compare"
-          class="rounded-full bg-lime-100 px-8 py-3 text-black hover:bg-lime-200 hover:shadow-lg hover:shadow-rose-500/25"
-          activeClass="shadow-lg shadow-rose-500/50"
+          class="p-3 hover:border-b-[7px] hover:border-b-rose-200 md:px-8"
+          style={{ "margin-bottom": "-4px" }}
+          activeClass="border-b-rose-500 border-b-[7px] hover:border-b-rose-500"
         >
           Compare
         </A>
-      </nav>
-    </>
+      </div>
+    </nav>
   );
 }
 

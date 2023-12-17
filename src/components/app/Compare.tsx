@@ -188,12 +188,12 @@ function Compare() {
   };
 
   return (
-    <div class="mx-2 my-4 flex w-auto flex-col items-stretch rounded-2xl border-[1px] border-lime-800 bg-white px-4 pb-16 pt-4 text-xs md:text-base lg:mx-32 lg:px-16">
+    <div class="m-4 text-[0.6rem] md:mx-16 md:text-base lg:mx-32 xl:mx-64 2xl:mx-96">
       {/* title */}
       <h1 class="mb-4 text-2xl">Compare</h1>
 
       {/* selector */}
-      <div class="flex w-full  items-center gap-4">
+      <div class="flex w-full items-center gap-4">
         <select
           class="grow"
           onChange={(e) => setOptionA(e.target.value as any)}
@@ -219,12 +219,14 @@ function Compare() {
       </div>
 
       {/* table */}
-      <table class="mt-4 w-full border">
+      <table class="mt-4 w-full border border-stone-500 text-right">
         <thead>
           <tr>
             <th></th>
             <For each={[...optionLevels.get(optionB())!, null]}>
-              {(levelB) => <th class="py-2">{levelB ?? "n/a"}</th>}
+              {(levelB) => (
+                <th class="p-2 lg:p-4 2xl:p-8">{levelB ?? "n/a"}</th>
+              )}
             </For>
           </tr>
         </thead>
@@ -232,10 +234,10 @@ function Compare() {
           <For each={[...optionLevels.get(optionA())!, null]}>
             {(levelA) => (
               <tr>
-                <th class="px-2 lg:px-4">{levelA ?? "n/a"}</th>
+                <th class="p-2 lg:p-4 2xl:p-8">{levelA ?? "n/a"}</th>
                 <For each={[...optionLevels.get(optionB())!, null]}>
                   {(levelB) => (
-                    <td class="border border-slate-700 px-2 py-1 lg:px-4">
+                    <td class="border border-stone-500 p-2 lg:p-4 2xl:p-8">
                       {pairings().get(levelA + "-" + levelB)?.length}
                     </td>
                   )}

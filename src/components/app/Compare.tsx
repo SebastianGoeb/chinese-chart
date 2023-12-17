@@ -1,4 +1,4 @@
-import { intersectionBy } from "lodash";
+import { differenceBy, intersectionBy } from "lodash";
 import { For, createMemo, createResource, createSignal } from "solid-js";
 import {
   HskLevel,
@@ -16,11 +16,14 @@ enum CompareOption {
 
 const optionLevels = new Map<CompareOption, number[]>();
 optionLevels.set(CompareOption.HSK, [1, 2, 3, 4, 5, 6]);
-optionLevels.set(CompareOption.活着, [200, 500, 2000, 5000, Infinity]);
+optionLevels.set(CompareOption.活着, [300, 1000, 2000, 3000, 5000, 10000]);
 optionLevels.set(CompareOption.Subtlex, [200, 500, 2000, 5000, Infinity]);
 
 function calculatePairings(levelsA: HskLevel[], levelsB: HskLevel[]) {
   const pairings = new Map<string, HskWord[]>();
+
+  const allA = levelsA.flatMap((level) => level.words);
+  const allB = levelsB.flatMap((level) => level.words);
 
   // init empty lists
   levelsA.forEach((a) => {
@@ -30,8 +33,26 @@ function calculatePairings(levelsA: HskLevel[], levelsB: HskLevel[]) {
         b.words,
         (hskWord) => hskWord.chinese,
       );
-      pairings.set(a.level + "-" + b.level, commonWords);
+      pairings.set(`${a.level}-${b.level}`, commonWords);
     });
+  });
+
+  levelsA.forEach((a) => {
+    const aNotInAnyB = differenceBy(
+      a.words,
+      allB,
+      (hskWord) => hskWord.chinese,
+    );
+    pairings.set(`${a.level}-null`, aNotInAnyB);
+  });
+
+  levelsB.forEach((b) => {
+    const bNotInAnyA = differenceBy(
+      b.words,
+      allA,
+      (hskWord) => hskWord.chinese,
+    );
+    pairings.set(`null-${b.level}`, bNotInAnyA);
   });
 
   return pairings;
@@ -65,24 +86,17 @@ function groupWordsByFrequencyBuckets(
 ): HskLevel[] {
   const levels: HskLevel[] = [];
 
-  let cumulativeBucket = 0;
+  let prevBucket = 0;
   for (const bucket of buckets) {
-    const prevCumulativeBucket = cumulativeBucket;
-    cumulativeBucket = cumulativeBucket + bucket;
-
     const level: HskLevel = {
       level: bucket,
       words: [],
     };
-    for (
-      let i = prevCumulativeBucket;
-      i < Math.min(words.length, cumulativeBucket);
-      i++
-    ) {
+    for (let i = prevBucket; i < Math.min(words.length, bucket); i++) {
       const word = words[i];
       level.words.push({
         level: bucket,
-        no: i - prevCumulativeBucket + 1, // 1-indexing for human readability
+        no: i - prevBucket + 1, // 1-indexing for human readability
         chinese: word.word,
         english: "",
         pinyin: "",
@@ -90,6 +104,7 @@ function groupWordsByFrequencyBuckets(
     }
 
     levels.push(level);
+    prevBucket = bucket;
   }
 
   return levels;
@@ -145,7 +160,7 @@ function Compare() {
       optionLevels.get(CompareOption.Subtlex)!,
     );
   const [optionA, setOptionA] = createSignal<CompareOption>(CompareOption.HSK);
-  const [optionB, setOptionB] = createSignal<CompareOption>(CompareOption.HSK);
+  const [optionB, setOptionB] = createSignal<CompareOption>(CompareOption.活着);
 
   const pairings = createMemo(() => {
     const wordsA = selectDataset(
@@ -160,11 +175,7 @@ function Compare() {
       活着Words,
       subtlexWords,
     );
-    console.log(wordsA);
-    console.log(wordsB);
-    const res = calculatePairings(wordsA, wordsB);
-    console.log(res);
-    return res;
+    return calculatePairings(wordsA, wordsB);
   });
 
   return (
@@ -188,21 +199,21 @@ function Compare() {
       </div>
 
       {/* table */}
-      <table class="mt-4  border-spacing-2 border border-slate-500">
+      <table class="mt-4">
         <thead>
           <tr>
             <th></th>
-            <For each={optionLevels.get(optionB())}>
-              {(levelB) => <th>{levelB} </th>}
+            <For each={[...optionLevels.get(optionB())!, null]}>
+              {(levelB) => <th>{levelB ?? "n/a"}</th>}
             </For>
           </tr>
         </thead>
         <tbody>
-          <For each={optionLevels.get(optionA())}>
+          <For each={[...optionLevels.get(optionA())!, null]}>
             {(levelA) => (
               <tr>
-                <th>{levelA}</th>
-                <For each={optionLevels.get(optionB())}>
+                <th class="px-4">{levelA ?? "n/a"}</th>
+                <For each={[...optionLevels.get(optionB())!, null]}>
                   {(levelB) => (
                     <td class="border border-slate-700 px-4 py-1">
                       {pairings().get(levelA + "-" + levelB)?.length}

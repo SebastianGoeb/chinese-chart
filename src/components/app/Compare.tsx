@@ -37,6 +37,79 @@ function calculatePairings(levelsA: HskLevel[], levelsB: HskLevel[]) {
   return pairings;
 }
 
+interface WordWithFrequency {
+  word: string;
+  frequency: number;
+}
+
+export async function getWordFrequenciesTsv(
+  name: string,
+): Promise<WordWithFrequency[]> {
+  const res = await fetch(`segmentation/${name}_frequencies.tsv`);
+  return wordFrequenciesTsvToJson(await res.text());
+}
+
+export function wordFrequenciesTsvToJson(
+  wordsTsv: string,
+): WordWithFrequency[] {
+  const dataLines = wordsTsv.split("\n");
+  return dataLines.map((line) => {
+    const [word, frequency] = line.split("\t");
+    return { word: word.trim(), frequency: Number(frequency) };
+  });
+}
+
+function groupWordsByFrequencyBuckets(
+  words: WordWithFrequency[],
+  buckets: number[],
+): HskLevel[] {
+  const levels: HskLevel[] = [];
+
+  let cumulativeBucket = 0;
+  for (const bucket of buckets) {
+    const prevCumulativeBucket = cumulativeBucket;
+    cumulativeBucket = cumulativeBucket + bucket;
+
+    const level: HskLevel = {
+      level: bucket,
+      words: [],
+    };
+    for (
+      let i = prevCumulativeBucket;
+      i < Math.min(words.length, cumulativeBucket);
+      i++
+    ) {
+      const word = words[i];
+      level.words.push({
+        level: bucket,
+        no: i - prevCumulativeBucket + 1, // 1-indexing for human readability
+        chinese: word.word,
+        english: "",
+        pinyin: "",
+      });
+    }
+
+    levels.push(level);
+  }
+
+  return levels;
+}
+
+function selectDataset(
+  option: CompareOption,
+  hskWords: () => HskLevel[],
+  活着Words: () => HskLevel[],
+  subtlexWords: () => HskLevel[],
+): HskLevel[] {
+  if (option == CompareOption.HSK) {
+    return hskWords();
+  } else if (option == CompareOption.活着) {
+    return 活着Words();
+  } else {
+    return subtlexWords();
+  }
+}
+
 function Compare() {
   const options = [
     CompareOption.HSK,
@@ -44,17 +117,54 @@ function Compare() {
     CompareOption.Subtlex,
   ];
 
-  const [words] = createResource(Revision.NEW, getWordsTsv, {
+  const [hskWords] = createResource(Revision.NEW, getWordsTsv, {
     initialValue: [],
   });
-
+  const [活着Frequencies] = createResource(
+    CompareOption.活着,
+    getWordFrequenciesTsv,
+    {
+      initialValue: [],
+    },
+  );
+  const 活着Words = () =>
+    groupWordsByFrequencyBuckets(
+      活着Frequencies(),
+      optionLevels.get(CompareOption.活着)!,
+    );
+  const [subtlexFrequencies] = createResource(
+    CompareOption.Subtlex,
+    getWordFrequenciesTsv,
+    {
+      initialValue: [],
+    },
+  );
+  const subtlexWords = () =>
+    groupWordsByFrequencyBuckets(
+      subtlexFrequencies(),
+      optionLevels.get(CompareOption.Subtlex)!,
+    );
   const [optionA, setOptionA] = createSignal<CompareOption>(CompareOption.HSK);
   const [optionB, setOptionB] = createSignal<CompareOption>(CompareOption.HSK);
 
   const pairings = createMemo(() => {
-    const wordsA = groupWordsByLevel(words());
-    const wordsB = groupWordsByLevel(words());
-    return calculatePairings(wordsA, wordsB);
+    const wordsA = selectDataset(
+      optionA(),
+      () => groupWordsByLevel(hskWords()),
+      活着Words,
+      subtlexWords,
+    );
+    const wordsB = selectDataset(
+      optionB(),
+      () => groupWordsByLevel(hskWords()),
+      活着Words,
+      subtlexWords,
+    );
+    console.log(wordsA);
+    console.log(wordsB);
+    const res = calculatePairings(wordsA, wordsB);
+    console.log(res);
+    return res;
   });
 
   return (

@@ -18,7 +18,7 @@ const revisionOptions: MultibuttonOption<Revision>[] = [
 
 function LevelsSubnav() {
   return (
-    <nav class="sticky top-0 flex items-center justify-between bg-[#223F05] px-4 py-4 lg:px-32">
+    <nav class="flex items-center justify-between bg-white px-4 py-4 lg:px-32">
       {/* filter */}
       <div class="flex items-center gap-4">
         <div class="relative">

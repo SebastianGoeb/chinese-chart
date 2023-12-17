@@ -4,6 +4,7 @@ import { getWordsTsv, groupWordsByLevel } from "../../hsk/hsk";
 import { getFakeWordIntervals } from "../../hsk/pleco";
 import { revision } from "../../state/config";
 import Level from "./Level";
+import LevelsSubnav from "./LevelsSubnav";
 
 function mergeLevels(intervalMaps: Map<string, number>[]): Map<string, number> {
   const result = new Map<string, number>();
@@ -36,7 +37,8 @@ function Levels() {
 
   return (
     <>
-      <div class="mx-32">
+      <LevelsSubnav />
+      <div class="mx-4 lg:mx-32">
         <For each={levels()}>
           {(level) => <Level level={level} intervals={intervals()}></Level>}
         </For>

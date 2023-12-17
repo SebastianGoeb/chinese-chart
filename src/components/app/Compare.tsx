@@ -1,5 +1,6 @@
+import ArrowPath from "heroicons/24/outline/arrow-path.svg";
 import { differenceBy, intersectionBy } from "lodash";
-import { For, createMemo, createResource, createSignal } from "solid-js";
+import { For, batch, createMemo, createResource, createSignal } from "solid-js";
 import {
   HskLevel,
   HskWord,
@@ -178,19 +179,38 @@ function Compare() {
     return calculatePairings(wordsA, wordsB);
   });
 
+  const swapDatasets = () => {
+    batch(() => {
+      const a = optionA();
+      setOptionA(optionB());
+      setOptionB(a);
+    });
+  };
+
   return (
-    <div class="flex w-auto flex-col items-center px-16 py-4">
+    <div class="mx-2 my-4 flex w-auto flex-col items-stretch rounded-2xl border-[1px] border-lime-800 bg-white px-4 pb-16 pt-4 text-xs md:text-base lg:mx-32 lg:px-16">
+      {/* title */}
+      <h1 class="mb-4 text-2xl">Compare</h1>
+
       {/* selector */}
-      <div class="flex items-center gap-4">
-        Compare
+      <div class="flex w-full  items-center gap-4">
         <select
+          class="grow"
           onChange={(e) => setOptionA(e.target.value as any)}
           value={optionA()}
         >
           <For each={options}>{(option) => <option>{option}</option>}</For>
         </select>
-        To
+
+        <button
+          onClick={() => swapDatasets()}
+          class="rounded-full bg-lime-300 p-3 shadow-md hover:bg-lime-200 active:shadow-xl"
+        >
+          <img src={ArrowPath} class="h-5 w-5"></img>
+        </button>
+
         <select
+          class="grow"
           onChange={(e) => setOptionB(e.target.value as any)}
           value={optionB()}
         >
@@ -199,12 +219,12 @@ function Compare() {
       </div>
 
       {/* table */}
-      <table class="mt-4">
+      <table class="mt-4 w-full border">
         <thead>
           <tr>
             <th></th>
             <For each={[...optionLevels.get(optionB())!, null]}>
-              {(levelB) => <th>{levelB ?? "n/a"}</th>}
+              {(levelB) => <th class="py-2">{levelB ?? "n/a"}</th>}
             </For>
           </tr>
         </thead>
@@ -212,10 +232,10 @@ function Compare() {
           <For each={[...optionLevels.get(optionA())!, null]}>
             {(levelA) => (
               <tr>
-                <th class="px-4">{levelA ?? "n/a"}</th>
+                <th class="px-2 lg:px-4">{levelA ?? "n/a"}</th>
                 <For each={[...optionLevels.get(optionB())!, null]}>
                   {(levelB) => (
-                    <td class="border border-slate-700 px-4 py-1">
+                    <td class="border border-slate-700 px-2 py-1 lg:px-4">
                       {pairings().get(levelA + "-" + levelB)?.length}
                     </td>
                   )}

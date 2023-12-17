@@ -1,17 +1,4 @@
 import { A } from "@solidjs/router";
-import { Revision } from "../../hsk/hsk";
-import { MultibuttonOption } from "../library/Multibutton";
-
-const revisionOptions: MultibuttonOption<Revision>[] = [
-  {
-    displayName: "Old",
-    value: Revision.OLD,
-  },
-  {
-    displayName: "New",
-    value: Revision.NEW,
-  },
-];
 
 function Topnav() {
   return (

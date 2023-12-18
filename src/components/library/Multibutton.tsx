@@ -10,19 +10,18 @@ function Multibutton<T>(props: {
   value: T;
   onChange: (t: T) => void;
 }) {
-  // const [value, setValue] = props.signal;
   return (
-    <div class="rounded-md border-4 border-[#F6FEE6] bg-[#F6FEE6]">
+    <div class="flex divide-x divide-stone-500 border border-stone-500">
       <For each={props.options}>
         {(option) => (
           <button
+            class="px-4 py-2"
             classList={{
-              rounded: true,
-              "bg-[#BF0D00]": props.value == option.value,
-              "bg-[#F6FEE6]": props.value != option.value,
-              "px-4": true,
-              "py-2": true,
+              // on
+              "bg-rose-500": props.value == option.value,
               "text-white": props.value == option.value,
+              // off
+              "bg-white": props.value != option.value,
               "text-black": props.value != option.value,
             }}
             onClick={() => props.onChange(option.value)}

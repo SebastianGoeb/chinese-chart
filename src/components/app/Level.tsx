@@ -1,7 +1,7 @@
 import { sortBy } from "lodash";
 import murmur from "murmurhash3js";
 import { For, createMemo } from "solid-js";
-import { HskLevel } from "../../hsk/hsk";
+import { HskLevel } from "../../services/hsk";
 import { query } from "../../state/search";
 import Word from "./Word";
 
@@ -34,9 +34,8 @@ function Level(props: { level: HskLevel; intervals: Map<string, number> }) {
     );
   };
   return (
-    <div class="mb-12 mt-4 rounded-xl bg-white shadow-xl">
-      {/* w-fit rounded-ee-xl */}
-      <h2 class="rounded-t-xl border-b-[1px] border-stone-300 bg-white px-6 py-4 font-nunito text-2xl font-light">
+    <div class="mb-8 mt-4 border border-stone-500">
+      <h2 class="rounded-t-xl border-b border-stone-300 p-4 font-nunito text-2xl font-light">
         Level {props.level.level} - {numWordsSeen()} / {totalWords()} -
         {((numWordsSeen() / totalWords()) * 100).toFixed(0)}%
       </h2>

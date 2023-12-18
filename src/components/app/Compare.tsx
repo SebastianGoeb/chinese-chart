@@ -6,7 +6,7 @@ import {
   Revision,
   getWordsTsv,
   groupWordsByLevel,
-} from "../../hsk/hsk";
+} from "../../services/hsk";
 import {
   WordFrequencyBucket,
   bucketWordsByFrequency,

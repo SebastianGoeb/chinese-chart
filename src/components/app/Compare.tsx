@@ -18,7 +18,10 @@ enum CompareOption {
 const optionLevels = new Map<CompareOption, number[]>();
 optionLevels.set(CompareOption.HSK, [1, 2, 3, 4, 5, 6]);
 optionLevels.set(CompareOption.活着, [300, 1000, 2000, 3000, 5000, 10000]);
-optionLevels.set(CompareOption.Subtlex, [200, 500, 2000, 5000, Infinity]);
+optionLevels.set(
+  CompareOption.Subtlex,
+  [300, 1000, 3000, 10000, 30000, 100000],
+);
 
 function calculatePairings(levelsA: HskLevel[], levelsB: HskLevel[]) {
   const pairings = new Map<string, HskWord[]>();

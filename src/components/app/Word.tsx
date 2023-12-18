@@ -1,5 +1,5 @@
 import { createMemo } from "solid-js";
-import { HskWord } from "../../hsk/hsk";
+import { HskWord } from "../../services/hsk";
 import { zoom } from "../../state/config";
 
 function Word(props: { word: HskWord; intervals: Map<string, number> }) {

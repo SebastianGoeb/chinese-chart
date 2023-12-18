@@ -1,5 +1,5 @@
 import { createSignal } from "solid-js";
-import { Revision } from "../hsk/hsk";
+import { Revision } from "../services/hsk";
 
 export const [revision, setRevision] = createSignal<Revision>(Revision.NEW);
 

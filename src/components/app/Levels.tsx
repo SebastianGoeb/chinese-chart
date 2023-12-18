@@ -1,7 +1,7 @@
 import { For, createMemo, createResource } from "solid-js";
-import { getWordIntervals } from "../../hsk/anki";
-import { getWordsTsv, groupWordsByLevel } from "../../hsk/hsk";
-import { getFakeWordIntervals } from "../../hsk/pleco";
+import { getWordIntervals } from "../../services/anki";
+import { getWordsTsv, groupWordsByLevel } from "../../services/hsk";
+import { getFakeWordIntervals } from "../../services/pleco";
 import { revision } from "../../state/config";
 import Level from "./Level";
 import LevelsSubnav from "./LevelsSubnav";
@@ -38,7 +38,7 @@ function Levels() {
   return (
     <>
       <LevelsSubnav />
-      <div class="mx-4 lg:mx-32">
+      <div class="px-4 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
         <For each={levels()}>
           {(level) => <Level level={level} intervals={intervals()}></Level>}
         </For>

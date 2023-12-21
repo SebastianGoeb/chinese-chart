@@ -47,7 +47,7 @@ function Levels() {
       <Show when={openWord() !== undefined}>
         <div
           onClick={() => setOpenWord(undefined)}
-          class="absolute bottom-0 left-0 right-0 top-0 cursor-pointer bg-stone-500 opacity-50"
+          class="fixed bottom-0 left-0 right-0 top-0 cursor-pointer bg-stone-500 opacity-50"
         ></div>
       </Show>
     </>

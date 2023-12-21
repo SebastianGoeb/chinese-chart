@@ -1,8 +1,9 @@
-import { For, createMemo, createResource } from "solid-js";
+import { For, Show, createMemo, createResource } from "solid-js";
 import { getWordIntervals } from "../../services/anki";
 import { getWordsTsv, groupWordsByLevel } from "../../services/hsk";
 import { getFakeWordIntervals } from "../../services/pleco";
 import { revision } from "../../state/config";
+import { openWord, setOpenWord } from "../../state/levels";
 import Level from "./Level";
 import LevelsSubnav from "./LevelsSubnav";
 
@@ -43,6 +44,12 @@ function Levels() {
           {(level) => <Level level={level} intervals={intervals()}></Level>}
         </For>
       </div>
+      <Show when={openWord() !== undefined}>
+        <div
+          onClick={() => setOpenWord(undefined)}
+          class="fixed bottom-0 left-0 right-0 top-0 cursor-pointer bg-stone-500 opacity-50"
+        ></div>
+      </Show>
     </>
   );
 }

@@ -61,6 +61,14 @@ function Word(props: { word: HskWord; intervals: Map<string, number> }) {
         {/* popup */}
         <Show when={isOpen()}>
           <div class="fixed bottom-0 left-0 right-0 z-20 mt-2 h-48 items-stretch border border-stone-300 bg-white shadow-lg shadow-stone-500 lg:absolute lg:inset-auto lg:top-full">
+            <svg
+              viewBox="-40 0 40 10"
+              xmlns="http://www.w3.org/2000/svg"
+              class="absolute bottom-full left-0 h-2 w-20 fill-white stroke-stone-300"
+            >
+              <path d="M -40 10 C -10 10 -4 4 0 0 C 4 4 10 10 40 10" />
+            </svg>
+
             <div class="w-full border-b border-stone-300 p-2 font-semibold lg:w-[20ch]">
               {props.word.pinyin}
             </div>

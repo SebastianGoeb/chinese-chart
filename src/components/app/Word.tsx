@@ -60,9 +60,8 @@ function Word(props: { word: HskWord; intervals: Map<string, number> }) {
 
         {/* popup */}
         <Show when={isOpen()}>
-          {/* <div class="absolute top"></div> */}
-          <div class="absolute top-full z-20 mt-2 border border-stone-300 bg-white shadow-lg shadow-stone-500">
-            <div class="w-[20ch] border-b border-stone-300 p-2 font-semibold">
+          <div class="fixed bottom-0 left-0 right-0 z-20 mt-2 h-48 items-stretch border border-stone-300 bg-white shadow-lg shadow-stone-500 lg:absolute lg:inset-auto lg:top-full">
+            <div class="w-full border-b border-stone-300 p-2 font-semibold lg:w-[20ch]">
               {props.word.pinyin}
             </div>
             <div class="p-2">{props.word.english}</div>

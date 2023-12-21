@@ -1,6 +1,7 @@
-import { createMemo } from "solid-js";
+import { Show, createMemo } from "solid-js";
 import { HskWord } from "../../services/hsk";
 import { zoom } from "../../state/config";
+import { openWord, setOpenWord } from "../../state/levels";
 
 function Word(props: { word: HskWord; intervals: Map<string, number> }) {
   const chars = createMemo(() => props.word.chinese.length);
@@ -10,6 +11,21 @@ function Word(props: { word: HskWord; intervals: Map<string, number> }) {
     const ivl = props.intervals.get(props.word.chinese);
     return ivl !== undefined && ivl > 0;
   });
+
+  function isOpen() {
+    const { level, no } = props.word;
+    return level === openWord()?.level && no === openWord()?.no;
+  }
+
+  function togglePopup() {
+    if (isOpen()) {
+      setOpenWord(undefined);
+    } else {
+      const { level, no } = props.word;
+      setOpenWord({ level, no });
+    }
+  }
+
   return (
     <div
       style={{
@@ -24,22 +40,29 @@ function Word(props: { word: HskWord; intervals: Map<string, number> }) {
           "font-size": 1.5 * zoomFrac() + "rem",
           "border-width": pillBaseSizeRem() / 2 + "px",
         }}
+        class="le relative flex h-full w-full shrink-0 items-center justify-center rounded-full font-kaiti"
         classList={{
-          "font-kaiti": true,
-          "h-full": true,
-          "w-full": true,
-          flex: true,
-          "justify-center": true,
-          "items-center": true,
-          "shrink-0": true,
-          "rounded-full": true,
           "border-slate-400": !seen(),
           "bg-slate-300": !seen(),
+          "hover:bg-slate-200": !seen() && !isOpen(),
           "border-lime-700": seen(),
           "bg-lime-500": seen(),
+          "hover:bg-lime-400": seen() && !isOpen(),
+          "z-10": isOpen(),
         }}
       >
-        {props.word.chinese}
+        <span class="cursor-pointer" onClick={togglePopup}>
+          {props.word.chinese}
+        </span>
+        <Show when={isOpen()}>
+          {/* <div class="absolute top"></div> */}
+          <div class="absolute top-full z-20 mt-2 border border-stone-300 bg-white shadow-lg shadow-stone-500">
+            <div class="w-[20ch] border-b border-stone-300 p-2 font-semibold">
+              {props.word.pinyin}
+            </div>
+            <div class="p-2">{props.word.english}</div>
+          </div>
+        </Show>
       </div>
     </div>
   );

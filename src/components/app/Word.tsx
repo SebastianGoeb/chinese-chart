@@ -35,25 +35,30 @@ function Word(props: { word: HskWord; intervals: Map<string, number> }) {
           pillBaseSizeRem() + ((chars() - 1) * pillBaseSizeRem()) / 2 + "rem",
       }}
     >
-      <div
-        style={{
-          "font-size": 1.5 * zoomFrac() + "rem",
-          "border-width": pillBaseSizeRem() / 2 + "px",
-        }}
-        class="le relative flex h-full w-full shrink-0 items-center justify-center rounded-full font-kaiti"
-        classList={{
-          "border-slate-400": !seen(),
-          "bg-slate-300": !seen(),
-          "hover:bg-slate-200": !seen() && !isOpen(),
-          "border-lime-700": seen(),
-          "bg-lime-500": seen(),
-          "hover:bg-lime-400": seen() && !isOpen(),
-          "z-10": isOpen(),
-        }}
-      >
-        <span class="cursor-pointer" onClick={togglePopup}>
+      {/* container */}
+      <div class="relative h-full w-full">
+        {/* pill */}
+        <div
+          style={{
+            "font-size": 1.5 * zoomFrac() + "rem",
+            "border-width": pillBaseSizeRem() / 2 + "px",
+          }}
+          class="flex h-full w-full shrink-0 cursor-pointer items-center justify-center rounded-full font-kaiti"
+          classList={{
+            "border-slate-400": !seen(),
+            "bg-slate-300": !seen(),
+            "hover:bg-slate-200": !seen() && !isOpen(),
+            "border-lime-700": seen(),
+            "bg-lime-500": seen(),
+            "hover:bg-lime-400": seen() && !isOpen(),
+            "z-10": isOpen(),
+          }}
+          onClick={togglePopup}
+        >
           {props.word.chinese}
-        </span>
+        </div>
+
+        {/* popup */}
         <Show when={isOpen()}>
           {/* <div class="absolute top"></div> */}
           <div class="absolute top-full z-20 mt-2 border border-stone-300 bg-white shadow-lg shadow-stone-500">

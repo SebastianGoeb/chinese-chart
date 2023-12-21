@@ -64,7 +64,7 @@ function Word(props: { word: HskWord; intervals: Map<string, number> }) {
             <svg
               viewBox="-40 0 40 10"
               xmlns="http://www.w3.org/2000/svg"
-              class="absolute bottom-full left-0 h-[10px] w-[90px] fill-white stroke-stone-300"
+              class="absolute bottom-full left-0 hidden h-[10px] w-[90px] fill-white stroke-stone-300 lg:block"
             >
               <path d="M -40 10 C -10 10 -4 4 0 0 C 4 4 10 10 40 10" />
             </svg>

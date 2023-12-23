@@ -38,12 +38,15 @@ function Levels() {
 
   return (
     <>
-      <LevelsSubnav />
-      <div class="px-4 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
+      <div class="mb-32 mt-16 px-4 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
         <For each={levels()}>
           {(level) => <Level level={level} intervals={intervals()}></Level>}
         </For>
       </div>
+
+      <LevelsSubnav />
+
+      {/* overlay */}
       <Show when={openWord() !== undefined}>
         <div
           onClick={() => setOpenWord(undefined)}

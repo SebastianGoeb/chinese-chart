@@ -18,11 +18,21 @@ const options: MultibuttonOption<number>[] = [
 
 function Zoomer() {
   return (
-    <Multibutton
-      options={options}
-      value={zoom()}
-      onChange={(value) => setZoom(value)}
-    ></Multibutton>
+    <div class="flex">
+      <Multibutton
+        options={options}
+        value={zoom()}
+        onChange={(value) => setZoom(value)}
+      ></Multibutton>
+
+      {/* exact zoom */}
+      <input
+        type="number"
+        class="w-20 border-l-0"
+        onchange={(e) => setZoom(Number(e.target.value))}
+        value={zoom()}
+      ></input>
+    </div>
   );
 }
 

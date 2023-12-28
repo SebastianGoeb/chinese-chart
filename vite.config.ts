@@ -1,3 +1,5 @@
+/// <reference types="vitest" />
+
 import { defineConfig } from "vite";
 import { VitePWA } from "vite-plugin-pwa";
 import solid from "vite-plugin-solid";
@@ -16,4 +18,9 @@ export default defineConfig({
       },
     }),
   ],
+  test: {
+    setupFiles: ["./vitest-setup.ts"],
+    environment: "jsdom",
+    globals: true,
+  },
 });

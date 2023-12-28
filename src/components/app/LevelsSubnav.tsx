@@ -69,7 +69,7 @@ function LevelsSubnav() {
         </div>
       </Show>
 
-      <nav class="flex border-t border-stone-500 bg-lime-100 px-4 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
+      <nav class="flex border-t border-stone-500 bg-lime-100 px-4 pb-8 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
         {/* filter */}
 
         <div class="flex w-full items-center justify-around">

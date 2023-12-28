@@ -51,7 +51,7 @@ function Word(props: { word: HskWord; intervals: Map<string, number> }) {
             "border-lime-700": seen(),
             "bg-lime-500": seen(),
             "hover:bg-lime-400": seen() && !isOpen(),
-            "z-10": isOpen(),
+            "z-20": isOpen(),
           }}
           onClick={togglePopup}
         >

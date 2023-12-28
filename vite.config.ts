@@ -22,6 +22,5 @@ export default defineConfig({
     setupFiles: ["./vitest-setup.ts"],
     environment: "jsdom",
     globals: true,
-    // testTransformMode: { web: ["/\\.[jt]sx?$/"] },
   },
 });

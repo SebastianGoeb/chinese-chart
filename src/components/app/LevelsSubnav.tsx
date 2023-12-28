@@ -1,6 +1,8 @@
+import magnifyingGlass from "heroicons/24/outline/magnifying-glass.svg";
 import { Show, createSignal } from "solid-js";
 import { Revision } from "../../services/hsk";
 import { revision, setRevision } from "../../state/config";
+import { setQuery } from "../../state/search";
 import Multibutton, { MultibuttonOption } from "../library/Multibutton";
 import Zoomer from "./Zoomer";
 
@@ -15,46 +17,68 @@ const revisionOptions: MultibuttonOption<Revision>[] = [
   },
 ];
 
+enum Menu {
+  FILTER,
+  SETTINGS,
+}
+
 function LevelsSubnav() {
-  const [settingsOpen, setSettingsOpen] = createSignal(true);
+  const [openMenu, setOpenMenu] = createSignal<Menu | undefined>(undefined);
   return (
-    <div class="fixed bottom-0 left-0 right-0">
-      <Show when={settingsOpen()}>
+    <div class="fixed bottom-0 left-0 right-0 z-20">
+      <Show when={openMenu() === Menu.FILTER}>
         <div class="border-t border-stone-500 bg-white">
-          <div class="flex flex-col items-start gap-4 px-4 py-4 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
-            <h2>Settings</h2>
-            <div class="grid grid-cols-2 gap-4">
-              Zoom
-              <Zoomer></Zoomer>
-              HSK
-              <Multibutton
-                options={revisionOptions}
-                value={revision()}
-                onChange={(value) => setRevision(value)}
-              ></Multibutton>
+          <div class="flex flex-col items-stretch gap-4 px-4 py-4 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
+            <h2 class="text-lg font-semibold">Filter</h2>
+            <div class="relative grow">
+              <div class="pointer-events-none absolute inset-y-0 left-0 ml-3 flex items-center">
+                <img
+                  src={magnifyingGlass}
+                  alt="magnifying glass"
+                  class="h-5 w-5"
+                ></img>
+              </div>
+              <input
+                class="block w-full pl-10"
+                onInput={(e) => setQuery(e.target.value)}
+              ></input>
             </div>
           </div>
         </div>
       </Show>
 
-      <nav class="flex border-t border-stone-500 bg-lime-100 px-4 py-2 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
-        {/* filter */}
-        {/* <div class="relative grow">
-        <div class="pointer-events-none absolute inset-y-0 right-0 mr-3 flex items-center">
-        <img
-        src={magnifyingGlass}
-        alt="magnifying glass"
-        class="h-5 w-5"
-        ></img>
+      <Show when={openMenu() === Menu.SETTINGS}>
+        <div class="border-t border-stone-500 bg-white">
+          <div class="flex flex-col items-start gap-2 px-4 py-4 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
+            <h2 class="text-lg font-semibold">Settings</h2>
+            <div class="grid grid-cols-3 justify-items-start gap-4">
+              Zoom
+              <div class="col-span-2">
+                <Zoomer></Zoomer>
+              </div>
+              HSK
+              <div class="col-span-2">
+                <Multibutton
+                  options={revisionOptions}
+                  value={revision()}
+                  onChange={(value) => setRevision(value)}
+                ></Multibutton>
+              </div>
+            </div>
+          </div>
         </div>
-        <input
-        class="block w-full"
-        onInput={(e) => setQuery(e.target.value)}
-        ></input>
-      </div> */}
+      </Show>
+
+      <nav class="flex border-t border-stone-500 bg-lime-100 px-4 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
+        {/* filter */}
 
         <div class="flex w-full items-center justify-around">
-          <button>
+          <button
+            class="px-8 py-2"
+            onClick={() =>
+              setOpenMenu(openMenu() !== Menu.FILTER ? Menu.FILTER : undefined)
+            }
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -71,7 +95,14 @@ function LevelsSubnav() {
             </svg>
           </button>
 
-          <button onClick={() => setSettingsOpen(!settingsOpen())}>
+          <button
+            class="px-8 py-2"
+            onClick={() =>
+              setOpenMenu(
+                openMenu() !== Menu.SETTINGS ? Menu.SETTINGS : undefined,
+              )
+            }
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"

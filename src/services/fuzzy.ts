@@ -5,7 +5,7 @@
  * @param text
  * @returns whether the text contains the pattern, possibly with other characters interleaved
  */
-export function fuzzyContains(query: string, text: string): boolean {
+export function fuzzyContains(text: string, query: string): boolean {
   let previousMatchingIndex = 0;
   for (let i = 0; i < query.length; i++) {
     const queryChar = query[i];

@@ -1,6 +1,7 @@
 import { sortBy } from "lodash";
 import murmur from "murmurhash3js";
 import { For, createMemo } from "solid-js";
+import { fuzzyContainsWithScoring as fuzzyContainsScored } from "../../services/fuzzy";
 import { HskLevel } from "../../services/hsk";
 import { query } from "../../state/search";
 import Word from "./Word";
@@ -21,16 +22,16 @@ function Level(props: { level: HskLevel; intervals: Map<string, number> }) {
     sortBy(props.level.words, (w) => murmur.x64.hash128(w.chinese)),
   );
   const wordsFiltered = () => {
-    const q = removeAccents(query().trim());
-    if (q === "") {
+    const queryNormalized = removeAccents(query().trim());
+    if (queryNormalized === "") {
       return wordsShuffled();
     }
 
     return wordsShuffled().filter(
       (word) =>
-        word.chinese.includes(q) ||
-        word.english.includes(q) ||
-        removeAccents(word.pinyin).includes(q),
+        fuzzyContainsScored(word.chinese, queryNormalized) > 0.5 ||
+        fuzzyContainsScored(word.english, queryNormalized) > 0.5 ||
+        fuzzyContainsScored(removeAccents(word.pinyin), queryNormalized) > 0.5,
     );
   };
   return (

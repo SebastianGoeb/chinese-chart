@@ -1,5 +1,4 @@
 import { render } from "@solidjs/testing-library";
-import "@testing-library/jest-dom";
 import { describe, expect, it } from "vitest";
 import Zoomer from "./Zoomer";
 

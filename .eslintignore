@@ -1,2 +1,5 @@
 dist
 dev-dist
+
+# CommonJS config files aren't so important
+tailwind.config.js

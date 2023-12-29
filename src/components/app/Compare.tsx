@@ -134,7 +134,7 @@ function Compare() {
       <div class="flex w-full items-center gap-4">
         <select
           class="grow"
-          onChange={(e) => setOptionA(e.target.value as any)}
+          onChange={(e) => setOptionA(e.target.value)}
           value={optionA()}
         >
           <For each={datasetDescriptors}>
@@ -153,7 +153,7 @@ function Compare() {
 
         <select
           class="grow"
-          onChange={(e) => setOptionB(e.target.value as any)}
+          onChange={(e) => setOptionB(e.target.value)}
           value={optionB()}
         >
           <For each={datasetDescriptors}>

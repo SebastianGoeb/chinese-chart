@@ -6,12 +6,12 @@
  * @returns whether the text contains the pattern, possibly with other characters interleaved
  */
 export function fuzzyContains(text: string, query: string): boolean {
-  let previousMatchingIndex = 0;
+  let previousMatchingIndex = -1;
   for (let i = 0; i < query.length; i++) {
     const queryChar = query[i];
 
     // find leftmost match in remaining text
-    const matchingIndex = text.indexOf(queryChar, previousMatchingIndex);
+    const matchingIndex = text.indexOf(queryChar, previousMatchingIndex + 1);
     if (matchingIndex === -1) {
       return false;
     }
@@ -26,15 +26,17 @@ export function fuzzyContains(text: string, query: string): boolean {
 export function fuzzyContainsWithScoring(text: string, query: string): number {
   let firstMatchingIndex = 0;
   let lastMatchingIndex = 0;
-  let previousMatchingIndex = 0;
+  let previousMatchingIndex = -1;
   for (let i = 0; i < query.length; i++) {
     const queryChar = query[i];
 
     // find leftmost match in remaining text
-    const matchingIndex = text.indexOf(queryChar, previousMatchingIndex);
+    const matchingIndex = text.indexOf(queryChar, previousMatchingIndex + 1);
     if (matchingIndex === -1) {
       return 0;
     }
+
+    console.log("matched", queryChar, matchingIndex);
 
     // only consider remaining text for future characters
     previousMatchingIndex = matchingIndex;
@@ -51,5 +53,6 @@ export function fuzzyContainsWithScoring(text: string, query: string): number {
   // exact substring match should be score 1
   // more unmatched interleaved chars mean a lower score
   const matchedChars = lastMatchingIndex - firstMatchingIndex + 1;
+  console.log(matchedChars);
   return query.length / matchedChars;
 }

@@ -1,4 +1,4 @@
-import { describe, expect } from "vitest";
+import { describe, expect, it } from "vitest";
 import { fuzzyContains, fuzzyContainsWithScoring } from "./fuzzy";
 
 describe("fuzzyContains", () => {
@@ -17,6 +17,10 @@ describe("fuzzyContains", () => {
   it("should reject out-of-order fuzzy match", () => {
     expect(fuzzyContains("bleach", "el")).toBe(false);
   });
+
+  it("should reject repeat chars", () => {
+    expect(fuzzyContains("bla", "baaaaa")).toBe(false);
+  });
 });
 
 describe("fuzzyContainsScored", () => {
@@ -34,5 +38,9 @@ describe("fuzzyContainsScored", () => {
 
   it("should reject out-of-order fuzzy match", () => {
     expect(fuzzyContainsWithScoring("bleach", "el")).toBe(0);
+  });
+
+  it("should reject repeat chars", () => {
+    expect(fuzzyContainsWithScoring("bla", "baaaaa")).toBe(0);
   });
 });

@@ -25,11 +25,14 @@ jobs:
       - name: Install NPM Dependencies
         run: npm ci
 
+      - name: Test
+        run: npm test
+
       - name: Check Formatting
         run: npm run format:check
 
-      - name: Test
-        run: npm test
+      - name: Lint
+        run: npm run lint
 
       - name: Build
         run: npm run build

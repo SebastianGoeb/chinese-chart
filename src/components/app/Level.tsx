@@ -22,16 +22,21 @@ function Level(props: { level: HskLevel; intervals: Map<string, number> }) {
     sortBy(props.level.words, (w) => murmur.x64.hash128(w.chinese)),
   );
   const wordsFiltered = () => {
-    const queryNormalized = removeAccents(query().trim());
+    const queryNormalized = removeAccents(query().trim()).toLowerCase();
     if (queryNormalized === "") {
       return wordsShuffled();
     }
 
     return wordsShuffled().filter(
       (word) =>
-        fuzzyContainsScored(word.chinese, queryNormalized) > 0.5 ||
-        fuzzyContainsScored(word.english, queryNormalized) > 0.5 ||
-        fuzzyContainsScored(removeAccents(word.pinyin), queryNormalized) > 0.5,
+        fuzzyContainsScored(word.chinese.toLowerCase(), queryNormalized) >
+          0.5 ||
+        fuzzyContainsScored(word.english.toLowerCase(), queryNormalized) >
+          0.5 ||
+        fuzzyContainsScored(
+          removeAccents(word.pinyin.toLowerCase()),
+          queryNormalized,
+        ) > 0.5,
     );
   };
   return (

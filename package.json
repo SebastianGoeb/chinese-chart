@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc && vite build && cp dist/index.html dist/404.html",
     "preview": "vite preview",
+    "format": "prettier --write .",
     "format:check": "prettier --check .",
+    "lint": "eslint .",
     "test": "vitest"
   },
   "dependencies": {
@@ -23,7 +25,10 @@
     "@testing-library/jest-dom": "^6.1.6",
     "@types/lodash": "^4.14.202",
     "@types/murmurhash3js": "^3.0.7",
+    "@typescript-eslint/eslint-plugin": "^6.16.0",
+    "@typescript-eslint/parser": "^6.16.0",
     "autoprefixer": "^10.4.16",
+    "eslint": "^8.56.0",
     "jsdom": "^23.0.1",
     "murmurhash3js": "^3.0.1",
     "postcss": "^8.4.31",

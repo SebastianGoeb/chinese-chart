@@ -3,3 +3,5 @@ dev-dist
 
 # CommonJS config files aren't so important
 tailwind.config.js
+postcss.config.js
+vite.config.js

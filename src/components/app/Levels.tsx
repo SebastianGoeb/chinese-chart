@@ -1,4 +1,13 @@
-import { For, Show, createMemo, createResource } from "solid-js";
+import { useParams } from "@solidjs/router";
+import {
+  For,
+  JSX,
+  Show,
+  createEffect,
+  createMemo,
+  createResource,
+  createSignal,
+} from "solid-js";
 import { getWordIntervals } from "../../services/anki";
 import { getWordsTsv, groupWordsByLevel } from "../../services/hsk";
 import { getFakeWordIntervals } from "../../services/pleco";
@@ -36,11 +45,30 @@ function Levels() {
 
   const levels = createMemo(() => groupWordsByLevel(words()));
 
+  // initial scroll logic
+  const levelElements = new Map<number, JSX.Element>();
+  const params = useParams();
+  const [initialScrollComplete, setInitialScrollComplete] = createSignal(false);
+  createEffect(() => {
+    if (words().length > 0 && !initialScrollComplete()) {
+      document.querySelector(`#level-${params.level}`)?.scrollIntoView();
+      setInitialScrollComplete(true);
+    }
+  });
+
   return (
     <>
-      <div class="mb-32 mt-16 px-4 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
+      <div class="mb-32 px-4 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
         <For each={levels()}>
-          {(level) => <Level level={level} intervals={intervals()}></Level>}
+          {(level) => {
+            const div = (
+              <div>
+                <Level level={level} intervals={intervals()}></Level>
+              </div>
+            );
+            levelElements.set(level.level, div);
+            return div;
+          }}
         </For>
       </div>
 

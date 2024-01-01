@@ -18,7 +18,7 @@ export enum Revision {
 
 export async function getWordsTsv(revision: Revision): Promise<HskWord[]> {
   const prefix = revision === Revision.NEW ? "new" : "old";
-  const res = await fetch(`${prefix}_hsk.tsv`);
+  const res = await fetch(`/chinese-chart/${prefix}_hsk.tsv`);
   return wordsTsvToJson(await res.text());
 }
 

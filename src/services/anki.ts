@@ -3,7 +3,7 @@ import { Revision } from "./hsk";
 export async function getWordIntervals(
   _revision: Revision,
 ): Promise<Map<string, number>> {
-  const res = await fetch("new_hsk_anki_notes.tsv");
+  const res = await fetch("/chinese-chart/new_hsk_anki_notes.tsv");
   const text = await res.text();
   const map = new Map<string, number>();
   text.split("\n").forEach((line) => {

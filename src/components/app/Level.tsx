@@ -41,10 +41,7 @@ function Level(props: { level: HskLevel; intervals: Map<string, number> }) {
   };
   return (
     <div class="relative mb-8 mt-4 border border-stone-500">
-      <h2
-        id={`level-${props.level.level}`}
-        class="sticky top-11 z-10 border-b border-stone-500 bg-white p-4 font-nunito text-2xl font-light"
-      >
+      <h2 class="sticky top-11 z-10 border-b border-stone-500 bg-white p-4 font-nunito text-2xl font-light">
         Level {props.level.level} - {numWordsSeen()} / {totalWords()} -
         {((numWordsSeen() / totalWords()) * 100).toFixed(0)}%
       </h2>

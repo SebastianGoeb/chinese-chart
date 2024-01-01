@@ -5,7 +5,7 @@ function Words() {
   return (
     <div class="min-h-screen">
       <h1 class="w-full py-6 text-center text-6xl font-light">New HSK</h1>
-      <div class="grid grid-cols-2 gap-4 p-2 md:grid-cols-6 lg:grid-cols-8">
+      <div class="grid grid-cols-2 gap-4 p-2 md:grid-cols-3">
         <For each={[1, 2, 3, 4, 5, 6]}>
           {(level) => (
             <A

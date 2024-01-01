@@ -46,7 +46,7 @@ function Level(props: { level: HskLevel; intervals: Map<string, number> }) {
         {((numWordsSeen() / totalWords()) * 100).toFixed(0)}%
       </h2>
 
-      <div class="flex flex-wrap p-4">
+      <div class="grid grid-cols-4 p-2 md:grid-cols-6 lg:grid-cols-8">
         <For each={wordsFiltered()}>
           {(word) => <Word word={word} intervals={props.intervals}></Word>}
         </For>

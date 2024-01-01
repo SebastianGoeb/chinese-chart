@@ -3,7 +3,7 @@ import Topnav from "./Topnav";
 
 const App: ParentComponent = (props) => {
   return (
-    <div>
+    <div class="pt-10">
       <Topnav></Topnav>
       {props.children}
     </div>

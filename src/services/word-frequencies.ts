@@ -8,7 +8,7 @@ export interface WordFrequency {
 export async function getWordFrequencies(
   dataset: string,
 ): Promise<WordFrequency[]> {
-  const res = await fetch(`word-frequencies/${dataset}.tsv`);
+  const res = await fetch(`/chinese-chart/word-frequencies/${dataset}.tsv`);
   return parseWordFrequenciesTsv(await res.text());
 }
 

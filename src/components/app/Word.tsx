@@ -46,8 +46,8 @@ function Word(props: { word: HskWord; intervals: Map<string, number> }) {
           "border-slate-200": !seen(),
           "bg-slate-100": !seen(),
           "bg-slate-200": seen(),
-          "hover:bg-slate-200": !seen() && !isOpen(),
           "border-slate-500": seen(),
+          "hover:bg-slate-200": !seen() && !isOpen(),
           "hover:bg-slate-300": seen() && !isOpen(),
           "z-20": isOpen(),
         }}

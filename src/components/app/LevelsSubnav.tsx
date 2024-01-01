@@ -4,7 +4,6 @@ import { Revision } from "../../services/hsk";
 import { revision, setRevision } from "../../state/config";
 import { setQuery } from "../../state/search";
 import Multibutton, { MultibuttonOption } from "../library/Multibutton";
-import Zoomer from "./Zoomer";
 
 const revisionOptions: MultibuttonOption<Revision>[] = [
   {
@@ -52,10 +51,6 @@ function LevelsSubnav() {
           <div class="flex flex-col items-start gap-2 px-4 py-4 md:px-16 lg:px-32 xl:px-64 2xl:px-64">
             <h2 class="text-lg font-semibold">Settings</h2>
             <div class="grid grid-cols-3 justify-items-start gap-4">
-              Zoom
-              <div class="col-span-2">
-                <Zoomer></Zoomer>
-              </div>
               HSK
               <div class="col-span-2">
                 <Multibutton

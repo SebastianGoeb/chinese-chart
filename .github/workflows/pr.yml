@@ -31,7 +31,7 @@ jobs:
         run: npm run build
 
       - name: Dry-Run GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4.6.9
+        uses: JamesIves/github-pages-deploy-action@v4.7.1
         with:
           folder: dist
           dry-run: true

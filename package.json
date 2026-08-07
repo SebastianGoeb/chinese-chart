@@ -22,7 +22,7 @@
     "@solidjs/testing-library": "^0.8.5",
     "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/typography": "^0.5.10",
-    "@testing-library/jest-dom": "^6.1.6",
+    "@testing-library/jest-dom": "^7.0.0",
     "@types/lodash": "^4.14.202",
     "@types/murmurhash3js": "^3.0.7",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
